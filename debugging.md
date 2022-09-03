@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Debugging
+title: 🐞 Debugging
 description: Pointers on how to solve common technical issues.
 nav_order: 5
 ---
 
-# Debugging 🐞
+# 🐞 Debugging
 {:.no_toc}
 
 ## Table of contents

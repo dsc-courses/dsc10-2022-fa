@@ -1,16 +1,12 @@
 ---
 layout: page
-title: Syllabus
+title: 📖 Syllabus
 description: >-
   Course policies and information.
 nav_order: 2
 ---
 
-[campuswire]: {{ site.aux_links.Campuswire }}
-[gradescope]: {{ site.aux_links.Gradescope }}
-[datahub]: {{ site.aux_links.DataHub }}
-
-# Syllabus 📖
+# 📖 Syllabus
 {:.no_toc}
 
 ## Table of contents

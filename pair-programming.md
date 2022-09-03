@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Pair Programming
+title: 👯 Pair Programming Guidelines
 description: >-
     Information about the practice of pair programming.
 nav_exclude: true
 ---
 
-# Pair Programming Guidelines 👯
+# 👯 Pair Programming Guidelines
 {:.no_toc}
 
 ## Table of contents

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Calendar
+title: 📆 Calendar
 description: Google Calendar containing all course events.
 nav_order: 3
 ---
 
-# Calendar 📆
+# 📆 Calendar 
 
 In-person office hours (<span style="color:purple">shown in purple</span>) are
 held on the second floor of the east wing of the San Diego Supercomputer Center
