@@ -12,13 +12,11 @@ held on the second floor of the east wing of the San Diego Supercomputer Center
 ([map](https://g.page/SDSC_UCSanDiego?share)). Enter SDSC from the main
 entrance on Hopkins Drive, take the elevator up to the second floor, turn left
 at the kitchen, and meet in the common area. You may need a code to access
-SDSC---[see Campuswire][campuswire].
-
-[campuswire]: https://campuswire.com/c/G976883B0/feed/13
+SDSC – [see EdStem](TODO).
 
 To join remote office hours (<span style="color:orange">shown in
 orange</span>), click the button below.
 
-[Zoom Link](https://ucsd.zoom.us/j/95505970197?pwd=ak1JNWFvZi8vajV0OHRaVW5EcFpYUT09){: .btn .btn-blue }
+[Zoom Link](TODO){: .btn .btn-blue }
 
-TODO
+<iframe src="https://calendar.google.com/calendar/embed?height=700&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showPrint=0&showTabs=0&showCalendars=0&mode=WEEK&src=Y19nNHNxMDBlZGF1dWNxMnRiNjFtZnA3Ym80NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18yaTNrZ2dsdDk4dW90bnVscmpwcDRqOWxsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y192ZnYxZGFncGx1ZW1hb2ltOGwzaDBvZzNuOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA&color=%234285F4&color=%23F09300" style="border:solid 1px #777" width="900" height="600" frameborder="0" scrolling="no"></iframe>

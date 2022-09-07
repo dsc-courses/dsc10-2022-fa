@@ -9,6 +9,13 @@ nav_order: 2
 # 📖 Syllabus
 {:.no_toc}
 
+---
+
+<b style='color: red'> This site is under construction. All information here is subject to change until this warning is removed.</b>
+
+---
+
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -17,7 +24,7 @@ nav_order: 2
 
 ---
 
-## About 🧐
+## 🧐 About
 
 Welcome to DSC 10 at UC San Diego! This course aims to teach you how to draw
 conclusions about data. We will learn how to explore data and make predictions
@@ -35,7 +42,7 @@ its specific content.
 
 ---
 
-## Course Meetings 👨‍🏫
+## 👨‍🏫 Course Meetings
 
 ### Lecture
 
@@ -90,7 +97,7 @@ Your primary motivation when interacting with course staff should be
 
 ---
 
-## Getting Started 🚦
+## 🚦 Getting Started
 
 ### Technology
 
@@ -130,7 +137,7 @@ Note that we will not be using Canvas this quarter.
 
 ---
 
-## Communication 💬
+## 💬 Communication
 
 This quarter, we’ll be using Campuswire as our course message board.
 
@@ -152,7 +159,7 @@ communication in one place.
 
 ---
 
-## Readings 📕
+## 📕 Readings
 
 Our readings will come from two free online sources.
 
@@ -165,7 +172,7 @@ Our readings will come from two free online sources.
 
 ---
 
-## Assignments 🧪
+## 🧪 Assignments
 
 ### Lab Assignments
 
@@ -317,7 +324,7 @@ day if we have to resubmit for you.
 
 ---
 
-## Exams 📝
+## 📝 Exams
 
 This class has one midterm exam and one final exam. Exams are cumulative,
 though the final exam will emphasize material after the midterm.
@@ -332,7 +339,7 @@ two finals scheduled for the same time slot.
 
 ---
 
-## Weekly Schedule 📆
+## 📆 Weekly Schedule
 
 To summarize all of the events and deadlines, refer to this general weekly
 schedule (which is subject to change in any given week):
@@ -343,7 +350,7 @@ schedule (which is subject to change in any given week):
 
 ---
 
-## Grades 💯
+## 💯 Grades
 
 The table below shows how your mastery of class material will be assessed and
 how grades will be computed:
@@ -383,7 +390,7 @@ can figure out a plan.
 
 ---
 
-## Collaboration Policy and Academic Integrity 🤝
+## 🤝 Collaboration Policy and Academic Integrity
 
 The basic rule for DSC 10 is: Work hard. Make use of the expertise of the staff
 to learn what you need to know to really do well in the course. Act with
@@ -469,7 +476,7 @@ Here are some suggestions for completing your work:
 
 ---
 
-## Support 🤗
+## 🤗 Support
 
 ### Accomodations
 
@@ -504,7 +511,7 @@ respected and feels comfortable.
 
 ---
 
-## Waitlist FAQs 🙋
+## 🙋 Waitlist FAQs
 
 **I am on the waitlist, so how can I keep up with the course?**
 
@@ -533,10 +540,10 @@ status.
 
 ---
 
-## Acknowledgements 🙏
+## 🙏 Acknowledgements
 
 This offering builds off of earlier offerings of DSC 10 by Janine Tiefenbruck,
-Suraj Rampure, Justin Eldrige, Mikio Aoi, Colin Jemmott, Robert Twomey, Aaron
+Suraj Rampure, Justin Eldridge, Sam Lau, Mikio Aoi, Colin Jemmott, Robert Twomey, Aaron
 Fraenkel, and Marina Langlois.
 
 ---

@@ -34,6 +34,8 @@ aux_links:
     - 'https://datahub.ucsd.edu'
   Gradescope:
     - '#'
+  Practice:
+    - 'https://practice.dsc10.com/'
 footer_content:
 
 # Collections for website data
