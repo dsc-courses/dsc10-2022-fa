@@ -14,18 +14,14 @@
       <div class="staffer-pronouns"><b>{{ page.pronouns }}</b></div>
       {% endif %}
     </h3>
+    <p>
     {% if page.type %}
     {{ page.type }} •
     {% endif %}
     {% if page.email %}
     <a href="mailto:{{ page.email }}">{{ page.email }}</a>
     {% endif %}
-    {% if page.section %}
-    <p class="staffer-meta">Quiz Section: {{ page.section | markdownify | strip_html }}</p>
-    {% endif %}
-    {% if page.office-hours %}
-    <p class="staffer-meta">Office Hours: {{ page.office-hours | markdownify | strip_html }}</p>
-    {% endif %}
+    </p>
     {{ content }}
   </div>
 </div>

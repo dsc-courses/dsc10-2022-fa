@@ -9,8 +9,8 @@ import sys
 import numpy as np
 
 # Edit these variables before running script
-CSV_PATH = "calendar - for su22 website.csv"
-DATE_FORMAT = "MONTH/DAY/YEAR"
+CSV_PATH = "Lecture Schedule – DSC 10, Fall 2022 - fa22.csv"
+DATE_FORMAT = "DATE MONTH/DAY"
 YEAR = 2022
 
 
@@ -127,11 +127,11 @@ def write_week(i, dest="../_modules", write=True):
             if lab:
                 lab_num, lab_name = lab.split(". ")
                 outstr += f"""
-          "**Lab {lab_num}**{{: .label .label-lab }} **{lab_name}**":"""
+          "**Lab {lab_num}**{{: .label .label-lab }} **{lab_name.strip()}**":"""
 
             elif "Exam" in lecture:
                 outstr += f"""
-          "**Exam**{{: .label .label-exam }} **{lecture}**":"""
+          "**Exam**{{: .label .label-exam }} **{lecture.strip()}**":"""
             elif lecture:  # we reach this when we have holidays, like July 4
                 outstr += f"""
           "{lecture}":"""
@@ -139,16 +139,16 @@ def write_week(i, dest="../_modules", write=True):
         if homework:
             if "Project" in homework:
                 outstr += f"""
-          "**PROJ**{{: .label .label-proj }} **{homework}**":"""
+          "**PROJ**{{: .label .label-proj }} **{homework.strip()}**":"""
             else:
                 hw_num, hw_name = homework.split(". ", 1)
                 outstr += f"""
-          "**HW {hw_num}**{{: .label .label-hw }} **{hw_name}**":"""
+          "**HW {hw_num}**{{: .label .label-hw }} **{hw_name.strip()}**":"""
 
         if discussion:
             disc_num, disc_name = discussion.split(". ", 1)
             outstr += f"""
-          "**DIS {disc_num}**{{: .label .label-disc }} {disc_name}":"""
+          "**DIS {disc_num}**{{: .label .label-disc }} {disc_name.strip()}":"""
 
     outstr += "\n---"
 
