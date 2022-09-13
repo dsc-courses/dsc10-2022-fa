@@ -29,11 +29,11 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   EdStem:
-    - '#'
+    - 'https://edstem.org/us/courses/29053'
   DataHub:
     - 'https://datahub.ucsd.edu'
   Gradescope:
-    - '#'
+    - 'https://www.gradescope.com/courses/443300'
   Practice:
     - 'https://practice.dsc10.com/'
 footer_content:
