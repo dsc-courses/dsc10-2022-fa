@@ -75,16 +75,31 @@ This can happen if you click the name of a course other than DSC 10 when logging
 
 ### Other errors
 
-It can be difficult to decipher the meaning of error messages in Python. [Here is a useful guide](https://swcarpentry.github.io/python-novice-inflammation/07-errors/index.html). You can also ask in office hours, or on Campuswire, provided you are not posting your code publicly or otherwise giving away the answer in your post. Understanding cryptic error messages is a skill that comes with experience.
+It can be difficult to decipher the meaning of error messages in Python. [Here is a useful guide](https://swcarpentry.github.io/python-novice-inflammation/07-errors/index.html). You can also ask in office hours, or on EdStem, provided you are not posting your code publicly or otherwise giving away the answer in your post. Understanding cryptic error messages is a skill that comes with experience.
 
 ## DataHub
 
-### When I click an assignment link on the course website, I see a black screen with a bunch of text. What should I do?
+### When I click a link on the course website, I see a black screen with text and a red error bar. What should I do?
 
-This is usually what's called a "merge conflict", which means that DataHub wasn't able to combine the versions of the assignments we released with the versions you worked on. This should only happen in rare circumstances. There's a fix that prevents you from losing any of your work:
+This is usually what's called a "merge conflict", which means that DataHub wasn't able to combine the versions of the assignments we released with the versions you worked on. This should only happen in rare circumstances.
 
-1. Go directly to DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)). After opening DataHub, instead of clicking `dsc10-2022-wi`, click the box next to it, then click rename, then rename it to something else (like `dsc10-2022-wi-old`).
-2. Click the assignment link on the course website again. Now you'll have a new `dsc10-2022-wi` folder in your DataHub, but the work in it will be blank. When you click an assignment link on the course website it will always bring you to this folder, but all of your previous work will still be in the old folder. If you'd prefer, you can manually transfer your work to the new folder, but that's probably not necessary.
+<center><img src="../assets/images/merge-conflict.png" width="80%" alt="merge conflict example"></center>
+
+🚨 Warning! There are several errors that look similar to the image above, but before proceeding carefully read the error message to ensure that it contains the phrase "Your local changes to the following files would be overwritten by merge". If this is not present in the error message, contact us on EdStem with a screenshot. If you do see the above phrase, continue with the steps below.
+
+1. Go directly to DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)). You should be taken to a "File Manager" view which lists the folders available in your account. If DSC 10 is the only class you have taken that uses DataHub, you'll likely see only one folder: `dsc10-2022-fa`.
+
+2. On the upper right of the page, click the dropdown menu that says "New" and select "Terminal".
+
+    <center><img src="../assets/images/terminal.png" width="30%"></center>
+
+3. In the terminal, type `cd dsc10-2022-fa`, then hit the enter key to run it. The command will not display anything.
+
+4. Still in the terminal, type `git stash`, at which point your terminal window should look like the one below. Then, hit enter to run the command. You should see some output.
+
+    <center><img src="../assets/images/commands.png" width="50%"></center>
+
+5. Finally, go back to [dsc10.com](https://dsc10.com) and click the link to the assignment you were attempting to work on. It should now load without error. If you still see an error, make a post on EdStem with a screenshot of the error you see now.
 
 ### Why can’t I log in to Datahub?
 
