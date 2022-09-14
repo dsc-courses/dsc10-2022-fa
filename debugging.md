@@ -87,7 +87,7 @@ This is usually what's called a "merge conflict", which means that DataHub wasn'
 
 🚨 Warning! There are several errors that look similar to the image above, but before proceeding carefully read the error message to ensure that it contains the phrase "Your local changes to the following files would be overwritten by merge". If this is not present in the error message, contact us on EdStem with a screenshot. If you do see the above phrase, continue with the steps below.
 
-1. Go directly to DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)). You should be taken to a "File Manager" view which lists the folders available in your account. If DSC 10 is the only class you have taken that uses DataHub, you'll likely see only one folder: `dsc10-2022-fa`.
+1. Go directly to DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)). You should be taken to a "File Manager" view which lists the folders available in your account.
 
 2. On the upper right of the page, click the dropdown menu that says "New" and select "Terminal".
 
