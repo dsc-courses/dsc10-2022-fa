@@ -44,18 +44,22 @@ These are some additional resources to complement Lecture 12, our probability le
 - [Theory Meets Data, Chapters 1 and 2](http://stat88.org/textbook/notebooks/Chapter_01/00_The_Basics.html).
 - [Khan Academy's unit on Probability](https://www.khanacademy.org/math/probability/xa88397b6:probability)
 
-## Supplemental Videos
+### Permutation Testing Visualization
 
-### General
+This article and visualization intuitively decribes permutation testing, which we cover in Lecture 17. It's very helpful for thinking about permutation testing.
 
-These are some videos made to address common questions of DSC 10 students. They are worth a watch!
+- [Permutation testing visualization (Lecture 17)](https://www.jwilber.me/permutationtest/)
+
+### Instructional Videos
+
+These are some videos we made to address common questions of DSC 10 students. Definitely watch them!
 
 - [Navigating DataHub and Jupyter Notebooks](https://youtu.be/Hq8VaNirDRQ)
 - [For Loops (and when **not** to use them)](https://youtu.be/BlczSBT80fU)
 
 ### Lecture-Specific Videos 
 
-These are some videos that were meant to supplement a previous iteration of the course. They cover information that we'll also cover this quarter.
+These are some videos we made to supplement a previous iteration of the course. They cover information that we'll also cover this quarter.
 
 - [DataFrames (Lecture 4)](https://youtu.be/t_bjtBJ0gGc)
 - [Grouping (Lecture 6)](https://youtu.be/xg7rnjWnZ48)
@@ -77,4 +81,3 @@ Past exams and detailed solutions can be found at [practice.dsc10.com](https://p
 
 ## Other
 - [Where to find datasets](https://rampure.org/find-datasets)
-- [Permutation testing visualization (Lecture 17)](https://www.jwilber.me/permutationtest/)
