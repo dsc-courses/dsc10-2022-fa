@@ -44,23 +44,30 @@ its specific content.
 
 ## 👨‍🏫 Course Meetings
 
-### Lecture
+### Lecture and Discussion
 
-Lecture takes place MWF 11-11:50am in Warren Lecture Hall 2207 [(map)][wlh].
+There are four lecture sections:
+- A00 with Janine: MWF 10-10:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
+- B00 with Janine: MWF 11-11:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
+- C00 with Suraj: MWF 1-1:50pm ([PCYNH 122](https://map.concept3d.com/?id=1005#!m/237176))
+- D00 with Puoya: MWF 12-12:50pm ([PCYNH 120](https://map.concept3d.com/?id=1005#!m/237176))
 
-[wlh]: https://map.concept3d.com/?id=1005#!m/246292
+There are three discussion sections:
+- A01 with Dasha: Monday 5-5:50pm ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
+- B01 with Dasha: Monday 6-6:50pm ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
+- C01 with Dasha: Monday 7-7:50pm ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
 
-**All lectures will be recorded and posted.** Recordings will be available
-online shortly afterwards. Attendance is never required, but if you are able,
-you are strongly encouraged to attend lectures and discussions synchronously to
-ask questions and to participate in concept-check polls and discussion.
+Lecture is meant to introduce to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you'll get the opporunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
-You can attend either lecture or discussion section, but if space fills up,
-priority will be given to students officially enrolled in that section.
+Discussion section is focused on exam preparation. Students will work through problems from past DSC 10 exams and go over solutions with the TA. Attendance is optional, but students can earn up to 2 percent extra credit on their overall course grade by attending at least 8 discussion sections (0.25% earned for each discussion, up to a maximum of 2%).
 
-Note that the schedule of courses also includes a designated Discussion and Lab
-time (on Tuesdays and Thursdays) – we will not be utilizing this time for
-anything this quarter.
+**All lecture and discussion sections will be podcasted.** Podcast recordings will be [available online](https://podcast.ucsd.edu/) within a few hours. 
+
+You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the midterm exam, you must attend the lecture section in which you are officially enrolled.
+
+You must attend the discussion section in which you are officially enrolled. Students enrolled in Discussion D01 may attend any of the other three discussion sections, as Discussion D01 will not be staffed.
+
+Note that the schedule of courses also includes a designated Laboratory time for each section (on Wednesdays) – we will not be utilizing this time for anything this quarter, so you can ignore this Laboratory time and schedule other things during this time.
 
 ### Office Hours
 
@@ -68,7 +75,7 @@ In order to provide you with help on assignments and concepts, the course staff
 will hold several office hours throughout the week.
 
 We are offering both in-person and remote office hours. See the
-[Calendar](../calendar) for the oiffce hours schedule and for details on how to
+[Calendar](../calendar) for the office hours schedule and for details on how to
 access both types of office hours.
 
 Office hours are your chance to ask for general help, clarification on
@@ -105,24 +112,22 @@ First and foremost, you will need access to a computer (or tablet with a
 keyboard) and a stable internet connection to participate in this course. UCSD
 has a Laptop Loaner program which may be helpful, but you should also contact
 us if you have any concerns about access to technology. You will not need a
-webcam for this course.
+webcam for this course. Most students bring a computer to lecture, and a computer will be necessary to attend discussion section.
 
 All course content will be linked from this website, but there are a few
 additional platforms that you'll need to access:
 
-- **Campuswire:** We'll be using Campuswire as our course message and
+- **EdStem:** We'll be using EdStem as our course message and
   discussion board. More details are in the [Communication](#communication-)
-  section below. If you didn't already get an invitation to our Campuswire
-  course, [sign up here][campuswire] (if it asks you
-  to enter a code, enter 1919).
+  section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/TqQEZA).
 
 - **Gradescope:** You'll submit all assignments and exams to
   [Gradescope][gradescope]. This is where all of
   your grades will live as well. If you didn't already get an invitation to our
-  Gradescope course, reach out to the instructor.
+  Gradescope course, reach out to the instructors on EdStem.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
-  DataHub ([datahub.ucsd.edu][datahub]) is UCSD's online data
+  DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu))  is UCSD's online data
   science and machine learning platform, where you will work on assignments. We
   will show you how to use it in class.
 
@@ -139,22 +144,20 @@ Note that we will not be using Canvas this quarter.
 
 ## 💬 Communication
 
-This quarter, we’ll be using Campuswire as our course message board.
+This quarter, we’ll be using EdStem as our course message board.
 
 If you have a question about anything to do with the course — if you’re stuck
 on a problem, want clarification on the logistics, or just have a general
-question about data science — you can make a post on Campuswire. If your post
+question about data science — you can make a post on EdStem. If your post
 includes any part of your solution to a problem (e.g. code), please make your
 post private; otherwise, please make your post public so that other students
 can benefit from the interaction. You can also post anonymously if you prefer.
-Course staff will regularly check Campuswire and try to answer any questions
+Course staff will regularly check EdStem and try to answer any questions
 that you have. You’re also encouraged to answer a question asked by another
 student if you feel that you know the answer – this is a great way to
 strengthen your understanding of the material.
 
-The teaching staff will **not** be using the direct message (DM) functionality
-on Campuswire; please do not DM any members of course staff. We also ask that
-you use Campuswire instead of email, as this helps us keep all course-related
+Please use EdStem **instead of email**, as this helps us keep all course-related
 communication in one place.
 
 ---
@@ -163,12 +166,10 @@ communication in one place.
 
 Our readings will come from two free online sources.
 
-- [DSC 10 Course Notes ("Notes")](https://notes.dsc10.com), a set of notes
-  written specifically for DSC 10, using the `babypandas` module.
-- [Computational Inferential Thinking
-  ("CIT")](https://inferentialthinking.com), the book used in Berkeley's
-  version of DSC 10. This book uses slightly different Python commands (it does
-  not use the `babypandas` module), but the underlying concepts are the same.
+- [Computational and Inferential Thinking
+  ("CIT")](https://inferentialthinking.com) is the main textbook for the course, written to support UC Berkeley's version of this course, from which DSC 10 was adapted. This book uses slightly different Python commands (it does not use the `babypandas` module), but the underlying concepts are the same.
+- [Notes on (Baby)Pandas ("BPD")](https://notes.dsc10.com), a set of notes
+  about the `babypandas` module, written specifically for DSC 10 students.
 
 ---
 
@@ -329,13 +330,14 @@ day if we have to resubmit for you.
 This class has one midterm exam and one final exam. Exams are cumulative,
 though the final exam will emphasize material after the midterm.
 
-Exams will be in-person individual exams during the scheduled lecture.
+Exams will be in-person individual exams during your scheduled lecture. You must attend the exam corresponding to the section you are officially enrolled in.
 
-- Midterm Exam: Friday, July 29, during lecture (50 minutes)
-- Final Exam: Saturday, Sept 3, 11:30am-2:30pm
+- Midterm Exam: Friday, October 28, during lecture (50 minutes)
+- Final Exam: Saturday, December 3, 11:30am-2:30pm
 
-Exams must be taken at the scheduled time, with exceptions **only** if you have
-two finals scheduled for the same time slot. 
+We are aware that the DSC 10 exam conflicts with the final exam for MATH 20A. Fortunately, MATH 20A is providing an alternate exam for students with this conflict, so you should take the DSC 10 exam as scheduled and the MATH 20A exam at the alternate time provided by your math instructor. 
+
+Students taking another course with a conflicting final exam should let us know right away to see if accomodations can be made. Without express permission otherwise, students are required to take the final exam at the scheduled time.
 
 ---
 
@@ -345,7 +347,7 @@ To summarize all of the events and deadlines, refer to this general weekly
 schedule (which is subject to change in any given week):
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| Nothing! 😎 | Lecture | | Lecture | | Lecture | |
+| Nothing! 😎 | Lecture and Discussion | | Lecture | | Lecture | |
 | | | <b style="color:red">Homework due</b> | | | | <b style="color:red">Lab due</b> |
 
 ---
@@ -364,15 +366,13 @@ how grades will be computed:
 | Final Exam | 15% | |
 
 Note that each lab and each homework assignment will be worth the same amount,
-regardless of the number of points it is graded out of.
+regardless of the number of points it is graded out of. You can also earn up to 2% extra credit by attending discussion section. You'll earn 0.25% for each discussion section you attend, up to a total of 2%.
 
 ### Regrade Requests
 
 If you'd like to request a regrade on any assignment, you must do so within one
 week of the assignment being graded. If you think there is a problem with the
-autograder, please contact the course TA.
-If you think there is a problem with how your written question was graded,
-submit a regrade request through Gradescope.
+autograder,  please fill out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe9yDNvgRhHCnPAXanaB2ybopbTcrvY97lazspz2o26uopfww/viewform?usp=sf_link). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
 
 ### Letter Grades and Incompletes
 
@@ -542,8 +542,6 @@ status.
 
 ## 🙏 Acknowledgements
 
-This offering builds off of earlier offerings of DSC 10 by Janine Tiefenbruck,
-Suraj Rampure, Justin Eldridge, Sam Lau, Mikio Aoi, Colin Jemmott, Robert Twomey, Aaron
-Fraenkel, and Marina Langlois.
+The contents of this course come from Berkely's Data 8 course, created by Ani Adhikari, John DeNero, and many others. This offering builds off of earlier offerings of DSC 10 by Justin Eldridge, Suraj Rampure, Janine Tiefenbruck, and many others. Thanks to all those who have a played a role in shaping this amazing course!
 
 ---

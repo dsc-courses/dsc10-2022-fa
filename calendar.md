@@ -9,7 +9,7 @@ nav_order: 3
 
 In-person office hours (<span style="color:purple">shown in purple</span>) are
 held on the second floor of the east wing of the San Diego Supercomputer Center
-([map](https://g.page/SDSC_UCSanDiego?share)). Enter SDSC from the main
+([map](https://g.page/SDSC_UCSanDiego?share)). Enter SDSC from the east
 entrance on Hopkins Drive, take the elevator up to the second floor, turn left
 at the kitchen, and meet in the common area. You may need a code to access
 SDSC – [see EdStem](https://edstem.org/us/courses/29053/discussion/1768136).

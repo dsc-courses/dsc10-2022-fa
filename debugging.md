@@ -26,11 +26,11 @@ Go to the Cell menu in the top toolbar, then “Run All.” You can also select 
 
 ### Why does `grader.check_all()` fail, if all previous tests passed?
 
-This can happen if you "overwrite" a variable that is used in a question. For instance, if Question 1 asks you to store your answer in a variable named foo, and later on in the notebook you change the value of foo, you'll see the test after Question 1 pass, but the test at the end of the notebook fail. Make sure to rename later instances of that variable so you're not overwriting it.
+This can happen if you "overwrite" a variable that is used in a question. For instance, if Question 1 asks you to store your answer in a variable named `stat`, and later on in the notebook you change the value of `stat`, you'll see the test after Question 1 pass, but the test at the end of the notebook fail. Make sure to avoid using the same variable name for more than one purpose.
 
 ### Why does a notebook test fail now, when it passed before and I didn’t change my code?
 
-You probably ran your notebook out of order.  Re-run previous cells.
+You probably ran your notebook out of order.  Re-run all previous cells in order, which is how your code will be graded.
 
 ### Why did a Gradescope test fail, when all the notebook's tests passed?
 
@@ -60,9 +60,11 @@ Check the type of your answer variable with `type()`. Is it what you expected?
 
 ### `... object is not callable`
 
-This often happens when you use a default keyword (like `str` or `list`) as a variable name, for instance `list = [1, 2, 3]`. These errors can be tricky because they don't error on their own, but cause problems when we try to use (for example) the name `list` later on in the notebook (e.g. to convert something to a list).
+This often happens when you use a default keyword (like `str` or `list`) as a variable name, for instance `list = [1, 2, 3]`. These errors can be tricky because they don't error on their own, but cause problems when we try to use the name `list` (for example) later on in the notebook.
 
-To fix the issue, identify any such lines of code, change your variable names to be something else, and restart your notebook.
+To fix the issue, identify any such lines of code, change your variable names to be something else, and restart your notebook. 
+
+Python keywords like `str` and `list` appear in green text, so be on the lookout if any of your variable names appear in green!
 
 ### `No module named 'babypandas'`
 
@@ -107,8 +109,8 @@ Log out of all Google accounts or open an incognito window. When prompted, enter
 
 ### How can Extension Students access Datahub?
 
-Extension students may receive separate accounts for the purpose of accessing Datahub.  To look up your account information and reset any additional account passwords, visit [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) and enter your AX account in the username field and your UID in the Student ID field (e.g. "axNNNN", "cs120sp20aa", etc.)
+Extension students may receive separate accounts for the purpose of accessing Datahub.  To look up your account information and reset any additional account passwords, visit [this website](https://sdacs.ucsd.edu/~icc/index.php) and enter your AX account in the username field and your UID in the Student ID field (e.g. "axNNNN", "cs120sp20aa", etc.)
 
 ### My notebook won't load. Is Datahub down?
 
-Sometimes Datahub does have availability issues. Usually it is back up and running again within an hour. In other instances, there are some things you can do to get the notebook running again: Make sure your internet connection is working. If you can, restart your server by clicking the button at the top right labeled "Control Panel", then select "Stop My Server", followed by "Start My Server".  If that doesn't work, try restarting your computer and using a different browser. Whenever you resume working on a notebook, run all cells you've previously completed. If your problem persists after trying all these steps, please notify us.
+Sometimes Datahub does have availability issues. Usually it is back up and running again within an hour. In other instances, there are some things you can do to get the notebook running again: Make sure your internet connection is working. If you can, restart your server by clicking the button at the top right labeled "Control Panel", then select "Stop My Server", followed by "Start My Server".  If that doesn't work, try restarting your computer and using a different browser. Whenever you resume working on a notebook, run all cells you've previously completed. If your problem persists after trying all these steps, please notify us on EdStem.
