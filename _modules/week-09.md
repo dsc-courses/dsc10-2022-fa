@@ -21,7 +21,7 @@
         events:
           
           "No Lecture (Thanksgiving 🦃)":
-      - date: 2022-11-19
+      - date: 2022-11-26
         events:
           "**Lab 8**{: .label .label-lab } **Regression**":
 ---
