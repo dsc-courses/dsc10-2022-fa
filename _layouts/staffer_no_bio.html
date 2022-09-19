@@ -15,11 +15,14 @@
       {% endif %}
     </h3>
     <p>
-    {% if page.type %}
-    {{ page.type }} •
-    {% endif %}
     {% if page.email %}
     <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+    {% endif %}
+    {% if page.type %}
+    • {{ page.type }}
+    {% endif %}
+    {% if page.lecture %}
+      • <b>Lecture(s):</b> {{ page.lecture }}
     {% endif %}
     </p>
   </div>
