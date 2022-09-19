@@ -40,6 +40,10 @@ statistics class, you may wish to take a more advanced course. If you are a DSC
 major/minor, DSC 10 is absolutely required, as later courses heavily reference
 its specific content.
 
+### Acknowledgements
+
+The contents of this course come from UC Berkeley's Data 8 course, created by Ani Adhikari, John DeNero, and many others. This offering builds off of earlier offerings of DSC 10 by Justin Eldridge, Suraj Rampure, Janine Tiefenbruck, and many others. Thanks to all those who have a played a role in shaping this amazing course!
+
 ---
 
 ## 👨‍🏫 Course Meetings
@@ -122,7 +126,7 @@ additional platforms that you'll need to access:
   section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/TqQEZA).
 
 - **Gradescope:** You'll submit all assignments and exams to
-  [Gradescope][gradescope]. This is where all of
+  [Gradescope](https://www.gradescope.com/courses/443300). This is where all of
   your grades will live as well. If you didn't already get an invitation to our
   Gradescope course, reach out to the instructors on EdStem.
 
@@ -139,6 +143,10 @@ an account through UCSD; see the [Zoom guide][zoom] for more help.
 [zoom]: https://edtech.ucsd.edu/education-continuity-tools-and-resources/zoom-guides.html 
 
 Note that we will not be using Canvas this quarter.
+
+### Beginning of Quarter Survey
+
+Please fill out this short [survey](https://forms.gle/PcQ2dMZmunReUKyN9) at the beginning of the quarter. This is required of all students.
 
 ---
 
@@ -168,7 +176,7 @@ Our readings will come from two free online sources.
 
 - [Computational and Inferential Thinking
   ("CIT")](https://inferentialthinking.com) is the main textbook for the course, written to support UC Berkeley's version of this course, from which DSC 10 was adapted. This book uses slightly different Python commands (it does not use the `babypandas` module), but the underlying concepts are the same.
-- [Notes on (Baby)Pandas ("BPD")](https://notes.dsc10.com), a set of notes
+- [Notes on (Baby)Pandas ("BPD")](https://notes.dsc10.com) are a set of notes
   about the `babypandas` module, written specifically for DSC 10 students.
 
 ---
@@ -223,8 +231,7 @@ submission, this only means that you've passed the formatting tests, not the
 hidden correctness tests that determine your score.
 
 To submit a homework, follow the instructions in the assignment to upload your
-notebook to Gradescope. Check back after the deadline to see your score, based
-on the hidden correctness tests. Homeworks will be due on **Tuesdays at
+notebook to Gradescope. Homeworks will be due on **Tuesdays at
 11:59pm**. We will release homework assignments roughly a week before they're
 due. The lowest homework score is dropped from the grade calculation.
 
@@ -292,7 +299,7 @@ chronological order), and then to your labs (in chronological order). This is
 done to prevent you from receiving a 0 on, say, the final project, if you've
 used up all of your slip days at the end of the quarter; in such an example,
 you'd instead receive a 0 on an earlier assignment that isn't weighted as much
-in your grade. This policy only helps your grade.
+in your grade. 
 
 ### Submission Errors
 
@@ -337,7 +344,7 @@ Exams will be in-person individual exams during your scheduled lecture. You must
 
 We are aware that the DSC 10 exam conflicts with the final exam for MATH 20A. Fortunately, MATH 20A is providing an alternate exam for students with this conflict, so you should take the DSC 10 exam as scheduled and the MATH 20A exam at the alternate time provided by your math instructor. 
 
-Students taking another course with a conflicting final exam should let us know right away to see if accomodations can be made. Without express permission otherwise, students are required to take the final exam at the scheduled time.
+Students taking another course with a conflicting final exam should let us know right away via the [Beginning of Quarter Survey](https://forms.gle/PcQ2dMZmunReUKyN9) to see if accomodations can be made. Without express permission otherwise, students are required to take the final exam at the scheduled time.
 
 ---
 
@@ -364,9 +371,10 @@ how grades will be computed:
 | Midterm Exam | 10% | |
 | Final Project | 15% | |
 | Final Exam | 15% | |
+| Discussion Section | 2% (extra credit) | |
 
 Note that each lab and each homework assignment will be worth the same amount,
-regardless of the number of points it is graded out of. You can also earn up to 2% extra credit by attending discussion section. You'll earn 0.25% for each discussion section you attend, up to a total of 2%.
+regardless of the number of points it is graded out of. 
 
 ### Regrade Requests
 
@@ -434,7 +442,7 @@ The following activities are considered cheating and are not allowed in DSC 10
 - Using or submitting code acquired from other students (except in the instance
   of projects, your pair programming partner), the web, or any other resource
   not officially sanctioned by this course
-- Posting your code online, including on Campuswire, unless privately to
+- Posting your code online, including on EdStem, unless privately to
   instructors only
 - Having any other person complete any part of your assignment on your behalf
 - Completing an assignment on behalf of someone else
@@ -457,7 +465,7 @@ allowed in DSC 10 (not an exhaustive list):
 - Google searching for documentation on Python or babypandas
 - Working together with other students on assignments without copying or
   sharing answers
-- Posting a question about your approach to a problem on Campuswire, without
+- Posting a question about your approach to a problem on EdStem, without
   sharing your code
 
 ### How can I be sure that my actions are NOT considered cheating?
@@ -516,7 +524,7 @@ respected and feels comfortable.
 **I am on the waitlist, so how can I keep up with the course?**
 
 You can (and should) still submit assignments if you are on the waitlist.
-Waitlisted students should have access to Datahub to work on assignments. You
+Waitlisted students should have access to DataHub to work on assignments. You
 may need to add yourself to some course tools; see the [Getting
 Started](../syllabus#getting-started) section of the syllabus.
 
@@ -530,7 +538,7 @@ your questions about enrollment to DSC advising. You can send an email to
 Virtual Advising Center, or stop by drop-in advising hours. In short, seats in
 the class open up when students drop the class, which can be hard to predict.
 
-**I have been added to Gradescope, Campuswire, and other course tools. Does
+**I have been added to Gradescope, EdStem, and other course tools. Does
 this mean I am off the waitlist?**
 
 No. Students on the waitlist were also added to all course tools, so they can
@@ -538,10 +546,7 @@ complete assignments while they are on the waitlist. Check
 [Webreg](https://act.ucsd.edu/webreg2) if you are not sure of your enrollment
 status.
 
----
 
-## 🙏 Acknowledgements
 
-The contents of this course come from Berkely's Data 8 course, created by Ani Adhikari, John DeNero, and many others. This offering builds off of earlier offerings of DSC 10 by Justin Eldridge, Suraj Rampure, Janine Tiefenbruck, and many others. Thanks to all those who have a played a role in shaping this amazing course!
 
 ---
