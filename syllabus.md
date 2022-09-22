@@ -11,11 +11,6 @@ nav_order: 2
 
 ---
 
-<b style='color: red'> This site is under construction. All information here is subject to change until this warning is removed.</b>
-
----
-
-
 ## Table of contents
 {: .no_toc .text-delta }
 

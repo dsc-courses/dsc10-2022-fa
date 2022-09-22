@@ -12,6 +12,8 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
+**Welcome to DSC 10! 👋** Get started by reading the [syllabus](syllabus).
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
