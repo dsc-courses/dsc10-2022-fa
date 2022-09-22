@@ -523,10 +523,7 @@ respected and feels comfortable.
 
 **I am on the waitlist, so how can I keep up with the course?**
 
-You can (and should) still submit assignments if you are on the waitlist.
-Waitlisted students should have access to DataHub to work on assignments. You
-may need to add yourself to some course tools; see the [Getting
-Started](../syllabus#getting-started) section of the syllabus.
+Waitlisted to students may attend lecture and discussion, space-permitting, and can also watch podcast recordings. You can (and should) still submit assignments if you are on the waitlist. Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](../syllabus#getting-started) section of the syllabus.
 
 **What are my chances of getting off the waitlist?**
 
