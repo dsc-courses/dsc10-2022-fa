@@ -21,5 +21,5 @@
       - date: 2022-10-1
         events:
           
-          "**Lab 1**{: .label .label-lab } **Expressions and Data Types**":
+          "**Lab 1**{: .label .label-lab } **[Expressions and Data Types](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdsc-courses%2Fdsc10-2022-fa&urlpath=tree%2Fdsc10-2022-fa%2Flabs%2Flab01%2Flab01.ipynb&branch=main)**":
 ---
