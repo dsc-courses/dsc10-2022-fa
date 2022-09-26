@@ -21,5 +21,5 @@
       - date: 2022-12-3
         events:
           
-          "**Exam**{: .label .label-exam } **Final Exam (3-6PM)**":
+          "**Exam**{: .label .label-exam } **Final Exam (11:30AM-2:30PM)**":
 ---
