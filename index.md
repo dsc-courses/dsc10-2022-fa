@@ -15,7 +15,7 @@ nav_order: 1
 **Welcome to DSC 10! 👋** Get started by reading the [syllabus](syllabus).
 
 Below, you can access lecture material in two ways:
-- By clicking 💻, which will open the lecture on DataHub, where we will run our code in this course. (More on this on Wednesday.)
+- By clicking the title of the lecture, which will open the lecture on DataHub, where we will run our code in this course. (More on this on Wednesday.)
 - By clicking ✏️, which will open the lecture as a static HTML page, which you can download as a PDF and annotate on your tablet.
 
 {% for module in site.modules %}

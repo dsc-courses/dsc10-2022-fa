@@ -4,7 +4,7 @@
     days:
       - date: 2022-9-26
         events:
-          "**LEC 2**{: .label .label-lecture } Association and Causality [💻](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdsc-courses%2Fdsc10-2022-fa&urlpath=tree%2Fdsc10-2022-fa%2Flectures%2Flec02%2Flec02.ipynb&branch=main) [✏️](resources/lectures/lec02/lec02.html)":
+          "**LEC 2**{: .label .label-lecture } [Association and Causality](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdsc-courses%2Fdsc10-2022-fa&urlpath=tree%2Fdsc10-2022-fa%2Flectures%2Flec02%2Flec02.ipynb&branch=main) [✏️](resources/lectures/lec02/lec02.html)":
             "[CIT 2, 2.1-2.5](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)"
                 
           "**DIS 1**{: .label .label-disc } [Association and Causality](https://practice.dsc10.com/disc01)":
