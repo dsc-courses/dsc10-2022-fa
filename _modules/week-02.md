@@ -10,8 +10,7 @@
           "**DIS 2**{: .label .label-disc } Python Basics, Arrays, and DataFrames":
       - date: 2022-10-4
         events:
-          
-          "**HW 1**{: .label .label-hw } **Causality and Basic Python**":
+          "**HW 1**{: .label .label-hw } **[Causality and Basic Python](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw01/hw01.ipynb)**":
       - date: 2022-10-5
         events:
           "**LEC 6**{: .label .label-lecture } More Queries and GroupBy":
