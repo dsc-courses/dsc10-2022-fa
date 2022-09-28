@@ -10,7 +10,7 @@
           "**DIS 1**{: .label .label-disc } [Association and Causality](https://practice.dsc10.com/disc01)":
       - date: 2022-9-28
         events:
-          "**LEC 3**{: .label .label-lecture } Expressions and Data Types":
+          "**LEC 3**{: .label .label-lecture } [Expressions and Data Types](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec03/lec03.ipynb) [✏️](resources/lectures/lec03/lec03.html)":
             "[BPD 1-6](https://notes.dsc10.com/01-getting_started/tools.html)"
                 
       - date: 2022-9-30
