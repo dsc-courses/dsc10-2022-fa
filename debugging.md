@@ -83,7 +83,9 @@ It can be difficult to decipher the meaning of error messages in Python. [Here i
 
 ### When I click a link on the course website, I see a black screen with text and a red error bar that says "Error: undefined." What should I do?
 
-This often happens when clicking multiple "magic links" quickly. Close all of the Jupyter Notebooks you have open, and click links on the course website one at a time. Once one notebook fully loads, click the next link.
+<center><img src="../assets/images/error-undefined.png" width="80%" alt="error undefined example"></center>
+
+This often happens when clicking multiple assignment or lecture links quickly. Close all of the Jupyter Notebooks you have open, and click links on the course website one at a time. Once one notebook fully loads, click the next link.
 
 ### When I click a link on the course website, I see a black screen with text and a red error bar. What should I do?
 
