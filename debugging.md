@@ -87,6 +87,8 @@ It can be difficult to decipher the meaning of error messages in Python. [Here i
 
 This often happens when clicking multiple assignment or lecture links quickly. Close all of the Jupyter Notebooks you have open, and click links on the course website one at a time. Once one notebook fully loads, click the next link.
 
+This error can also occur if you're using an unsupported internet browser. Make sure you're using either Chrome, Firefox, or Safari to access DataHub.
+
 ### When I click a link on the course website, I see a black screen with text and a red error bar. What should I do?
 
 This is usually what's called a "merge conflict", which means that DataHub wasn't able to combine the versions of the assignments we released with the versions you worked on. This should only happen in rare circumstances.
