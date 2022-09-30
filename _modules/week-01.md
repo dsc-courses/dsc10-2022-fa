@@ -15,7 +15,7 @@
                 
       - date: 2022-9-30
         events:
-          "**LEC 4**{: .label .label-lecture } Arrays and DataFrames":
+          "**LEC 4**{: .label .label-lecture } [Strings and Arrays](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec04/lec04.ipynb)":
             "[BPD 7-8](https://notes.dsc10.com/02-data_sets/arrays.html)"
                 
       - date: 2022-10-1

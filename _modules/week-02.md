@@ -4,7 +4,7 @@
     days:
       - date: 2022-10-3
         events:
-          "**LEC 5**{: .label .label-lecture } Accessing, Sorting, and Querying":
+          "**LEC 5**{: .label .label-lecture } DataFrames: Accessing, Sorting, and Querying":
             "[BPD 9-10](https://notes.dsc10.com/02-data_sets/accessing.html)"
                 
           "**DIS 2**{: .label .label-disc } Python Basics, Arrays, and DataFrames":
