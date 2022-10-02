@@ -61,7 +61,8 @@ These are some videos we made to address common questions of DSC 10 students. De
 
 These are some videos we made to supplement a previous iteration of the course. They cover information that we'll also cover this quarter.
 
-- [DataFrames (Lecture 4)](https://youtu.be/t_bjtBJ0gGc)
+- [Lottery Problem Walkthrough (Lecture 4)](https://www.youtube.com/watch?v=w_witptT6Ts)
+- [Introduction to DataFrames (Lecture 5)](https://youtu.be/t_bjtBJ0gGc)
 - [Grouping (Lecture 6)](https://youtu.be/xg7rnjWnZ48)
 - [Bar Charts (Lecture 7)](https://youtu.be/OVTroiHby3g)
 - [Example: `days_between` (Lecture 11/12)](https://youtu.be/6HOAk0GAqKU)
