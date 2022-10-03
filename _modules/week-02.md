@@ -7,7 +7,7 @@
           "**LEC 5**{: .label .label-lecture } [DataFrames: Accessing, Sorting, and Querying](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec05/lec05.ipynb) [✏️](resources/lectures/lec05/lec05.html)":
             "[BPD 9-10](https://notes.dsc10.com/02-data_sets/accessing.html)"
                 
-          "**DIS 2**{: .label .label-disc } Python Basics, Arrays, and DataFrames":
+          "**DIS 2**{: .label .label-disc } [Python Basics, Arrays, and DataFrames](https://practice.dsc10.com/disc02/index.html)":
       - date: 2022-10-4
         events:
           "**HW 1**{: .label .label-hw } **[Causality and Basic Python](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw01/hw01.ipynb)**":
