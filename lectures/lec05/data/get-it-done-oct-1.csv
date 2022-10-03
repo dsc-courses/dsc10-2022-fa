@@ -1,0 +1,754 @@
+service_request_id,date_requested,neighborhood,service,status,street_address,public_description
+3940112,2022-10-01T00:11:00,La Jolla,Pothole,Open,"7556 VIA CAPRI, San Diego, CA 92037, USA",Pothole
+3940113,2022-10-01T00:12:00,La Jolla,Pothole,Open,"7566 VIA CAPRI, San Diego, CA 92037, USA",Potholes / fix the damn road
+3940114,2022-10-01T00:13:00,Pacific Beach,Street Light Maintenance,Open,"1698-1500 Monmouth Dr, San Diego, CA 92109, USA",Street light out on the corner of Monmouth Dr and foothill  and the street west of it as well.  Both are shown in the attached image.
+3940115,2022-10-01T00:13:00,La Jolla,Pothole,Open,"7456 VIA CAPRI, San Diego, CA 92037, USA",Pothole
+3940116,2022-10-01T00:16:00,Scripps Miramar Ranch,Traffic Signal Timing,Open,"10895 Hibert St, San Diego, CA 92131, USA","Is it possible to time this light sequentially to the previous light at 9801 Mira Mesa blvd?  When driving eastbound on MM blvd, if this light turned green 10-15 seconds before the light at 9801 it would improve the traffic flow greatly and probably improve safety as there are 3 lights very close together and it can get confusing if your attention wanders to the next light which might be green but the nearest light is actually red."
+3940117,2022-10-01T00:26:00,Rancho Penasquitos,Traffic Sign Maintenance,Open,"12200 CAMINO DEL SUR, 92129","PER PD, PED CROSSING SIGN HIT BY VEH, NEEDS TO BE REPLACED"
+3940118,2022-10-01T00:33:00,Rancho Penasquitos,Traffic Signal Issue,Open,"12200 CAMINO DEL SUR, 92129","PER PD, WIRES EXPOSED FROM PED CROSSING LIGHTS DUE TO VEH ACCIDENT"
+3940120,2022-10-01T01:11:00,Downtown,Encampment,Open,300 14th St,"Encampments , Zk Street, North, South of 14th."
+3940121,2022-10-01T02:37:00,San Ysidro,Missed Collection,Open,"235 Camino De Progresso, San Diego, CA 92173, USA",Not pick her
+3940122,2022-10-01T03:04:00,Serra Mesa,Traffic Signal Issue,Open,"SANDROCK RD & GREYLING DR,, 92123","PER PD, LIGHTS ON 4 WAY FLASH"
+3940133,2022-10-01T04:08:00,Mission Beach,Shared Mobility Device,Open,3408?3410 Mission Blvd,7 birds
+3940134,2022-10-01T04:12:00,Mission Beach,Shared Mobility Device,Open,3500?3512 Mission Blvd,In cross walk with QRcodes
+3940137,2022-10-01T04:16:00,Mission Beach,Shared Mobility Device,Open,3761?3767 Mission Blvd,7 limes
+3940138,2022-10-01T04:17:00,Mission Beach,Shared Mobility Device,Open,Mission Beach,Scooter in trashcan
+3940140,2022-10-01T04:19:00,Downtown,Encampment,Open,768 17th Street,"Huge blue tent at west corner of 17th & F Street blocking all of the sidewalk, yesterday witnessed drugs being used, trash, alcohol"
+3940142,2022-10-01T04:22:00,Mission Beach,Shared Mobility Device,Open,720?798 Santa Rita Pl,Interfering with handicap access ramp with QRcodes
+3940143,2022-10-01T04:24:00,Mission Beach,Illegal Dumping,Open,2998?3040 Ocean Front Walk,"Liquor , glass , beaches Belmont"
+3940145,2022-10-01T04:30:00,Pacific Beach,Shared Mobility Device,Open,4475 Mission Blvd,13 birds
+3940146,2022-10-01T04:31:00,Pacific Beach,Shared Mobility Device,Open,4475 Mission Blvd,Q
+3940147,2022-10-01T04:33:00,Pacific Beach,Shared Mobility Device,Open,801?813 Garnet Ave,Ada 77 inches clearance
+3940151,2022-10-01T04:41:00,Mission Beach,Illegal Dumping,Open,Mission Beach Park,Vendor set up 4:30 am
+3940152,2022-10-01T04:43:00,Downtown,Street Light Maintenance,Open,1230 Pacific Hwy,Sidewalk underground electrical cover missing
+3940153,2022-10-01T04:44:00,Mid-City:City Heights,Parking,Open,"4173 36th St, San Diego, CA 92104, USA",they are at the front of the dorado apts and they have a black suv infront of it they are obstructing the sidewalk they are next to a silver merz
+3940154,2022-10-01T04:46:00,Mission Beach,Illegal Dumping,Open,3084?3096 Ocean Front Walk,"Alcohol , beaches Belmont , glass"
+3940155,2022-10-01T04:50:00,Downtown,Encampment,Open,1101?1163 Tenth Ave,Homeless encampments
+3940160,2022-10-01T05:40:00,Downtown,Traffic Signal Issue,Open,Market St & 16th St,Turned head
+3940166,2022-10-01T05:54:00,Navajo,Street Light Maintenance,Open,"6536 ESTRELLA AV, 92120",STREET LIGHT OUT
+3940168,2022-10-01T06:05:00,College Area,Missed Collection,Open,"5416 Redland Dr, San Diego, CA 92115, USA","During the day someone parked right next to our trash can, so it was not picked up."
+3940169,2022-10-01T06:11:00,Downtown,Graffiti - Public,Open,MTS Center Way,Graffiti on city sign
+3940170,2022-10-01T06:12:00,Uptown,Graffiti - Public,Open,4069 Goldfinch Street,Graffiti on utility box
+3940171,2022-10-01T06:12:00,Mission Beach,Shared Mobility Device,Open,3106 Mission Blvd,Q
+3940172,2022-10-01T06:14:00,La Jolla,Shared Mobility Device,Open,8001?8099 Ocean Ln,Limes blocking the sidewalk
+3940176,2022-10-01T06:17:00,Mission Beach,Shared Mobility Device,Open,734 Capistrano Pl,6 birds
+3940177,2022-10-01T06:19:00,Mission Beach,Shared Mobility Device,Open,3000?3048 Mission Blvd,Down limes and bird
+3940180,2022-10-01T06:25:00,Mission Beach,Shared Mobility Device,Open,3980 Mission Boulevard,2bd report lime in ADA ramp
+3940182,2022-10-01T06:32:00,Pacific Beach,Shared Mobility Device,Open,815?825 Garnet Ave,Sidewalk technology lie with QRcodes
+3940185,2022-10-01T06:34:00,Pacific Beach,Shared Mobility Device,Open,911 Hornblend St,Sidewalk technology lie with QRcodes
+3940187,2022-10-01T06:36:00,Downtown,Encampment,Open,Mlk Path,Encampments
+3940190,2022-10-01T06:36:00,Downtown,Encampment,Open,713?737 F St,Encampment
+3940191,2022-10-01T06:37:00,Mira Mesa,Stormwater Code Enforcement,Open,10739?10747 Black Mountain Rd,"Over irrigation at The Village Green Mobilehome Park. Water on the sidewalk along Black Mtn Rd and flowing down the gutter. I reported this place a month or so ago and they seem to have fixed one section of the irrigation system auto timing, but not the part on the south end for the ice plant. Their landscaping along the sidewalk is very lush, it should probably xeriscaped. Even if they are using reclaimed water we will soon be putting that into the drinking water supply.   10771 Black Mountain Rd, T 858- 271-0651, mhvillage.com"
+3940193,2022-10-01T06:38:00,Pacific Beach,Shared Mobility Device,Open,4730 Cass Street,Overstaged bird 83.0310
+3940194,2022-10-01T06:40:00,Pacific Beach,Shared Mobility Device,Open,905 Law Street,Laying down all night BIRD
+3940195,2022-10-01T06:40:00,Otay Mesa-Nestor,Graffiti - Public,Open,4645?4667 Palm Ave,Graffiti on park sign
+3940196,2022-10-01T06:40:00,Pacific Beach,Shared Mobility Device,Open,4688 Bayard Street,Trashing SD BIRD
+3940197,2022-10-01T06:41:00,Pacific Beach,Shared Mobility Device,Open,4688 Bayard Street,Lime down
+3940198,2022-10-01T06:42:00,Otay Mesa-Nestor,Parks Issue,Open,751 Firethorn St,Weeds Palm Ridge Park 92154
+3940199,2022-10-01T06:54:00,Mission Beach,Sidewalk Repair Issue,Open,2943 Mission Blvd,Major sidewalk buckling adjacent to 2941 Mussion Boulevard 92109; impediment for those using assistive devices (ADA-compliance issue) as well as able-bodied
+3940200,2022-10-01T06:57:00,Rancho Penasquitos,Traffic Signal Issue,Open,12598 Dormouse Road,Someone took.out the signal crosswalk pole
+3940201,2022-10-01T06:59:00,Greater Golden Hill,Other,Open,954 23rd St,Paint barkinstalls so we can avoid constant barking like this. No car can parking in frot that Jeep
+3940202,2022-10-01T07:02:00,Uptown,Encampment,Open,"4036 CENTRE ST, San Diego, CA 92103, USA",White van flat tire
+3940203,2022-10-01T07:07:00,Mid-City:Eastern Area,Encampment,Open,4004 Hegg St,"homelss camp 4004 hegg street, san diego, ca"
+3940204,2022-10-01T07:09:00,Uptown,Encampment,Open,"4036 CENTRE ST, San Diego, CA 92103, USA",Flat tire parked more than 2 weeks
+3940205,2022-10-01T07:14:00,Southeastern San Diego,Encampment,Open,2455 Imperial Ave,Trash everywhere. Its really disgusting. power wash the concrete  also
+3940206,2022-10-01T07:15:00,Southeastern San Diego,Illegal Dumping,Open,13 S Francis St,Trash
+3940207,2022-10-01T07:16:00,Southeastern San Diego,Missed Collection,Open,2467 Imperial Ave,Forgot to pick up recycling
+3940208,2022-10-01T07:16:00,Southeastern San Diego,Graffiti - Public,Open,3300 Imperial Ave,Graffiti
+3940209,2022-10-01T07:16:00,Downtown,Encampment,Open,928 C St,Encampment
+3940210,2022-10-01T07:18:00,Southeastern San Diego,Illegal Dumping,Open,CA-15 S,Illegal dumping - looks dangerous
+3940211,2022-10-01T07:26:00,Serra Mesa,Missed Collection,Open,9182 Fermi Ave,Trash pickup
+3940212,2022-10-01T07:26:00,Greater Golden Hill,Encampment,Open,Pershing Dr,Homeless Full Blown Tent City
+3940214,2022-10-01T07:27:00,Serra Mesa,Missed Collection,Open,9182 Fermi Ave,Trash
+3940215,2022-10-01T07:34:00,Navajo,Parking,Open,92 Brisa Street,Abandoned car
+3940216,2022-10-01T07:34:00,Greater Golden Hill,Missed Collection,Open,3062 Grape St,Compost pickup
+3940217,2022-10-01T07:39:00,Pacific Beach,Encampment,Open,541 Ocean Blvd,Long-term illegal camping on our beach at the foot of diamond Street near tower 26
+3940218,2022-10-01T07:40:00,Balboa Park,Illegal Dumping,Open,2844?2892 Golf Course Dr,Couch
+3940219,2022-10-01T07:47:00,Mid-City:City Heights,Missed Collection,Open,3755 Euclid Ave,"92105 Euclid Ave East side trash NOT PICKED UP yesterday 3763, 3755 Euclid ave"
+3940220,2022-10-01T07:47:00,Balboa Park,Illegal Dumping,Open,1446?1508 26th St,Dumping
+3940221,2022-10-01T07:48:00,Southeastern San Diego,Encampment,Open,"184 19TH ST, San Diego, CA 92102, USA",Homeless
+3940222,2022-10-01T07:49:00,Southeastern San Diego,Stormwater Code Enforcement,Open,702 South 30th Street,Hazardous homeless camp
+3940223,2022-10-01T07:49:00,Southeastern San Diego,Encampment,Open,260?298 19th St,Homeless Encampment
+3940224,2022-10-01T07:49:00,Downtown,Graffiti - Public,Open,100?130 Fifth Ave,Foul spray paint on railroad box
+3940225,2022-10-01T07:50:00,Mid-City:Normal Heights,Encampment,Open,"3880 EDNA PL, San Diego, CA 92116, USA",Homeless ruining park. Why are we letting them rule the basketball courts now? SO MANY PEOPLE USE THOSE.
+3940226,2022-10-01T07:51:00,Clairemont Mesa,Other,Open,4010 Boone St,Large construction with no permit
+3940227,2022-10-01T07:52:00,Mission Beach,Encampment,Open,3497 Ocean Front Walk,Van is back long term parking for weeks. Owners have a van conversion business (to live in)  and the parked van is their demo.
+3940228,2022-10-01T07:53:00,Mira Mesa,Illegal Dumping,Open,10951?10959 Montongo St,Abandon shopping cart
+3940229,2022-10-01T07:54:00,Mission Valley,Encampment,Open,8222 Station Village Ln,Abandoned Vehicle - Parking
+3940230,2022-10-01T07:56:00,Mid-City:City Heights,Missed Collection,Open,"3705 Marlborough Ave, San Diego, CA 92105, USA",My blue trash can has not been picked up the last two times.
+3940235,2022-10-01T08:01:00,Mid-City:City Heights,Graffiti - Public,Open,CA-15 S,Mula vandalized
+3940237,2022-10-01T08:02:00,Downtown,Encampment,Open,1550 Market St,Encampment on market street between 15th and 16th.
+3940239,2022-10-01T08:05:00,Rancho Bernardo,Street Light Maintenance,Open,"17857 Avenida Cordillera, San Diego, CA 92128, USA",The street light across the street from my condo has been out for years. It's very dark and not safe to walk after dark without this light.
+3940242,2022-10-01T08:10:00,Ocean Beach,Encampment,Open,Ocean Beach,"So many camps! OB on the sand by Tower 2 and in Saratoga Park . these camps have been reported daily for months. When are you going to do something? Closed tents, drug and alcohol use, aggression rewards citizens .  Every day that you allow them to stay here, more come. You were sending the message that this is okay. It?s not. You need to do something! The large camps have been here for months, and are continuing to grow with additional materials."
+3940243,2022-10-01T08:12:00,Navajo,Dead Animal,Open,"8051-8099 Lake Adlon Dr, San Diego, CA 92119, USA",Bunny
+3940244,2022-10-01T08:13:00,Tierrasanta,Parking,Open,4990 Corte Playa Palmera,Car parked for several weeks
+3940246,2022-10-01T08:16:00,Navajo,Dead Animal,Open,"8097 Lake Adlon Dr, San Diego, CA 92119, USA",Bunny
+3940247,2022-10-01T08:16:00,Downtown,Encampment,Open,1267 11th Ave,Encampment
+3940248,2022-10-01T08:17:00,Mid-City:City Heights,Parking,Open,"3727 Central Ave, San Diego, CA 92105, USA",This truck been park in front of our house for at least 10 days
+3940249,2022-10-01T08:18:00,Skyline-Paradise Hills,Parking,Open,2300?2348 Edenbridge Ln,72 hour parking violation
+3940251,2022-10-01T08:19:00,Clairemont Mesa,Encampment,Open,7732 Linda Vista Rd,Homeless sleeping in car for days next to homes
+3940254,2022-10-01T08:21:00,Southeastern San Diego,Illegal Dumping,Open,702 S 30th St,Hazardous Human waste dumping and encampment
+3940255,2022-10-01T08:21:00,Clairemont Mesa,Encampment,Open,5375?5591 Regents Rd,Diarrhea on side of popular trail in offshoot of San Clemente Trailhead next to 52 / Reagents road to Gershwin park. It is in the bushes right off the trail with toilet paper and is exposed where people walk.
+3940256,2022-10-01T08:22:00,Navajo,Missed Collection,Open,"6005 Del Cerro Blvd, San Diego, CA 92120, USA",Refuse trash was not picked up on scheduled Friday morning.
+3940257,2022-10-01T08:24:00,Downtown,Shared Mobility Device,Open,525 N 11th Ave,Lime scooter illegally parked on street
+3940258,2022-10-01T08:24:00,Uptown,Sidewalk Repair Issue,Open,2550 Brant St,Dangerous Sidewalk
+3940259,2022-10-01T08:25:00,San Ysidro,Tree Maintenance,Open,134 E Park Ave,Tress and shrubs in the way of Pedestrian walking
+3940260,2022-10-01T08:26:00,College Area,Missed Collection,Open,4721 63rd Street,Trash missed
+3940261,2022-10-01T08:27:00,Downtown,Encampment,Open,1909 State St,"There is a dangerous and violent homeless encampment under 5S on ramp. The camp is growing in terms of both people and tents/garage. Someone from this encampment chased my neighbor with a machete last weekend, we had a robbery and attempted robbery on our block and multiple murders. Neighborhood safety hinges on proactive measures. Waiting for more problems puts the people and community at risk"
+3940262,2022-10-01T08:29:00,Downtown,Traffic Sign Maintenance,Open,800?898 Ash St,Missing ?No Right Turn On Red? Sign ? for southbound 9th Ave onto Ash St. Sign used to be here and was not replaced after it was damaged by a car crash. This is a dangerous turn to make on red.
+3940263,2022-10-01T08:29:00,Clairemont Mesa,Environmental Services Code Compliance,Open,4421?4491 Derrick Dr,Home Depot utility cart abandoned
+3940264,2022-10-01T08:31:00,Peninsula,Encampment,Open,3704 Tennyson St,Homeless encampment
+3940266,2022-10-01T08:34:00,Miramar Ranch North,Other,Open,11950?11984 Scripps Highlands Dr,Trash
+3940267,2022-10-01T08:35:00,Midway-Pacific Highway,Encampment,Open,Rosecrans Pl,Homeless encampment
+3940268,2022-10-01T08:39:00,University,Parking,Open,6250 Greenwich Dr,Abandon vehicle
+3940269,2022-10-01T08:40:00,Mid-City:City Heights,Illegal Dumping,Open,4339 Poplar Street,"Stove, child plastic kitchen toy, fake plant dumped in alley between Columbine and Fairmount south of Poplat"
+3940270,2022-10-01T08:40:00,Mid-City:City Heights,Parking,Open,2400?2598 Tuberose St,Abandoned car
+3940271,2022-10-01T08:41:00,Peninsula,Parking,Open,3119 Hugo St,parking
+3940272,2022-10-01T08:43:00,Southeastern San Diego,Encampment,Open,"801 S 30TH ST, San Diego, CA 92113, USA",Child safety and vermin
+3940273,2022-10-01T08:43:00,Southeastern San Diego,Graffiti - Public,Open,"3270 F ST, San Diego, CA 92102, USA",Translated: Graffiti on wall
+3940274,2022-10-01T08:46:00,Southeastern San Diego,Graffiti - Public,Open,"3258 F ST, San Diego, CA 92102, USA",Translated: Graffiti on fence
+3940275,2022-10-01T08:47:00,Mid-City:City Heights,Illegal Dumping,Open,3505 43rd St,Translated: Illegal vertigo Rosa
+3940276,2022-10-01T08:48:00,Southeastern San Diego,Graffiti - Public,Open,"3218 F ST, San Diego, CA 92102, USA",Translated: Graffiti on wall
+3940277,2022-10-01T08:48:00,North Park,Missed Collection,Open,3338 32nd Street,Missed recycle pick up
+3940278,2022-10-01T08:49:00,Mid-City:City Heights,Illegal Dumping,Open,3375?3499 43rd St,Translated: Illegal Vertigo Fany
+3940279,2022-10-01T08:49:00,Southeastern San Diego,Graffiti - Public,Open,"840 32ND ST, San Diego, CA 92102, USA",Translated: Graffiti on wall
+3940281,2022-10-01T08:50:00,Mid-City:City Heights,Environmental Services Code Compliance,Open,4339 Poplar Street,Spilled and scattered trash always around this dumpster in the behind 4343 Poplar St.
+3940282,2022-10-01T08:50:00,Mid-City:City Heights,Illegal Dumping,Open,3505 43rd St,Translated: Illegal vertigo Rosa
+3940283,2022-10-01T08:51:00,Navajo,Missed Collection,Open,"6005 Del Cerro Blvd, San Diego, CA 92120, USA","Neighbors trash was picked up, but ours was not on the designated Friday for trash pick up. Refuse trash"
+3940284,2022-10-01T08:51:00,Pacific Beach,Parking,Open,"1105 Loring St, San Diego, CA 92109, USA",Van has been in location for 3 months and has not moved. The Pink violation slip was removed from vehicle on 9-30-22.
+3940285,2022-10-01T08:51:00,Southeastern San Diego,Graffiti - Public,Open,740 32nd Street,Translated: Graffiti on wall
+3940286,2022-10-01T08:52:00,Southeastern San Diego,Graffiti - Public,Open,"3168 G ST, San Diego, CA 92102, USA",Translated: Graffiti on fence
+3940287,2022-10-01T08:53:00,Southeastern San Diego,Graffiti - Public,Open,"3168 F ST, San Diego, CA 92102, USA",Translated: Graffiti on wall
+3940288,2022-10-01T08:54:00,Mid-City:City Heights,Missed Collection,Open,"3407 Marlborough Ave, San Diego, CA 92105, USA","Trash was out out before I started work, so prior to 8am. Collection happened earlier and no one ever came back by"
+3940289,2022-10-01T08:55:00,Encanto Neighborhoods,Illegal Dumping,Open,1840 Paradise Street,"Stolen, stripped, abandoned motorcycle"
+3940290,2022-10-01T08:55:00,Peninsula,Other,Open,3021 Byron St,"This project has been putting these cones out for months block in the parking. Do they have a permit for that? As an addition, they also are using an unlicensed trailer which is no parked in the driveway at least but still they?re driving it and license."
+3940291,2022-10-01T08:55:00,La Jolla,Illegal Dumping,Open,Scripps Coastal Reserve,Car seat left at roadside
+3940292,2022-10-01T08:56:00,Rancho Penasquitos,Traffic Signal Issue,Open,12598 Dormouse Road,Flashing Light School Crossing Post run down at Camino Del Sur new street traffic circle-
+3940293,2022-10-01T08:56:00,Mid-City:Normal Heights,Graffiti - Public,Open,3844 Adams Ave,Graffiti
+3940294,2022-10-01T08:57:00,Ocean Beach,Encampment,Open,4838 Voltaire St,Illegal encampment
+3940295,2022-10-01T08:58:00,Rancho Penasquitos,Traffic Sign Maintenance,Open,12598 Dormouse Road,Missing Traffic Circle Ahead Signage at new traffic circle Camino Del Sur
+3940296,2022-10-01T08:58:00,Navajo,Missed Collection,Open,"7996 WING SPAN DR, San Diego, CA 92119, USA",Missed collection (blue bin).
+3940297,2022-10-01T08:59:00,Southeastern San Diego,Graffiti - Public,Open,3041 F Street,Translated: Graffiti on wall
+3940298,2022-10-01T09:00:00,Peninsula,Encampment,Open,743 Sunset Cliffs Blvd,Over size
+3940299,2022-10-01T09:00:00,Uptown,Encampment,Open,"2254 CLEVELAND AV, San Diego, CA 92103, USA","Unresponsive person taking up the sidewalk on Cleveland st, between vermont and richmond"
+3940300,2022-10-01T09:00:00,Southeastern San Diego,Graffiti - Code Enforcement,Open,3040 G Street,Translated: Graffiti on fence
+3940301,2022-10-01T09:01:00,Rancho Penasquitos,Street Light Maintenance,Open,12598 Dormouse Road,Street Lights Not Illuminated during evening hours-North side of circle both east and west.
+3940302,2022-10-01T09:02:00,Linda Vista,Encampment,Open,"1022 W Morena Blvd, San Diego, CA 92110, USA",They are blocking our parking lot and people can not pull into our business
+3940303,2022-10-01T09:05:00,Downtown,Environmental Services Code Compliance,Open,888 Date St,Trash
+3940304,2022-10-01T09:06:00,Balboa Park,Encampment,Open,Balboa Park,Illegal encampment
+3940305,2022-10-01T09:07:00,Southeastern San Diego,Illegal Dumping,Open,J St,"Tax payers mocked by the utter ineptitude of alleged enforcement! Transient drug addicts can steal property, firm public bike chop shops and broker in stolen goods for drugs all in plain view"
+3940306,2022-10-01T09:08:00,Mission Beach,Street Light Maintenance,Open,3168?3194 Ocean Front Walk,Mission Beach boardwalk lights out and have been for a year
+3940307,2022-10-01T09:08:00,Mid-City:Normal Heights,Encampment,Open,4599 39th St,Homeless ward park
+3940308,2022-10-01T09:09:00,Balboa Park,Stormwater Code Enforcement,Open,600 Upas Street,Leaking Water Meter
+3940309,2022-10-01T09:09:00,Downtown,Parking,Open,202 C St,Abandon truck
+3940310,2022-10-01T09:10:00,Uptown,Stormwater Code Enforcement,Open,"3912 NORMAL ST, San Diego, CA 92103, USA",Water leak
+3940311,2022-10-01T09:11:00,Southeastern San Diego,Illegal Dumping,Open,325 25th St,Abandoned bed
+3940312,2022-10-01T09:11:00,Mid-City:Normal Heights,Graffiti - Public,Open,4619?4649 39th St,Grafitti
+3940313,2022-10-01T09:13:00,Mission Valley,Illegal Dumping,Open,S Sd River Bike Path,Homeless trash
+3940314,2022-10-01T09:13:00,Downtown,Illegal Dumping,Open,202 C St,Vertigo ilegal  G L
+3940315,2022-10-01T09:14:00,Clairemont Mesa,Missed Collection,Open,"3888 Marlesta Dr, San Diego, CA 92111, USA","Trash pickup missed for entire street of Marlesta Drive, south of Batista Street"
+3940317,2022-10-01T09:15:00,Mission Valley,Encampment,Open,S Sd River Bike Path,Homeless encampment on walking path on San Diego river next to Best Buy in Mission Valley. They leave trash and needles where ppl and dogs arew walking.
+3940319,2022-10-01T09:17:00,Southeastern San Diego,Encampment,Open,J St,Encampment.  I was notified by GetItDone that this was cleaned up yesterday.  Obviously nothing was done.
+3940320,2022-10-01T09:18:00,Southeastern San Diego,Graffiti - Public,Open,3065 Imperial Avenue,Translated: Graffiti on wall
+3940321,2022-10-01T09:19:00,Mission Valley,Encampment,Open,Rio San Diego Dr,Illegal living under 805 on Rio San Diego Drive that has Godwin in size and trash and illegal activity
+3940322,2022-10-01T09:19:00,Southeastern San Diego,Graffiti - Public,Open,"3034 COMMERCIAL ST, San Diego, CA 92113, USA",Translated: Graffiti ok on fence
+3940323,2022-10-01T09:22:00,Mira Mesa,Pothole,Open,"7695 Flanders Dr, San Diego, CA 92126, USA",Wide pothole across Eastbound Flanders at 7695 Flanders.  Thank you.
+3940324,2022-10-01T09:22:00,Southeastern San Diego,Graffiti - Public,Open,"121 S 30TH ST, San Diego, CA 92113, USA",Translated: Graffiti on wall
+3940325,2022-10-01T09:22:00,Downtown,Encampment,Open,999 Park Boulevard,"Again, Park & Broadway & Park Blvd West! Please clean our city!"
+3940326,2022-10-01T09:23:00,Greater Golden Hill,Encampment,Open,2201?2299 F St,"Homeless encampment ? human waste accumulating on sidewalk.  On the south side of F Street between 22nd St., and 23rd St."
+3940327,2022-10-01T09:23:00,Southeastern San Diego,Graffiti - Public,Open,"3044 COMMERCIAL ST, San Diego, CA 92113, USA",Translated: Graffiti on wall
+3940328,2022-10-01T09:24:00,Tierrasanta,Parking,Open,"5410 Repecho Dr, San Diego, CA 92124, USA",Parked in Red Zone
+3940329,2022-10-01T09:24:00,Downtown,Encampment,Open,902 Park Boulevard,Park Blvd & E. Encampment AGAIN! PLEASE clean!
+3940330,2022-10-01T09:24:00,Southeastern San Diego,Graffiti - Public,Open,"127 S 31ST ST, San Diego, CA 92113, USA",Translated: Graffiti on fence
+3940331,2022-10-01T09:25:00,Southeastern San Diego,Encampment,Open,J St,Encampment. Cases are being closed without anything being done.  I was notified that this was cleaned yesterday.
+3940332,2022-10-01T09:25:00,Southeastern San Diego,Graffiti - Public,Open,"123 S 31ST ST, San Diego, CA 92113, USA",Translated: Graffiti on wall
+3940333,2022-10-01T09:26:00,Mid-City:Kensington-Talmadge,Parking,Open,5001?5025 Adams Ave,Abandoned vehicle
+3940334,2022-10-01T09:26:00,Southeastern San Diego,Other,Open,"455 S 36TH ST, San Diego, CA 92113, USA",Street racing
+3940335,2022-10-01T09:27:00,Southeastern San Diego,Graffiti - Public,Open,"3146 COMMERCIAL ST, San Diego, CA 92113, USA",Translated: Graffiti on wall
+3940336,2022-10-01T09:27:00,Southeastern San Diego,Encampment,Open,J St,"Utterly third world corrupt disregard for health, safety, private  and public property"
+3940337,2022-10-01T09:27:00,Southeastern San Diego,Graffiti - Public,Open,3166 Webster Avenue,Translated: Graffiti on wall
+3940338,2022-10-01T09:29:00,Southeastern San Diego,Graffiti - Public,Open,"101 S 32ND ST, San Diego, CA 92113, USA",Translated: Graffiti on wall
+3940339,2022-10-01T09:29:00,Peninsula,Illegal Dumping,Open,4400?4402 Nimitz Blvd,Abandoned trash
+3940340,2022-10-01T09:29:00,Uptown,Tree Maintenance,Open,1659?1699 Myrtle Ave,Vegetation blocking sidewalk
+3940341,2022-10-01T09:30:00,Tierrasanta,Parking,Open,"5410 Repecho Dr, San Diego, CA 92124, USA",Parked in Red Zone
+3940342,2022-10-01T09:30:00,Southeastern San Diego,Graffiti - Public,Open,"89 S 32ND ST, San Diego, CA 92113, USA",Translated: Graffiti on wall
+3940343,2022-10-01T09:31:00,Mid-City:Normal Heights,Parking,Open,"4901 35th St, San Diego, CA 92116, USA",Car has expired plate and has been parked there for over one week.
+3940344,2022-10-01T09:32:00,North Park,ROW Maintenance,Open,2011 Haller St,Broken safety barrier
+3940345,2022-10-01T09:33:00,Southeastern San Diego,Graffiti - Public,Open,3159 Webster Avenue,Translated: Graffiti on fence
+3940346,2022-10-01T09:34:00,Southeastern San Diego,Graffiti - Public,Open,3038 Island Ave,Graffiti in Alley
+3940347,2022-10-01T09:34:00,Southeastern San Diego,Graffiti - Public,Open,3144 Clay Avenue,Translated: Graffiti on fence
+3940348,2022-10-01T09:35:00,Peninsula,Encampment,Open,Liberty Station Path,Unlawful camping in liberty station
+3940349,2022-10-01T09:36:00,Southeastern San Diego,Graffiti - Public,Open,"3142 WEBSTER AV, San Diego, CA 92113, USA",Translated: Graffiti on wall
+3940350,2022-10-01T09:39:00,Southeastern San Diego,Graffiti - Public,Open,2945 Webster Avenue,Translated: Graffiti on wall
+3940351,2022-10-01T09:39:00,Downtown,Encampment,Open,"1772 J ST, San Diego, CA 92101, USA",Encampment.  Passing cases to Environmental Services just to close cases is not working.  Environmental Services does nothing.  Was notified that this was cleaned up yesterday.
+3940352,2022-10-01T09:39:00,Kearny Mesa,Parking,Open,"4137 Caledonia Dr, San Diego, CA 92111, USA",Parked in front of the house for 5 days.
+3940353,2022-10-01T09:41:00,Southeastern San Diego,Graffiti - Public,Open,"2950 WEBSTER AV, San Diego, CA 92113, USA",Translated: Graffiti on wall
+3940355,2022-10-01T09:42:00,Southeastern San Diego,Graffiti - Public,Open,"2950 CLAY AV, San Diego, CA 92113, USA",Translated: Graffiti on fence
+3940356,2022-10-01T09:43:00,Uptown,Stormwater Code Enforcement,Open,3910 Normal Street,Continued severe waste of water. Stream of water down university Ave from ce ter divider trees on Normal 3919
+3940357,2022-10-01T09:43:00,Southeastern San Diego,Graffiti - Public,Open,"219 S 29TH ST, San Diego, CA 92113, USA",Translated: Graffiti on fence
+3940358,2022-10-01T09:43:00,Uptown,Parking,Open,3444 Pringle St,Vehicle hasn?t moved in over a week
+3940359,2022-10-01T09:43:00,Clairemont Mesa,Pothole,Open,4442 Paola Way,"The entire street, but specifically the entrance to my driveway is severely pot holed.  Run off from neighbors sprinklers and whenever it rains gathers water and Aedes mosquitoes start to show up.  My wife, children and I have also trip from these pot holes from parking on the street.  My driveway entrance is not the only one on the street that is need of repair."
+3940360,2022-10-01T09:44:00,Southeastern San Diego,Graffiti - Public,Open,"221 S 29TH ST, San Diego, CA 92113, USA",Translated: Graffiti on fence
+3940361,2022-10-01T09:45:00,Clairemont Mesa,Traffic Sign Maintenance,Open,3482?3498 Ecochee Ave,Street sign
+3940362,2022-10-01T09:46:00,Ocean Beach,Encampment,Open,"5190-5198 Brighton Ave, San Diego, CA 92107, USA","Homeless encampments all over Ocean Beach, with giant one STILL at tower 2. They've been there for months at this point!  There appears to be a large cleanup event today and you couldn't even move this encampment that's been there for weeks on end to let the good Samaritans at least try to do some of the cleanup you REFUSE to do?  For crying out loud, CLEAN THIS UP! ENOUGH!!!!!!"
+3940363,2022-10-01T09:46:00,Southeastern San Diego,Graffiti - Public,Open,"223 S 29TH ST, San Diego, CA 92113, USA",Translated: Graffiti on wall
+3940364,2022-10-01T09:47:00,Southeastern San Diego,Graffiti - Public,Open,"2872 WEBSTER AV, San Diego, CA 92113, USA",Translated: Graffiti on fence
+3940365,2022-10-01T09:48:00,Southeastern San Diego,Graffiti - Public,Open,"2856 CLAY AV, San Diego, CA 92113, USA",Translated: Graffiti on wall
+3940366,2022-10-01T09:49:00,Pacific Beach,Illegal Dumping,Open,4400?4422 Figueroa Blvd,Dumped couch on sidewalk
+3940367,2022-10-01T09:49:00,Southeastern San Diego,Graffiti - Public,Open,"2854 WEBSTER AV, San Diego, CA 92113, USA",Translated: Graffiti on fence
+3940368,2022-10-01T09:50:00,Clairemont Mesa,Other,Open,6541 Barnhurst Dr,Tall front fence 6541 Barnhurst
+3940369,2022-10-01T09:50:00,Southeastern San Diego,Graffiti - Public,Open,"219 S 28TH ST, San Diego, CA 92113, USA",Translated: Graffiti Lion Fence
+3940372,2022-10-01T09:52:00,Clairemont Mesa,Other,Open,6211 Charing St,Tall front fence 6211 Charing
+3940373,2022-10-01T09:53:00,Clairemont Mesa,Other,Open,6156 Charing St,Tall Front Fence
+3940374,2022-10-01T09:54:00,Ocean Beach,Encampment,Open,5115 Saratoga Avenue,Why do we bother reporting all these long term encampments ON OUR TREASURED beaches?  Clearly you don't care.  No wonder San Diego is a daily laughing stock on the national news.
+3940375,2022-10-01T09:54:00,Southeastern San Diego,Graffiti - Public,Open,"2138 EVERETT AV, San Diego, CA 92113, USA",Translated: Graffiti on fence
+3940376,2022-10-01T09:54:00,Downtown,Illegal Dumping,Open,1909 India St,Ashtray no permit
+3940377,2022-10-01T09:54:00,Mission Valley,Encampment,Open,8207 Station Village Ln,Homeless car off side of The Missions at Rio Vista on station village lane
+3940378,2022-10-01T09:55:00,Southeastern San Diego,Graffiti - Public,Open,2149 Everett Avenue,Translated: Graffiti on wall
+3940380,2022-10-01T09:55:00,Serra Mesa,Traffic Signal Issue,Open,"SANDROCK RD & GREYLING DR,, 92123",ON FLASH
+3940381,2022-10-01T09:55:00,Mission Bay Park,Encampment,Open,Mission Bay Bike Path,Homeless encampment
+3940382,2022-10-01T09:56:00,Southeastern San Diego,Graffiti - Public,Open,"2168 FRANKLIN AV, San Diego, CA 92113, USA",Translated: Graffiti on fence
+3940383,2022-10-01T09:56:00,Downtown,Illegal Dumping,Open,540 16th Street,Crackheads
+3940384,2022-10-01T09:56:00,Linda Vista,Traffic Sign Maintenance,Open,7621 Linda Vista Road,No parking/bike lane sign and post down
+3940385,2022-10-01T09:56:00,Downtown,Encampment,Open,1088 12th Avenue,"Park Blvd & Broadway, NE corner is DISGUSTING!"
+3940386,2022-10-01T09:56:00,Clairemont Mesa,Missed Collection,Open,3841 Marlesta Drive,Missed trash pickup
+3940387,2022-10-01T09:56:00,Pacific Beach,Other,Open,4667 Ocean Boulevard,Illegal Vendor on boardwalk
+3940388,2022-10-01T09:56:00,Southeastern San Diego,Graffiti - Public,Open,2162 Franklin Avenue,Translated: Graffiti on fence
+3940389,2022-10-01T09:57:00,Downtown,Encampment,Open,940 B St,Encampment
+3940390,2022-10-01T09:57:00,Downtown,Encampment,Open,550 15th Street,Pissing on windows
+3940391,2022-10-01T09:58:00,Clairemont Mesa,Missed Collection,Open,"3889 Marlesta Dr, San Diego, CA 92111, USA","The black trash can was not picked up on Sept 27, 2022."
+3940392,2022-10-01T09:58:00,Southeastern San Diego,Graffiti - Public,Open,"2152 FRANKLIN AV, San Diego, CA 92113, USA",Translated: Graffiti on wall
+3940394,2022-10-01T09:59:00,Downtown,Encampment,Open,550 15th Street,Todd Gloria.
+3940395,2022-10-01T09:59:00,Southeastern San Diego,Graffiti - Public,Open,"2134 FRANKLIN AV, San Diego, CA 92113, USA",Translated: Graffiti on fence
+3940396,2022-10-01T10:00:00,Southeastern San Diego,Illegal Dumping,Open,3401?3499 Florence Ln,Residents of 3444 Florence Street are continuously moving trash into the Alley way Florence Lane. Also their vehicles are always parked there blocking the alleyway. This is a nuisance and on going issue.
+3940399,2022-10-01T10:01:00,Southeastern San Diego,Graffiti - Public,Open,316 South Evans Street,Translated: Graffiti on wall
+3940400,2022-10-01T10:01:00,Clairemont Mesa,Parking,Open,"3799-3737 Balboa Terrace, San Diego, CA 92117, USA",A 1970s truck with an old camper has been parked on the street for five months. It?s a really broken down camper and it hasn?t moved in five months. I think it?s being used for storage. It is starting to attract people to camp overnight in the cul-de-sac in front of private property.
+3940401,2022-10-01T10:01:00,College Area,Environmental Services Code Compliance,Open,5175 Tipton Street,Recycle & trash bins along with trash all over the road
+3940402,2022-10-01T10:02:00,Southeastern San Diego,Graffiti - Public,Open,2035 Franklin Avenue,Translated: Graffiti on wall
+3940403,2022-10-01T10:02:00,University,Encampment,Open,I-5 N,homeless encampment
+3940404,2022-10-01T10:02:00,Mid-City:Eastern Area,Illegal Dumping,Open,6236 University Avenue,"Garbage all over the yard at a house at 6230 University Ave, San Diego 92115. It is a health hazard and will bring in the rats."
+3940407,2022-10-01T10:03:00,Downtown,Encampment,Open,540 16th Street,Issue not resolved or even close.
+3940409,2022-10-01T10:04:00,Uptown,Stormwater Code Enforcement,Open,1250 Cleveland Ave,2 unresponsive people dropping trash and taking up the whole sidewalk
+3940410,2022-10-01T10:04:00,Balboa Park,Parks Issue,Open,2229 Morley Field Dr,Standing Water
+3940411,2022-10-01T10:08:00,Mission Bay Park,Graffiti - Public,Open,"3098 NORTH MISSION BAY DR, San Diego, CA 92109, USA",Graffition city utility box in Mission Bay Park
+3940412,2022-10-01T10:08:00,Downtown,Encampment,Open,801 A St,Homeless encampment & continued open drug use on B street & 9th Ave downtown
+3940414,2022-10-01T10:09:00,Mid-City:Eastern Area,Graffiti - Public,Open,4754 Seminole Drive,Clay Park Sign needs painted after graffiti clean up
+3940416,2022-10-01T10:11:00,Peninsula,Encampment,Open,3770 Udall St,RV Camper Parked On Street For Over a Month
+3940420,2022-10-01T10:16:00,Downtown,Encampment,Open,1909 State St,Homeless encampment
+3940421,2022-10-01T10:17:00,North Park,Parking,Open,"2358-2300 31st St, San Diego, CA 92104, USA",Vehicle has been parked over three weeks
+3940423,2022-10-01T10:22:00,North Park,Parking,Open,"2358-2300 31st St, San Diego, CA 92104, USA",Vehicle left parked over 3 weeks
+3940424,2022-10-01T10:22:00,Mira Mesa,Parking,Open,"7645 Carroll Rd, San Diego, CA 92121, USA",Red line parking double parked as it see in the photo and other hiding in the alley was parked in the  fire lane
+3940425,2022-10-01T10:23:00,Southeastern San Diego,Encampment,Open,4412 Delta St,I made a report earlier of homeless encampment off the 805 ramp close to condo area. That area has cleared but one person has moved closer to our condo area behind a tree. His things are covered by a tarp and regularly collects more things in his cart.
+3940427,2022-10-01T10:25:00,Mira Mesa,Parking,Open,8011 Calico St,Abandoned Camping Trailer Expired Tags
+3940428,2022-10-01T10:26:00,North Park,Parking,Open,"2309 31st St, San Diego, CA 92104, USA",Vehicle has been parked over 1 month
+3940429,2022-10-01T10:28:00,Mid-City:City Heights,Sidewalk Repair Issue,Open,"4789 El Cajon Blvd, San Diego, CA 92115, USA",Needs sidewalk cleaning I. Front of business on corner. Has fecal matter and urine all over cause if pedestrians to step in and track in stores and homes.
+3940430,2022-10-01T10:28:00,Uptown,Encampment,Open,"1690 04TH AV, San Diego, CA 92101, USA",Homeless encampment
+3940431,2022-10-01T10:29:00,Southeastern San Diego,Illegal Dumping,Open,1368?1412 Rigel St,Community clean up and need trash picked up
+3940432,2022-10-01T10:29:00,Pacific Beach,Parks Issue,Open,601?679 Tourmaline St,"It?s unbelievable that the park staff does whatever he wants. I see him sleep in his shed now he?s giving free power to the homeless, no wonder they don?t leave our park. Someone need to enforce some kind of rules because our tax dollars cannot be waisted like this."
+3940433,2022-10-01T10:30:00,La Jolla,Parking,Open,"9622 NORTH TORREY PINES RD, San Diego, CA 92037, USA",Cars parked in bike lane
+3940435,2022-10-01T10:32:00,North Park,Missed Collection,Open,"3650 Boundary St, San Diego, CA 92104, USA",My mom has a ADA as she is disabled and her trash is not being collected. Her Trash day was Thursday 9/29 and I have already completed one miss collection on this app. I even called to confirm her ADA was still active. There is rotting trash that is causing an odor. Please collect trash.
+3940436,2022-10-01T10:32:00,Southeastern San Diego,Illegal Dumping,Open,1415?1471 Rigel St,Illegal containers of car oil dumping
+3940437,2022-10-01T10:38:00,Southeastern San Diego,Illegal Dumping,Open,1414?1470 Rigel St,Illegal dumping
+3940438,2022-10-01T10:39:00,Clairemont Mesa,Parks Issue,Open,"5124 ARVINELS AV, San Diego, CA 92117, USA",No community access to joint use hardcourt next to Innovation Middle School-Please address access issue! Should be unlocked when corresponding field and track are unlocked.
+3940440,2022-10-01T10:40:00,Barrio Logan,Illegal Dumping,Open,1494?1536 Rigel St,Tires left on sidewalk Rigel St
+3940442,2022-10-01T10:41:00,Navajo,Missed Collection,Open,"6001-6033 Wenrich Dr, San Diego, CA 92120, USA",Two green bins at curb not picked up
+3940443,2022-10-01T10:42:00,North Park,Graffiti - Public,Open,3095 El Cajon Blvd,Graffiti
+3940444,2022-10-01T10:42:00,North Park,Graffiti - Public,Open,3087 El Cajon Blvd,Graffiti
+3940445,2022-10-01T10:42:00,Downtown,Parking,Open,530 K St,Uhaul van parked in my resident parking spot for over 72 hours
+3940446,2022-10-01T10:42:00,North Park,Graffiti - Public,Open,3087 El Cajon Blvd,Graffiti
+3940447,2022-10-01T10:43:00,North Park,Graffiti - Public,Open,3075 El Cajon Blvd,Graffiti
+3940448,2022-10-01T10:43:00,North Park,Graffiti - Public,Open,3815 30th St,Graffiti
+3940449,2022-10-01T10:43:00,Mid-City:Normal Heights,Graffiti - Public,Open,3450 El Cajon Blvd,Graffiti
+3940450,2022-10-01T10:44:00,Linda Vista,Parking,Open,"5610 Mildred St, San Diego, CA 92110, USA","Toyota parked into my driveway, blocking exit"
+3940451,2022-10-01T10:44:00,Mission Beach,Encampment,Open,735 San Fernando Pl,Long term/overnight camping
+3940452,2022-10-01T10:45:00,Peninsula,Tree Maintenance,Open,4461 North Harbor Drive,Tree and bush blocking sidewalk and bike lane
+3940453,2022-10-01T10:46:00,Downtown,Encampment,Open,768 17th Street,I wanted to thank the policing division for addressing the problem at 17th & F Street!
+3940454,2022-10-01T10:48:00,Linda Vista,Graffiti - Public,Open,Genesee Av & Richland St,Graffiti on welcome to Linda Vista sign
+3940455,2022-10-01T10:50:00,Southeastern San Diego,Illegal Dumping,Open,132 Payne St,Sidewalk Erosion / Fire Hazard / Illegal Dumping
+3940456,2022-10-01T10:50:00,Peninsula,Parking,Open,"3815 Nipoma Pl, San Diego, CA 92106, USA",Left abandoned on the street with a Car Cover covering it
+3940457,2022-10-01T10:53:00,Linda Vista,Parking,Open,5605 Gaines St,Abandoned vehicle for 2 months
+3940458,2022-10-01T10:54:00,Peninsula,Parking,Open,3029 Jarvis St,Small empty trailer with car parts and misc is parked out front of the property where I live 3029 Jarvis St (my address is behind the house 3027 Jarvis St ss a 92106  boat has a lock on tire and is not attached to truck or car for over 7 days I am disabled and had to park a blk over every day!
+3940460,2022-10-01T10:56:00,Southeastern San Diego,Pothole,Open,132 Payne St,ASPHALT POT HOLES
+3940461,2022-10-01T11:01:00,Mid-City:City Heights,Parking,Open,4121 36th St,Car parked longer than 72 hours
+3940462,2022-10-01T11:01:00,Southeastern San Diego,Encampment,Open,165 19th St,Homeless encampment
+3940464,2022-10-01T11:04:00,Southeastern San Diego,Illegal Dumping,Open,1368?1412 Rigel St,Trash with cement tire
+3940465,2022-10-01T11:04:00,Southeastern San Diego,Encampment,Open,165 19th St,Homelessness
+3940466,2022-10-01T11:05:00,Encanto Neighborhoods,Illegal Dumping,Open,Imperial Av & 63rd St,Dumping on adkins close to 63rd st
+3940467,2022-10-01T11:05:00,North Park,Illegal Dumping,Open,"3946 IOWA ST, San Diego, CA 92104, USA",Furniture dumped in alley
+3940468,2022-10-01T11:07:00,Southeastern San Diego,Illegal Dumping,Open,1414?1470 Rigel St,Trash begind the fence
+3940469,2022-10-01T11:07:00,Navajo,Parking,Open,5151 Fontaine Street,Storing Car and Boat with Expired Tag
+3940470,2022-10-01T11:07:00,Mission Bay Park,Parks Issue,Open,Ventura Cove Park,Trash
+3940471,2022-10-01T11:07:00,Barrio Logan,Illegal Dumping,Open,1505 Rigel St,Tires dumped - 2nd request
+3940472,2022-10-01T11:09:00,Southeastern San Diego,Illegal Dumping,Open,1414?1470 Rigel St,Oil dumped - Hazardous
+3940473,2022-10-01T11:10:00,Southeastern San Diego,Illegal Dumping,Open,1415?1471 Rigel St,Trash behind fence
+3940474,2022-10-01T11:10:00,Torrey Pines,Traffic Sign Maintenance,Open,N Torrey Pines Rd & State Beach Reserve,Fallen parking sign at the beginning of Torrey Pines south beach free parking
+3940476,2022-10-01T11:11:00,Southeastern San Diego,Graffiti - Public,Open,1414?1470 Rigel St,Signage needs cleaning
+3940477,2022-10-01T11:12:00,Mid-City:City Heights,Encampment,Open,4019 33rd Street,"Encampments stolen grocery carts,bikes and trash"
+3940479,2022-10-01T11:13:00,Greater Golden Hill,Parking,Open,"3027 B ST, San Diego, CA 92102, USA",Illegal construction parking
+3940480,2022-10-01T11:14:00,Mid-City:City Heights,Illegal Dumping,Open,"3904 33RD ST, San Diego, CA 92104, USA",Illegal Dumping
+3940482,2022-10-01T11:14:00,Rancho Penasquitos,Graffiti - Public,Open,6844 SR 56 Bike Trail,Graffiti
+3940486,2022-10-01T11:16:00,Midway-Pacific Highway,Encampment,Open,3200-3270 Fordham Street,Homeless RV trailer
+3940488,2022-10-01T11:17:00,Downtown,Encampment,Open,C St,Drug use. Feces. Urine
+3940489,2022-10-01T11:19:00,Mid-City:City Heights,Illegal Dumping,Open,4264 45th Street,Trash
+3940490,2022-10-01T11:19:00,Southeastern San Diego,Graffiti - Public,Open,1369?1413 Rigel St,Graffiti on signage
+3940491,2022-10-01T11:19:00,Otay Mesa,Parking,Open,"Hawken Dr, San Diego, CA 92154, USA",abonded vehicle seems as a runner.  for over 72 hours days go by
+3940492,2022-10-01T11:20:00,Midway-Pacific Highway,Parking,Open,3445 Midway Drive,"Homeless RV, no license plates"
+3940494,2022-10-01T11:22:00,Peninsula,Parking,Open,4125 West Point Loma Boulevard,Dump truck still parked on Famosa Blvd
+3940495,2022-10-01T11:23:00,Southeastern San Diego,Environmental Services Code Compliance,Open,21 27th St,Ask them to leave multiple time and pick there thrash up. Everyday there bringing more people and thrash is over flowing the street and side walk. I constantly clean up there mess. Need the homeless to go somewhere else since I have to bring in the city to get there junk. There always doing illegal substance.
+3940496,2022-10-01T11:24:00,Peninsula,Parking,Open,619 Famosa Boulevard,"Abandoned boat, Formosa boulevard, no it hasn't moved there's only one address on that entire street on your app"
+3940497,2022-10-01T11:24:00,Mid-City:City Heights,Encampment,Open,"4000 33RD ST, San Diego, CA 92104, USA",Homeless on sidewalk and leaving trash on sidewalk
+3940498,2022-10-01T11:26:00,Peninsula,Parking,Open,619 Famosa Boulevard,Car with trailer still parked on Formosa boulevard for weeks and weeks and weeks
+3940500,2022-10-01T11:28:00,Peninsula,Parking,Open,619 Famosa Boulevard,Blue truck and trailer still parked on Fampsa Blvd5
+3940501,2022-10-01T11:29:00,Southeastern San Diego,Illegal Dumping,Open,1369?1413 Rigel St,Trash from community clean up
+3940502,2022-10-01T11:29:00,Uptown,Other,Open,2816 Columbia St,Stolen Packages
+3940503,2022-10-01T11:30:00,Mid-City:Normal Heights,Parking,Open,4844 Bancroft St,Parking
+3940504,2022-10-01T11:30:00,Peninsula,Encampment,Open,2736 Worden Street,Whack a mole homeless RV moved around corner on Warden street
+3940506,2022-10-01T11:35:00,Uptown,Graffiti - Public,Open,744 Robinson Ave,Remove graffiti
+3940507,2022-10-01T11:37:00,Uptown,Graffiti - Public,Open,535 West University Avenue,Graphic graffiti
+3940508,2022-10-01T11:37:00,Navajo,Parking,Open,7046 Murray Park Dr,RV Type Vehicle Parked for Several Weeks
+3940509,2022-10-01T11:38:00,Peninsula,Street Light Maintenance,Open,"3610 PLUMOSA DR, 92106",Multiple lights out per Rick G. 619-207-8302.
+3940510,2022-10-01T11:41:00,Rancho Penasquitos,Illegal Dumping,Open,9415 Maler Rd,Illegal dumping  construction materials
+3940512,2022-10-01T11:44:00,Skyline-Paradise Hills,Encampment,Open,5992 Altamont Dr,People use the dead end of my street as a ?hookup? spot or campsite.  My neighbors and I attempt to always keep it clean as there is always trash left behind.  The last 3 days has been a bit suspicious as this BMW and other car are always here.  They pretend to have car issues yet drive off in the vehicles during day.  They return every night.  It?s just odd that they have ?car issues? with the hood up and then leave early in the morning.  Currently they left but am sure they will return later today or tonight.  The BMW yesterday morning drove back to meet the other car when I left for work around 05:30.
+3940513,2022-10-01T11:45:00,Peninsula,Weed Cleanup,Open,2266 Worden Street,Pumpkin Patch gets bigger every year. It's almost a whole block long now taking up the entire sidewalk. Someone planted pumpkin seeds in the city greens pace several years ago.  Trash and rodents live in this.  Request complete removal
+3940515,2022-10-01T11:46:00,Uptown,Encampment,Open,"671 W WASHINGTON ST, San Diego, CA 92103, USA",Homeless encampment has not moved and is blocking meter and sidewalk
+3940516,2022-10-01T11:47:00,Mid-City:City Heights,Illegal Dumping,Open,"4288 42ND ST, San Diego, CA 92105, USA",Translated: Large objects blocking sidewalk
+3940517,2022-10-01T11:49:00,La Jolla,Parking,Open,"5582 Bahia Ln, La Jolla, CA 92037, USA","This bus and 8 other vehicles are a hazard to traffic, parked on both sides of the street. They have been there for months.  Many cars are under disrepair, leaking oil, and draining into the gutters"
+3940520,2022-10-01T11:52:00,Mid-City:City Heights,Encampment,Open,"3642 CENTRAL AV, San Diego, CA 92105, USA",Homeless camp next to park blocking driveways in alleyway behind houses
+3940521,2022-10-01T11:53:00,Southeastern San Diego,Dead Animal,Open,1368?1412 Rigel St,Dead cat
+3940522,2022-10-01T11:54:00,Mid-City:City Heights,Illegal Dumping,Open,"4154 41ST ST, San Diego, CA 92105, USA",Translated: Fridge Dumped In The Alley
+3940523,2022-10-01T11:55:00,Southeastern San Diego,Parking,Open,1321 Rigel Street,72 hours trailer parking
+3940524,2022-10-01T11:55:00,Mid-City:City Heights,Encampment,Open,3626 Central Avenue,Homeless camp next to park blocking driveways in alleyway behind houses
+3940525,2022-10-01T11:55:00,Southeastern San Diego,Illegal Dumping,Open,1368?1412 Rigel St,"Illegal dumping , chemical substance  and a tire."
+3940526,2022-10-01T11:57:00,Mid-City:City Heights,Illegal Dumping,Open,3626 Central Avenue,Homeless camp next to park blocking driveways in alleyway behind houses
+3940527,2022-10-01T11:58:00,Balboa Park,Illegal Dumping,Open,Balboa Park,Illegal dumping at edge of Quince Circle
+3940528,2022-10-01T11:58:00,Southeastern San Diego,Sidewalk Repair Issue,Open,1321 Rigel Street,Sidewalk is blocked by trash/oil/human waste from the motor home
+3940529,2022-10-01T11:58:00,Southeastern San Diego,Pothole,Open,"802 Payne St, San Diego, CA 92113, USA",Street turns into a dirt road which goes to a dead end with residents. Entering the dirtlot there is a big pothole dividing the street and gravel. The lot has had many issues like people doing doughnuts and crashing into other vehicles multiple times which i have been informed by neighbors police reports were given. Also alot of homeless activity and trash which is bad for our area since a school is right up the steps. WE NEED AN ACTUAL PAVED ROAD! last time all the city did was throw more gravel which caused more pot holes in the lot.
+3940530,2022-10-01T11:59:00,Skyline-Paradise Hills,Parking,Open,5680 Calle Sal Si Puedes,Illegal parking
+3940531,2022-10-01T12:01:00,Southeastern San Diego,Stormwater Code Enforcement,Open,1321 Rigel Street,Oil waste and human feces
+3940532,2022-10-01T12:02:00,Mid-City:City Heights,Parking,Open,"4605 Dwight St, San Diego, CA 92105, USA",Dark Blue car w/ some damage to right fender. Paint coming off hood. Right door window down. Reason unknown. Door unlocked. This car was left when truck in report # 03931416 was picked up after left in front of 4622 Dwight st. 92105 for over 3 weeks.
+3940535,2022-10-01T12:04:00,Southeastern San Diego,Street Sweeping,Open,1321 Rigel Street,Community did a neighborhood clean up and would like a street sweeper help Clean ourstreet
+3940536,2022-10-01T12:06:00,Navajo,Sidewalk Repair Issue,Open,"6160 Arno Dr, San Diego, CA 92120, USA",Sidewalk is raised high. City applied asphalt previously but sidewalk is raised past that now
+3940537,2022-10-01T12:06:00,Balboa Park,ROW Maintenance,Open,658?698 Quince Dr,Paint a crosswalk here
+3940538,2022-10-01T12:07:00,Southeastern San Diego,Street Light Maintenance,Open,1505 Rigel Street,Lights been turn off for over 2 year and repeated request to the get it done has failed . Would like the light to turned on and working for the safety of the community
+3940539,2022-10-01T12:09:00,Mira Mesa,Encampment,Open,9645?9667 Capricorn Way,Homeless in tent on Capricorn at Westview. Next to the park
+3940540,2022-10-01T12:09:00,Southeastern San Diego,Other,Open,1321 Rigel Street,Squatters taking over this property and making it and environmental hazard and a crime safe heaven
+3940541,2022-10-01T12:11:00,Southeastern San Diego,Dead Animal,Open,1321 Rigel Street,Dead cat or dog body
+3940542,2022-10-01T12:11:00,Mission Valley,Graffiti - Public,Open,2250 Camino De La Reina,Graffiti on city sign
+3940544,2022-10-01T12:17:00,Mid-City:Eastern Area,Missed Collection,Open,"4140 69th St, San Diego, CA 92115, USA",Did not pick up trash can on Friday
+3940546,2022-10-01T12:21:00,North Park,Graffiti - Code Enforcement,Open,3966 30th St,Graffiti
+3940548,2022-10-01T12:22:00,Mid-City:Eastern Area,Tree Maintenance,Open,4718 Rolando Blvd,"Large broken tree limb dangling over sidewalk, driveway, and private property"
+3940549,2022-10-01T12:22:00,Otay Mesa-Nestor,Traffic Signal Issue,Open,706 Harris Avenue,Traffic light partially out
+3940552,2022-10-01T12:26:00,Otay Mesa-Nestor,Illegal Dumping,Open,1851?1985 Saturn Blvd,Illegal dumping a mattress
+3940553,2022-10-01T12:27:00,Mid-City:Normal Heights,Illegal Dumping,Open,"4344 40TH ST, San Diego, CA 92105, USA",Trash everywhere
+3940555,2022-10-01T12:28:00,Mid-City:Normal Heights,Illegal Dumping,Open,"4342 40TH ST, San Diego, CA 92105, USA",Illegal dumping
+3940556,2022-10-01T12:28:00,Carmel Mountain Ranch,Parks Issue,Open,12140 Eastbourne Rd,Bathroom sanitation
+3940557,2022-10-01T12:28:00,Mid-City:City Heights,Parking,Open,4190 48th St,Car parked over 72 hours more like three weeks
+3940562,2022-10-01T12:43:00,Peninsula,Parking,Open,619 Famosa Boulevard,"Please clean up all long term parked cars on Famosa Blvd, there are loads that haven't moved in months.  Please just chalk mark everyone on both sides of the street the entire length."
+3940563,2022-10-01T12:43:00,Greater Golden Hill,Parking,Open,3255 Marlton Drive,"Trailer without plates parked on Marlton Dr. 92102, along Ivy Canyon for many days"
+3940564,2022-10-01T12:43:00,Uptown,Encampment,Open,3609 Third Ave,Homeless in need of assistance
+3940566,2022-10-01T12:46:00,Uptown,Graffiti - Public,Open,Washington St & 4th Av,Graffiti on utility bin
+3940567,2022-10-01T12:48:00,Uptown,Graffiti - Public,Open,"113 W WASHINGTON ST, San Diego, CA 92103, USA",Graffiti on USPS box
+3940568,2022-10-01T12:49:00,La Jolla,Dead Animal,Open,5130 La Jolla Blvd,Dead animal on the street
+3940569,2022-10-01T12:51:00,Uptown,Graffiti - Public,Open,601 West Washington Street,Graffiti on utility bin
+3940571,2022-10-01T12:52:00,Uptown,Graffiti - Public,Open,111 Washington Street,Graffiti on utility box
+3940572,2022-10-01T12:54:00,Navajo,Parking,Open,"6909 Hyde Park Dr, San Diego, CA 92119, USA",Hurricane motor home has been parked in same or adjacent spot for last 2-3 years and moved intermittently  probably when warned about parking violation.
+3940573,2022-10-01T12:55:00,Uptown,Parking,Open,"1851 San Diego Ave, San Diego, CA 92110, USA",This car was parked for more than two hours in a two hour zone.
+3940574,2022-10-01T12:57:00,Uptown,Illegal Dumping,Open,3953 1st Avenue,Homeless human feces middle of sidewalk
+3940575,2022-10-01T12:57:00,Clairemont Mesa,Parking,Open,"4975 Clairemont Mesa Blvd, San Diego, CA 92117, USA",This trailer has been parked in this location for over a week and is not attached to a truck or other vehicle.  Someone is living in it and it is taking up several parking  places.
+3940577,2022-10-01T13:07:00,North Park,Illegal Dumping,Open,3926 Iowa St,Renter?s couch left in alley
+3940578,2022-10-01T13:07:00,Uptown,Parking,Open,"2233 Front St, San Diego, CA 92101, USA",Car is BLOCKING our driveway.
+3940580,2022-10-01T13:12:00,Skyline-Paradise Hills,Parking,Open,8484 Miguel Vista Pl,Black Car sitting for months
+3940581,2022-10-01T13:13:00,Mira Mesa,Encampment,Open,"9396 Twin Mountain Cir, San Diego, CA 92126, USA","Encampment with car, bicycle and dog tied to tree at corner or 9396 Twin Mountain Circle and Gemini, been present for more than 72 hours"
+3940582,2022-10-01T13:14:00,Southeastern San Diego,Encampment,Open,"799 S 30TH ST, San Diego, CA 92113, USA",Encampment by Skate Park
+3940584,2022-10-01T13:16:00,Mid-City:Normal Heights,Encampment,Open,4344 40th St,"Illegal dumping, Homeless encampment blocking sidewalk, cul de sac"
+3940585,2022-10-01T13:21:00,Peninsula,Encampment,Open,Womble Rd,RV Encampment at Liberty Station Park
+3940586,2022-10-01T13:26:00,Uptown,ROW Maintenance,Open,3823 Fifth Ave,Please stencil passenger zone
+3940587,2022-10-01T13:26:00,Downtown,Traffic Sign Maintenance,Open,675 W G St,"Faded ""NO TURN ON RED"" sign attached to the traffic signal mastarm at the eastside of the intersection of W. G Street & Kettner Blvd."
+3940588,2022-10-01T13:26:00,Uptown,Parking,Open,"1755 San Diego Ave, San Diego, CA 92110, USA","This vehicle has been parked in the same spot for weeks, months even. It is under a silver cover. It has expired tags from Aug. They have been told several times to move the vehicle and the owner has not. It takes neighboring business parking as well as residents."
+3940589,2022-10-01T13:28:00,Mid-City:City Heights,Illegal Dumping,Open,1464 38th St,Illegal dumping
+3940590,2022-10-01T13:31:00,North Park,Parking,Open,"3980 Texas St, San Diego, CA 92104, USA",Car is parked in the Alley way behind the 3980 Texas Street property blocking a garage and the alley way. Please tow away.
+3940591,2022-10-01T13:31:00,North Park,Sidewalk Repair Issue,Open,4100 Idaho Street,Overgrown weeds encroaching on sidewalk
+3940594,2022-10-01T13:33:00,Greater Golden Hill,Encampment,Open,2201?2299 F St,"Homeless man dispersing trash onto street, and kicking violently."
+3940596,2022-10-01T13:35:00,Southeastern San Diego,Encampment,Open,"1823-1879 J St, San Diego, CA 92102, USA",This camp has grown to a ridiculous size with all the stolen bikes. it is impassible by pedestrians now. so many on the street in the dark
+3940597,2022-10-01T13:36:00,Miramar Ranch North,Other,Open,10162?10198 Scripps Gateway Ct,Suspicious activity
+3940598,2022-10-01T13:36:00,Downtown,Traffic Sign Maintenance,Open,1196?1198 Pacific Hwy,"Faded ""no U-turn"" pictogram sign attached to the traffic signal mastarm at the southside of the intersection of Pacific Highway & Grande Palm Court."
+3940599,2022-10-01T13:37:00,Mission Valley,Illegal Dumping,Open,S Sd River Bike Path,"Todd Gloria, can we get this strip pf path cleaned? Residents do not even want ti walk the path on this sixe of the river. Pretty shitty."
+3940600,2022-10-01T13:39:00,Mission Valley,Illegal Dumping,Open,Auto Cir,"Trash all over this area - horrible look on Mission Valley. I physically pick up trash myself, just ti help, but this area needs big attention"
+3940601,2022-10-01T13:40:00,Uptown,Parking,Open,1631 Walnut Avenue,Truck parked for 3 straight weeks
+3940602,2022-10-01T13:40:00,Downtown,Encampment,Open,726 F St,Homeless encampment blocking public sidewalk access
+3940603,2022-10-01T13:40:00,Peninsula,Parking,Open,4303 Montalvo St,Abandoned Car in need of urgent removal
+3940604,2022-10-01T13:41:00,Mission Valley,Stormwater,Open,846?876 Camino de la Reina,Uneven storm drain - very loud and annoying. It may just need a bit more cement added. This would be very helpful - the bump bump is every time a car drives over it
+3940605,2022-10-01T13:41:00,Downtown,Encampment,Open,801?899 Seventh Ave,Homeless encampment blocking public sidewalk access
+3940606,2022-10-01T13:41:00,Downtown,Encampment,Open,801?899 Seventh Ave,Homeless encampment blocking public sidewalk access
+3940607,2022-10-01T13:41:00,Reserve,Street Light Maintenance,Open,3200?3290 Pacific Hwy,"Streetlight on during the daytime overhead southbound Pacific Highway, it's the last one before the pedestrian bridge across the street from the Port of San Diego building."
+3940608,2022-10-01T13:41:00,Downtown,Encampment,Open,901 Seventh Ave,Homeless encampment blocking public sidewalk access
+3940609,2022-10-01T13:42:00,Downtown,Encampment,Open,716?798 E St,Homeless encampment blocking public sidewalk access
+3940610,2022-10-01T13:43:00,Clairemont Mesa,Missed Collection,Open,"6502 Forum St, San Diego, CA 92111, USA",The whole half of Forum was not picked up. Recycling was delayed by one day. Nothing has happened since.
+3940611,2022-10-01T13:44:00,Mission Valley,Illegal Dumping,Open,501?593 Camino de la Reina,This guy is literally sitting on the side of the road with all his belongings scattered about. What?! He has 2 pit bulls.
+3940612,2022-10-01T13:51:00,Midway-Pacific Highway,Encampment,Open,3225 Sports Arena Blvd,"At least 3 people Camping on corner of East Drive and Sports Arena, taking yp entire sidewalk next to bus stop."
+3940614,2022-10-01T13:51:00,Southeastern San Diego,Encampment,Open,J St,Possible stolen bicycles at homeless encampment 19th/J opass
+3940615,2022-10-01T13:53:00,Peninsula,Parking,Open,"2720 E Evans Rd, San Diego, CA 92106, USA",Vehicle parked in this location for 4+ weeks. It has NOT been moved.The vehicle HAS NOT moved more than one-tenth of a mile from the reported location.
+3940616,2022-10-01T13:54:00,Southeastern San Diego,Stormwater,Open,1999 19TH ST,Man hole cover removed
+3940617,2022-10-01T13:57:00,Downtown,Graffiti - Public,Open,1304 Imperial Ave,13th & imperial
+3940618,2022-10-01T13:57:00,Downtown,Other,Open,105 14th St,Trash can overflow
+3940619,2022-10-01T13:59:00,Peninsula,Parking,Open,"2805 Talbot St, San Diego, CA 92106, USA",Vehicle has been parked at this location for 8+ weeks.  No front license plate.
+3940621,2022-10-01T14:06:00,North Park,Parking,Open,2875 Upas Street,Cars stored long term on street.
+3940622,2022-10-01T14:06:00,Downtown,Graffiti - Public,Open,100 16th St,16th & Imperial
+3940623,2022-10-01T14:07:00,Downtown,Illegal Dumping,Open,800?876 C St,Large piles of trash blocking right of way
+3940624,2022-10-01T14:07:00,Carmel Valley,Parking,Open,"Del Mar Trails Rd, San Diego, CA 92130, USA",Car left in private condo parking lot for over 24 days unmoved and building cobwebs and dust.
+3940625,2022-10-01T14:07:00,North Park,Traffic Sign Maintenance,Open,3405 Herman Ave,Street sign
+3940626,2022-10-01T14:08:00,Balboa Park,Encampment,Open,CA-163 S,New camp up the 2nd side trail south of cement walk off of Bridle Trail
+3940627,2022-10-01T14:08:00,Downtown,Encampment,Open,"908 C ST, San Diego, CA 92101, USA","Homeless encampment blocking multiple sidewalks at SE corner of Ninth and C,"
+3940628,2022-10-01T14:09:00,Pacific Beach,Parking,Open,"1401 Reed Ave, San Diego, CA 92109, USA","This car is illegally parked in my residential parking spot and has been here for several hours. It is the third parking spot from the left at 1401 Reed Avenue, San Diego, CA 92109. It is a grey Nissan Sentra with license plate 5NPM921. Please tow ASAP."
+3940629,2022-10-01T14:11:00,Downtown,Illegal Dumping,Open,"876 09TH AV, San Diego, CA 92101, USA",Sidewalk by post office completely impassible
+3940631,2022-10-01T14:13:00,Downtown,Illegal Dumping,Open,"910 11TH AV, San Diego, CA 92101, USA",Massive piles of trash
+3940632,2022-10-01T14:14:00,Downtown,Encampment,Open,901 Park Blvd,Homeless encampment
+3940635,2022-10-01T14:17:00,Navajo,Sidewalk Repair Issue,Open,5801 Fairmount Ave,Obstructed walkway
+3940636,2022-10-01T14:18:00,San Ysidro,Encampment,Open,626 Front St,"Large encampment getting larger by the day. There is excessive drug use right in the open, effecting the surrounding businesses. Constant fighting, screaming, yelling and foul language. Up to 18 people at one time."
+3940637,2022-10-01T14:23:00,Encanto Neighborhoods,Graffiti - Public,Open,210 S San Jacinto Dr,Graffity
+3940638,2022-10-01T14:23:00,La Jolla,Parking,Open,"8111 Camino Del Oro, La Jolla, CA 92037, USA",Vehicle is parked in a 3 minute zone for an extended period of time.
+3940639,2022-10-01T14:25:00,Downtown,Encampment,Open,1367?1399 Second Ave,Encampment on second avenue and ash st.
+3940640,2022-10-01T14:26:00,Mid-City:Normal Heights,Environmental Services Code Compliance,Open,4670 Cherokee Ave,"Trash, recycling NEVER in bins, storm water violation, sanitation issues"
+3940641,2022-10-01T14:27:00,Mid-City:Eastern Area,Illegal Dumping,Open,4790?4824 Seminole Dr,Bulk items left on the sidewalk
+3940642,2022-10-01T14:27:00,Mid-City:Kensington-Talmadge,Tree Maintenance,Open,4626 Kensington Dr,Dangerous palm tree growth
+3940643,2022-10-01T14:28:00,Linda Vista,Stormwater Code Enforcement,Open,"1898-1882 Ulric St, San Diego, CA 92111, USA",A rather small but constant flow of water is coming down from David Street on to Ulric Street. I pass this spot three to four times a week both ways and the water stream has been looking the same every single time I have passed it for the past two or three weeks since it started. I have not tried to find the source of the water but it should be easy to find.
+3940644,2022-10-01T14:29:00,Mid-City:Normal Heights,Parking,Open,"4410 33RD PL, San Diego, CA 92116, USA",Abandoned truck
+3940646,2022-10-01T14:32:00,Mission Bay Park,Stormwater Code Enforcement,Open,Mission Bay Park,Water leake
+3940647,2022-10-01T14:33:00,Greater Golden Hill,Missed Collection,Open,2028 31st St,No green pick up
+3940648,2022-10-01T14:34:00,Carmel Valley,Pavement Maintenance,Open,13229 Winstanley Way,Sidewalk hazard
+3940650,2022-10-01T14:35:00,Greater Golden Hill,Parking,Open,2040 31st St,Parked car
+3940651,2022-10-01T14:35:00,Downtown,Graffiti - Public,Open,1610 Commercial St,Commercial & 17
+3940652,2022-10-01T14:36:00,Mission Beach,Parking,Open,2688 Mission Blvd,Truck parked in red blocking driveway
+3940653,2022-10-01T14:37:00,Southeastern San Diego,Street Light Maintenance,Open,207 19th St,Street lamp not turning on
+3940655,2022-10-01T14:40:00,Downtown,Graffiti - Public,Open,1455?1593 Commercial St,16th & commercial
+3940656,2022-10-01T14:43:00,Downtown,Encampment,Open,501 Seventh Ave,"A real mess, going on unchecked"
+3940657,2022-10-01T14:45:00,Downtown,Graffiti - Public,Open,1402 Commercial St,14th & commercial
+3940658,2022-10-01T14:45:00,La Jolla,Parking,Open,"8111 Camino Del Oro, La Jolla, CA 92037, USA",Vehicle is parked on a red curb and blocking access to the fire hydrant. Has been there for hours!
+3940659,2022-10-01T14:48:00,Southeastern San Diego,Parking,Open,34 27th St,"Resident at 34 27th street still leaves same car parked in the same spot and illegally works on it on the public street. It?s loud, he won?t stop, and has a garage he doesn?t use. I?ve made one report already."
+3940660,2022-10-01T14:49:00,Mid-City:City Heights,Illegal Dumping,Open,"4278 45TH ST, San Diego, CA 92115, USA",Trash
+3940661,2022-10-01T14:49:00,La Jolla,Parking,Open,"8111 Camino Del Oro, La Jolla, CA 92037, USA",Vehicle is parked in the 3 minute zone for hours.
+3940662,2022-10-01T14:50:00,Mid-City:Eastern Area,Traffic Signal Issue,Open,University Av & College Av,Turned head
+3940664,2022-10-01T14:51:00,Downtown,Graffiti - Public,Open,1401 Imperial Ave,14th & imperial
+3940665,2022-10-01T14:56:00,Pacific Beach,Traffic Signal Timing,Open,Grand Avenue & BALBOA AVE,Broken stoplight
+3940666,2022-10-01T14:57:00,Pacific Beach,Parking,Open,3910 Haines St,Car blocking public sidewalk
+3940667,2022-10-01T14:58:00,Pacific Beach,Traffic Signal Issue,Open,1932 Balboa Avenue,Traffic light not turning green
+3940668,2022-10-01T14:58:00,La Jolla,Graffiti - Public,Open,6705 Neptune Pl,Pumphouse tagged for over a week
+3940669,2022-10-01T14:59:00,Mira Mesa,Encampment,Open,"10749 Westview Pkwy, San Diego, CA 92126, USA","Shopping carts, trash, off Mira Mesa Blvd heading towards 15 North freeway"
+3940670,2022-10-01T14:59:00,Mid-City:City Heights,Other,Open,2557 Roseview Place,Trailer parked and chained to resident fence on 45th paper street.
+3940671,2022-10-01T15:02:00,Mid-City:Normal Heights,Illegal Dumping,Open,4638 Iowa St,"Dumping of junk (again). I had reported a chair (and other misc junk) dumped on my street - that first chair is gone now but a new one was dumped in the exact same place (ironically under the no dumping/littering sign). As with the first chair, I?ve seen random men passed iut in the chair when I walk my dog in the morning, which makes me feel a little unsafe. Can someone please pick it up?"
+3940672,2022-10-01T15:03:00,La Jolla,Parking,Open,"6622 Electric Ave, La Jolla, CA 92037, USA",Constantly abandoned in front of my house. The Missouri registration expired in August 2022
+3940673,2022-10-01T15:04:00,Serra Mesa,Parking,Open,"2095 Redbird Dr, San Diego, CA 92123, USA",Homeless WMA living on public street in front of private residence.  Vehicle has expired tags 9/2020.  Vehicle owner empties contents of vehicle on private property and hangs items on trees.  Has continued for two weeks.  Larry Ahern
+3940674,2022-10-01T15:04:00,Downtown,Other,Open,665 15th St,Angry homeless man yelling and harassing people AGAIN
+3940675,2022-10-01T15:06:00,Uptown,Encampment,Open,1200?1298 Pascoe St,Homeless reestablished their encampment a couple of hours after your efforts were made so we need your help again their influence on the neighborhood is continuously unsettling
+3940676,2022-10-01T15:06:00,Navajo,Pothole,Open,6886 Glenroy Street,Pothole/ When making a turn my tire always hits the hole.
+3940677,2022-10-01T15:06:00,La Jolla,Graffiti - Public,Open,1039 Silverado St,Graffiti on the side of the building. Prana Yoga Center La Jolla.
+3940678,2022-10-01T15:08:00,Downtown,Graffiti - Code Enforcement,Open,100 16th St,16th near porter potty
+3940679,2022-10-01T15:09:00,Southeastern San Diego,Parking,Open,"2083 Irving Ave, San Diego, CA 92113, USA",The vehicle has been stationed there for 7 days without being moved. And the registration sticker is expired.
+3940681,2022-10-01T15:16:00,Clairemont Mesa,Parking,Open,7059 Petit Street,Abandoned Vehicle
+3940682,2022-10-01T15:17:00,Pacific Beach,Traffic Signal Timing,Open,1940 Grand Avenue,Traffic light malfunction
+3940683,2022-10-01T15:21:00,Uptown,Missed Collection,Open,"4111 Stephens St, San Diego, CA 92103, USA",Missed collection on 2 trash bins
+3940684,2022-10-01T15:22:00,Clairemont Mesa,Parking,Open,7059 Petit Street,Abandoned Vehicle been there past 14 days
+3940686,2022-10-01T15:24:00,Southeastern San Diego,Illegal Dumping,Open,2669 K St,In the alley between 26th and 27th and K and L
+3940687,2022-10-01T15:25:00,Greater Golden Hill,Encampment,Open,2200?2298 F St,Homeless/Transient encampment
+3940688,2022-10-01T15:26:00,Pacific Beach,Traffic Signal Issue,Open,1924 Balboa Avenue,Red light from Balboa to the merge at Grand and Lamont is malfunctioning. Turning completely off and coming back on as red constantly
+3940689,2022-10-01T15:26:00,Uptown,Parking,Open,3140 Second Ave,Parking violation
+3940690,2022-10-01T15:28:00,Miramar Ranch North,Parks Issue,Open,11452 Blue Cypress Dr,"Lights ar Scripps Ranch Community Park still aren?t working, but you closed my other reports as being resolved.  It?s still dark in areas, which is a safety issue."
+3940691,2022-10-01T15:28:00,San Ysidro,Encampment,Open,626 Front St,Encampment
+3940693,2022-10-01T15:30:00,Navajo,Missed Collection,Open,"6450 Lance Way, San Diego, CA 92120, USA","The ADA person did not come to take out the blue recycling cart, which is very full.  Looks like the other blue carts on the block were emptied."
+3940696,2022-10-01T15:32:00,Pacific Beach,Illegal Dumping,Open,853 Grand Ave,Couch left in alley
+3940697,2022-10-01T15:32:00,Southeastern San Diego,Encampment,Open,"1850 COMMERCIAL ST, San Diego, CA 92113, USA",Homeless encampment
+3940698,2022-10-01T15:33:00,Ocean Beach,Parks Issue,Open,1910 Abbott St,It?s unfortunate that the public sidewalk can be blocked by vendors and citizens of San Diego or unable to access the seawall I understand there must be a vendor code at this point can you explain to me where the permit must be posted so people can tell if they?re legal vendor or not
+3940699,2022-10-01T15:33:00,Pacific Beach,Parking,Open,"1548 THOMAS AV, San Diego, CA 92109, USA",Illegally parked Uhaul in alley since this morning. Just parked blocking any kid to large size vehicle.
+3940701,2022-10-01T15:35:00,Mid-City:Eastern Area,Parking,Open,6651?6699 Marlowe Dr,Abandoned camper
+3940702,2022-10-01T15:35:00,Rancho Penasquitos,Traffic Sign Maintenance,Open,"12202 CAM DEL SUR, San Diego, CA 92129, USA",Add a no outlet sign to westbound Parkvillage road to alert drivers that there is no outlet going westbound on Parkvillage road.  This is needed now since Camino Del Sur has been extended to Park Village Road.  Thanks
+3940703,2022-10-01T15:38:00,Uptown,Parking,Open,"1755 San Diego Ave, San Diego, CA 92110, USA","This car has expired tags, it is covered with a silver cover. It has been parked there for more than 72 hours."
+3940704,2022-10-01T15:39:00,Uptown,Graffiti - Code Enforcement,Open,110 West Washington Street,Graffiti on sign
+3940705,2022-10-01T15:39:00,Pacific Beach,Traffic Signal Issue,Open,Garnet Av & Haines St,Yellow light out
+3940706,2022-10-01T15:41:00,Skyline-Paradise Hills,Other,Open,2841 Landscape Dr,This truck was Apparently hit by some foolish driver and remains parked
+3940707,2022-10-01T15:43:00,Pacific Beach,ROW Maintenance,Open,1099 Turquoise St,Repaint red curb - dangerous entering in Turquoise from Dawes street south
+3940708,2022-10-01T15:44:00,Skyline-Paradise Hills,Other,Open,2781 Beatrice St,3 Boats parked curbside using our neighborhood for storage be going on for to long please have them hauled away
+3940710,2022-10-01T15:46:00,La Jolla,Graffiti - Public,Open,1682 Torrey Pines Rd,Entire fence tagged
+3940711,2022-10-01T15:46:00,Peninsula,Encampment,Open,4305 Niagara Avenue,"RV parked for More than a month on Venice Street, at Niagra avenue."
+3940712,2022-10-01T15:47:00,Peninsula,Parking,Open,1835 Venice Street,RV parked for long time in neighborhood
+3940713,2022-10-01T15:48:00,Mira Mesa,Encampment,Open,"9300 Galvin Ave, San Diego, CA 92126, USA","Transients constantly on the pedestrian foot bridge using drugs, littering, showing in public in front of children, defecating in public. Bridge is unusable to public and in need of serious enforcement for encroachment, littering, and a multitude of other violations. Long overdo for action."
+3940714,2022-10-01T15:48:00,Pacific Beach,Encampment,Open,"796 THOMAS AV, San Diego, CA 92109, USA",Dude yelling at people and guy is rubbing body waste and trash all over the corner multiple reports made about this city of San Diego came out and power washed it. the same dude there same time wasting taxpayers money being disgusting shitting and pissing all over the corner fucking do something about it!!
+3940715,2022-10-01T15:48:00,North Park,Encampment,Open,3120 El Cajon Blvd,Homeless camp set up
+3940716,2022-10-01T15:49:00,Mid-City:City Heights,Parking,Open,4701?4799 Thorn St,Abandoned vehicle
+3940717,2022-10-01T15:50:00,Mira Mesa,Street Light Maintenance,Open,"9300 Galvin Ave, San Diego, CA 92126, USA",Lights on pedestrian footbridge are out. It's very dark and unsafe to use at night. Immediate Safety concern in need of immediate action from the city.
+3940719,2022-10-01T15:50:00,Peninsula,Parking,Open,1908 Guizot Street,RV parked in neighborhood
+3940720,2022-10-01T15:50:00,Uptown,Missed Collection,Open,"3475 Falcon St, San Diego, CA 92103, USA",recycling was not picked up and no note or sticker was left
+3940721,2022-10-01T15:52:00,Southeastern San Diego,Graffiti - Public,Open,408 30th St,Graffity on pole
+3940722,2022-10-01T15:52:00,Mira Mesa,Encampment,Open,"9300 Galvin Ave, San Diego, CA 92126, USA",Just witnessed transient urinating on east side of ramp on pedestrian bridge crossing black mountain road. Need the city to clean up the mess and get ride of the transients that are making the bridge a health hazard and littering on the bridge and all down Galvin Ave.
+3940723,2022-10-01T15:53:00,Mission Bay Park,Encampment,Open,Fiesta Island Rd,Illegal encampments
+3940724,2022-10-01T15:53:00,Peninsula,Parking,Open,1965 Froude Street,Illegally parked RV school bus
+3940725,2022-10-01T15:56:00,Greater Golden Hill,Parking,Open,1818 Granada Ave,Abandoned Car in South Park
+3940726,2022-10-01T15:57:00,Tierrasanta,Parking,Open,"4966 Corte Playa de Castilla, San Diego, CA 92124, USA","While the homeowners association has a strict policy with motor home parking, this motorhome will consistently park here for longer than 72 hours, taking up most street parking."
+3940727,2022-10-01T15:57:00,Linda Vista,Parking,Open,1065 Fresno Street,72-hour Violation
+3940728,2022-10-01T15:59:00,Uptown,Parking,Open,"3501 California St, San Diego, CA 92110, USA",This car has been parked here for several weeks. It is covered with a silver cover. We have reported this car many times and no one has moved them.
+3940729,2022-10-01T16:00:00,Southeastern San Diego,Graffiti - Public,Open,343 S 32nd St,Graffity on wall
+3940730,2022-10-01T16:00:00,Mission Valley,Encampment,Open,Auto Cir,Homeless encampment
+3940731,2022-10-01T16:01:00,Southeastern San Diego,Graffiti - Code Enforcement,Open,3211?3213 Ocean View Blvd,Graffity on wall
+3940733,2022-10-01T16:02:00,Encanto Neighborhoods,Illegal Dumping,Open,5118 Geneva Ave,Trash
+3940734,2022-10-01T16:02:00,Clairemont Mesa,Street Light Maintenance,Open,"4611 Chateau Dr, San Diego, CA 92117, USA",Light is not working at night. Bulb appears to be burnt out. Light is at the intersection of Chateau Dr and Diane Ave
+3940735,2022-10-01T16:03:00,Midway-Pacific Highway,Encampment,Open,"3760 Hancock St, San Diego, CA 92110, USA",I will post every single day until someone starts enforcing and ticketing.  Right out front of our business and we are empty now because this neighborhood looks disgusting.
+3940736,2022-10-01T16:03:00,Ocean Beach,Encampment,Open,5019 Newport Avenue,Homeless encampment
+3940737,2022-10-01T16:03:00,Encanto Neighborhoods,Illegal Dumping,Open,"5092 HILLTOP DR, San Diego, CA 92114, USA",Couch on sidewalk.
+3940738,2022-10-01T16:05:00,Downtown,Other,Open,1065 Park Blvd,"Shopping cart full  of stuff,blanket and pillows  on c street"
+3940739,2022-10-01T16:06:00,Ocean Beach,Parks Issue,Open,5099 Newport Avenue,Dozens of unpermitted vendor at makeshift flea market!  Is Oktoberfest this weekend?
+3940740,2022-10-01T16:06:00,Mission Bay Park,Encampment,Open,2525 Bacon St,"Once again there are filthy homeless encampents on the embankment near Robb Field between the bike path and the estuary, which is sensitive wildlife habitat that is supised to be protected.  The two encampments shown in my attached photos (which I toik ghis sfternoon while my wife and I were riding our bikes) are located opposite the Peninsula Tennis Club.  Thank you for removing then."
+3940741,2022-10-01T16:07:00,Downtown,Encampment,Open,950 Market St,Blue tent on 10th and Market NW corner
+3940742,2022-10-01T16:07:00,Southeastern San Diego,Parking,Open,532 S Bancroft St,Truck has been parked there for weeks and it?s taking up parking space
+3940743,2022-10-01T16:08:00,Mid-City:Eastern Area,Illegal Dumping,Open,6307 University Avenue,Illegal dumping in the right of way near a preschool
+3940744,2022-10-01T16:09:00,Southeastern San Diego,Graffiti - Public,Open,3441 Ocean View Blvd,Graffity on wall
+3940745,2022-10-01T16:10:00,Downtown,Encampment,Open,950 Market St,Blue tent on 10th and Market North west corner
+3940746,2022-10-01T16:10:00,Mid-City:Kensington-Talmadge,Parking,Open,"5148-5100 Marlborough Dr, San Diego, CA 92116, USA",VEHICLE parks in red zone in the evenings & weekends - making left turns from Hilldale onto Marlborough very dangerous as there is not a clear line of sight
+3940748,2022-10-01T16:12:00,Ocean Beach,Encampment,Open,1946 Abbott Street,Emcapment grass part at North side of ocean beach lifeguard lot
+3940749,2022-10-01T16:12:00,Mid-City:City Heights,Encampment,Open,"4170 REDWOOD ST, San Diego, CA 92105, USA",Fires at homeless encampment
+3940750,2022-10-01T16:12:00,University,Encampment,Open,"Unnamed Road, San Diego, CA 92122, USA",Older woman 70's appears to be living at the shopping center.  She is wearing bags on her feet.  Carries a plastic chair with her.  Needs outreach badly.
+3940751,2022-10-01T16:12:00,Encanto Neighborhoods,Graffiti - Public,Open,5101?5119 Hilltop Dr,Graffiti
+3940752,2022-10-01T16:13:00,Ocean Beach,Encampment,Open,5134 Saratoga Avenue,Emcapment Ocean beach between tower 2 and 3
+3940753,2022-10-01T16:15:00,Downtown,Graffiti - Public,Open,340 16th St,16th & j s4a parking lot
+3940754,2022-10-01T16:18:00,Navajo,Parks Issue,Open,5940 Glenlea Ln,Need sewer department to move rock back on sewer access path to prevent people from driving into the park.
+3940756,2022-10-01T16:18:00,North Park,Environmental Services Code Compliance,Open,4304 Louisiana St,Trash containers were put here by unknown person. Been there going on two weeks. Plus now people are starting leave their trash and now a TV.
+3940758,2022-10-01T16:19:00,Skyline-Paradise Hills,Sidewalk Repair Issue,Open,600?698 Parkwood Dr,Blocked sidewalk
+3940759,2022-10-01T16:20:00,Ocean Beach,Graffiti - Public,Open,1850 Ocean Front Street,Graffiti on Ocean Beach Pier piling stairs and length of seawall
+3940760,2022-10-01T16:20:00,Downtown,Graffiti - Public,Open,425 15th St,Jst white building
+3940761,2022-10-01T16:21:00,University,Traffic Sign Maintenance,Open,"3802 GOVERNOR DR, San Diego, CA 92122, USA",Sign down
+3940762,2022-10-01T16:22:00,Ocean Beach,Graffiti - Public,Open,5116 Narragansett Avenue,Graffiti retaining wall south of ocean beach pier
+3940763,2022-10-01T16:22:00,North Park,Environmental Services Code Compliance,Open,4304 Louisiana St,Containers left here. Someone put them there about two weeks ago.
+3940764,2022-10-01T16:24:00,Uptown,Parking,Open,"1784 San Diego Ave, San Diego, CA 92110, USA",This car has been parked there for more than 72 hours. It has a silver cover.
+3940766,2022-10-01T16:25:00,Downtown,Encampment,Open,C St,Tents and trash lining the sidewalk
+3940767,2022-10-01T16:28:00,Clairemont Mesa,Stormwater,Open,5517 Mount Aconia Dr,Drain needs a grate
+3940769,2022-10-01T16:34:00,Clairemont Mesa,Graffiti - Public,Open,Regents Road,Graffiti
+3940770,2022-10-01T16:36:00,Clairemont Mesa,Graffiti - Public,Open,4503 Gila Ave,Graffiti
+3940771,2022-10-01T16:38:00,Skyline-Paradise Hills,Graffiti - Public,Open,7078 Deerhurst Ct,Graffiti
+3940772,2022-10-01T16:39:00,Pacific Beach,Traffic Signal Issue,Open,4601?4613 Ingraham St,Yellow light out on Ingraham SB at Felspar
+3940773,2022-10-01T16:40:00,Downtown,Graffiti - Code Enforcement,Open,1492 K St,15th & K in front of nook
+3940774,2022-10-01T16:40:00,Balboa Park,Illegal Dumping,Open,2844?2892 Golf Course Dr,Illegal dumping
+3940775,2022-10-01T16:41:00,Mid-City:City Heights,Missed Collection,Open,"3107 46th St, San Diego, CA 92105, USA","Hello, the trash and recycling both came by yesterday (9/30/22).  Our recycling was picked up (thank you) but the trash was not.  We live on the alley side, and the east side of the alley was picked up, however, the entire west side of the alley was not.  Unfortunately, my trash bins are full (and so are most of the neighbors that I've seen) which means trash pick-up cannot wait another week, otherwise the trash bags will have to be left out of containers (and I have 3 containers) and in the alley. Please schedule a refuse pick-up as soon as possible.  Thank you in advance."
+3940776,2022-10-01T16:45:00,North Park,Graffiti - Public,Open,2329 Madison Ave,Graffiti on mail box  please remove   Thank you
+3940778,2022-10-01T16:46:00,Barrio Logan,Parking,Open,"2001 Newton Ave, San Diego, CA 92113, EE. UU.",I have reported this van before and it has stayed in the same place for more than a month.
+3940779,2022-10-01T16:46:00,North Park,Graffiti - Public,Open,2329 Madison Ave,Graffiti on mail box  please remove   Thank you
+3940780,2022-10-01T16:47:00,Uptown,Graffiti - Code Enforcement,Open,111 Washington St,Graffiti on utility box   Please remove   Thank you
+3940781,2022-10-01T16:48:00,Uptown,Graffiti - Public,Open,123 W Washington St,Graffiti on mail box  Please remove   Thank you
+3940782,2022-10-01T16:48:00,Uptown,Graffiti - Public,Open,3972 Jackdaw St,Graffiti on wall please remove   Thank you
+3940783,2022-10-01T16:49:00,Uptown,Graffiti - Public,Open,414 University Ave,Graffiti on planter  Please remove   Thank you
+3940784,2022-10-01T16:49:00,Clairemont Mesa,Illegal Dumping,Open,7555 Cullen St,Cement parking block needs to be removed.
+3940785,2022-10-01T16:50:00,Uptown,Graffiti - Public,Open,Washington St,Graffiti on pedestrian bridge  please remove   Thank you
+3940786,2022-10-01T16:50:00,Clairemont Mesa,Sidewalk Repair Issue,Open,"4183 CHIPPEWA CT, San Diego, CA 92117, USA",Overgrown shrubs and uneven sidewalk makinf it hard to walk with stroller or wheelchair
+3940787,2022-10-01T16:52:00,Mid-City:Normal Heights,Illegal Dumping,Open,"4622 40TH ST, San Diego, CA 92116, USA",Trash
+3940789,2022-10-01T16:53:00,Downtown,Encampment,Open,1301?1365 Second Ave,Encampment on second and a st.
+3940790,2022-10-01T16:55:00,Midway-Pacific Highway,Encampment,Open,2150 Hancock Street,"Chronic encampments here behind businesses. Huge fire risks, biohazardous issues, public safety issues. Please abate/outreach 4th request"
+3940791,2022-10-01T16:57:00,Old Town San Diego,Illegal Dumping,Open,3860 Old Town Avenue,Chronic debris in this area. Please abate
+3940792,2022-10-01T17:00:00,Mira Mesa,Encampment,Open,"10479 Westview Pkwy, San Diego, CA 92126, USA",Photos say it all!!! Horrified that there is now a new HOMELESS ENCAMPMENT AT THE ENTRANCE OF THE 15 FREEWAY NORTH ON MIRA MESA BLVD.  THEY ARE LOCATED NEAR THE A COMMUNITY BASED SHOPPING CENTER.  WHERE CHILDREN AND FAMILY GO TO ON A DAILY BASIS. THEY ARE A DANGER TO THE COMMUNITY AND HORRIBLE!!!
+3940793,2022-10-01T17:01:00,Mission Bay Park,Encampment,Open,2429 Levee Street,"Wow, the homeless encampments at Robb Field are worse than behind sports arena!  Has the city just ceded control of these two places to the homeless? The sheer volume of car and RV encampments at rob field requires a spreadsheet to tally up.  How sad.  I can only imagine the crime that happens here."
+3940794,2022-10-01T17:03:00,Midway-Pacific Highway,Encampment,Open,2801 Camino del Rio West,Chronic encampments here under bridge at camino del rio west entry point. Biohazardous issues and fire risks to the general area as we've witnessed in the recent past.
+3940795,2022-10-01T17:04:00,Uptown,Parking,Open,"3658 05TH AV, San Diego, CA 92103, USA",3600 Block of 5th Ave parking signs are few and far in between!
+3940796,2022-10-01T17:05:00,Mid-City:Eastern Area,Parking,Open,4185 Orange Avenue,Abandoned vehicle
+3940797,2022-10-01T17:06:00,Mission Bay Park,Parks Issue,Open,"2528 BACON ST, San Diego, CA 92107, USA",Homeless RV at robb field  plate 1POS974 (?) with sewage running into parking lot
+3940798,2022-10-01T17:06:00,Mid-City:Eastern Area,Illegal Dumping,Open,4185 Orange Avenue,E-waste on sidewalk
+3940799,2022-10-01T17:08:00,Downtown,Other,Open,268 16th St,16th and K trashcan overfilled
+3940800,2022-10-01T17:08:00,Downtown,Encampment,Open,1200?1298 Broadway,Homeless encampment blocking sidewalk - we have to walk in the street!
+3940801,2022-10-01T17:10:00,Mid-City:City Heights,Street Sweeping,Open,3577 40th Street,Translated: Abandoned vehicle 15 days ago
+3940802,2022-10-01T17:10:00,Mid-City:Eastern Area,Illegal Dumping,Open,5404 Orange Avenue,Construction site has generated a bunch of trash
+3940803,2022-10-01T17:10:00,Otay Mesa-Nestor,Parking,Open,1825 Elm Ave,White Ford pickup is to close to the red curb and I have a hard time to get in out of my driveway because of the traffic on Elm Ave. The license plate is 41080M1
+3940804,2022-10-01T17:11:00,Peninsula,Parking,Open,2770?2798 E Bainbridge Rd,6UAE322
+3940805,2022-10-01T17:14:00,Downtown,Graffiti - Public,Open,1415?1457 K St,Across from Carquest auto parts
+3940806,2022-10-01T17:16:00,Peninsula,Parking,Open,2151 Catalina Boulevard,RV still parked on street
+3940807,2022-10-01T17:17:00,Mid-City:Eastern Area,Illegal Dumping,Open,4150 54th Place,Box of trash at Colina del Sol pool parking lot
+3940808,2022-10-01T17:18:00,Navajo,Pothole,Open,"7196 GLENROY ST, San Diego, CA 92120, USA",Potholes
+3940809,2022-10-01T17:18:00,Southeastern San Diego,Parking,Open,"829 S 33RD ST, San Diego, CA 92113, USA",Parked car
+3940810,2022-10-01T17:22:00,Southeastern San Diego,Parking,Open,3315 Martin Ave,In-op cars
+3940811,2022-10-01T17:30:00,Navajo,Traffic Sign Maintenance,Open,TUXEDO RD & GOLFCREST,Stop sign corner of Tuxedo and Golfcrest has faded and is illegible
+3940813,2022-10-01T17:33:00,Kearny Mesa,Parking,Open,7636 Caldy Place,Parked in street
+3940814,2022-10-01T17:36:00,Ocean Beach,Encampment,Open,Ocean Beach,"Encampment going up. Has been shouting and yelling at people on the beach, and trying to set this up for 45 min."
+3940815,2022-10-01T17:37:00,Mission Bay Park,Parking,Open,816 El Carmel Place,Parking in red zone
+3940816,2022-10-01T17:37:00,Peninsula,Parking,Open,960 Gage Dr,Car parked for very long time over 72 hour limit
+3940817,2022-10-01T17:38:00,Mid-City:City Heights,Illegal Dumping,Open,4173 36th St,Illegal dumping. This pile of trash has been there for weeks
+3940818,2022-10-01T17:39:00,Peninsula,Parking,Open,"961 GAGE DR, San Diego, CA 92106, USA",Car parked several days
+3940820,2022-10-01T17:42:00,Midway-Pacific Highway,Encampment,Open,Riley St,Homeless encampment in RV. Police just came to talk to them and he just moved the RV down the street. Get rid of them please!!
+3940821,2022-10-01T17:42:00,Black Mountain Ranch,Street Sweeping,Open,Carmel Valley Rd,Gravel dumped in bike lane
+3940822,2022-10-01T17:46:00,Downtown,Graffiti - Code Enforcement,Open,1401 J St,14th & J
+3940825,2022-10-01T17:48:00,Rancho Penasquitos,Traffic Sign Maintenance,Open,Camino del Sur,Pedestrian crossing sign down
+3940826,2022-10-01T17:49:00,Downtown,Graffiti - Public,Open,"1418 J ST, San Diego, CA 92101, USA",J street
+3940827,2022-10-01T17:49:00,Downtown,Graffiti - Code Enforcement,Open,1437 J St,Fault line park and J
+3940828,2022-10-01T17:51:00,Downtown,Graffiti - Public,Open,1440 J St,Graffiti
+3940829,2022-10-01T17:53:00,Downtown,Street Light Maintenance,Open,200 W Island Ave,All street lamps out northside Southside island between front and Union
+3940830,2022-10-01T17:55:00,Clairemont Mesa,Stormwater,Open,4506 Gesner St,This city owned open storm drain running behind these houses is covered a foot deep with dry leaves posing a fire hazard. The dead leaves and brush need to be cleared.
+3940831,2022-10-01T17:55:00,Downtown,Graffiti - Code Enforcement,Open,1481 J St,Corner of J St and 15th across from 1480 apartments
+3940832,2022-10-01T17:56:00,Downtown,Encampment,Open,655 Fifth Ave,Safety ambassador Michael while on patrol came across those individuals playing music loudly. The manager of the Grey Stone was very concerned about this.
+3940833,2022-10-01T17:58:00,Downtown,Graffiti - Public,Open,350?398 15th St,J & 15th
+3940834,2022-10-01T18:00:00,Mission Bay Park,Shared Mobility Device,Open,2900?2930 Bayside Walk,Scooter
+3940836,2022-10-01T18:03:00,Downtown,Encampment,Open,1502 Market St,Encampment. Blocking sidewalk
+3940837,2022-10-01T18:04:00,Torrey Pines,Pavement Maintenance,Open,"13595 MIRA MONTANA DR, 92014",ROAD NEEDS RESURFACED. CONTACT EILEEN 858-705-3321.
+3940838,2022-10-01T18:04:00,Downtown,Encampment,Open,600 Fifth Ave,This individual is in front of the Barley Mash restaurant playing music so loud no one can hear. Spoke with individual asked him to turn down the music told me what to do. Both managers at barley mash and the Saltwater restaurant are very upset.
+3940839,2022-10-01T18:05:00,North Park,Encampment,Open,3932 Iowa Street,"Drug seeker blocking entrance to home, aggressive"
+3940840,2022-10-01T18:06:00,Mid-City:Kensington-Talmadge,Tree Maintenance,Open,"4321 Alder Dr, San Diego, CA 92116, USA",Fire hazard - neighbors have told me that the resident at 4321 Alder Dr is setting brush on fire in his canyon backyard.
+3940841,2022-10-01T18:09:00,Tierrasanta,Encampment,Open,Seda Dr,Occupied Motor home parked on public street most nights of the year so far. Probably belongs to 11235 Promesa Dr or a friend of theirs who lives in the motorhome and is occasionally parked In that driveway.
+3940842,2022-10-01T18:12:00,Pacific Beach,Encampment,Open,1359 Garnet Avenue,Homeless encampment
+3940843,2022-10-01T18:13:00,Balboa Park,Encampment,Open,1478-1374 26th Street,"Several abandoned homeless encampments off west side of 26th st. , Along Golden Hill Park"
+3940844,2022-10-01T18:17:00,Peninsula,Tree Maintenance,Open,"891 Catalina Blvd, San Diego, CA 92106, USA",Dead Canary Island Palm Tree on Catalina Blvd 92106  DSCN3008.jpg
+3940845,2022-10-01T18:20:00,Southeastern San Diego,Tree Maintenance,Open,"2908 Webster Ave, San Diego, CA 92113, USA",Requesting the removal/stump grinding of stump located in the parkway between sidewalk and street. The stump remains following removal of the tree by city contracted services in May 2022.  The stump poses a trip hazard to pedestrians and is a liability to the City of San Diego.
+3940846,2022-10-01T18:24:00,Otay Mesa-Nestor,Encampment,Open,4083 Peterlynn Ct,Abandon  car
+3940847,2022-10-01T18:24:00,Southeastern San Diego,Traffic Signal Issue,Open,"19TH ST & COMMERCIAL ST,, 92113","PER PD, LIGHTS FLASHING RED ON ALL DIRECTIONS"
+3940848,2022-10-01T18:26:00,Midway-Pacific Highway,ROW Maintenance,Open,Naval Base Point Loma (Old Town Campus),We're barb sticking out of rode. Someone is going to get impaled... serious city law suit! I reported this two weeks ago!
+3940849,2022-10-01T18:27:00,Old Town San Diego,Parking,Open,2439 Juan St,Car parked on red curb
+3940850,2022-10-01T18:29:00,Mira Mesa,Encampment,Open,"9429 Gemini Ave, San Diego, CA 92126, USA","There is a 4 door grey lexus parked in the noted area.  He is trashing up the parking lot, street and property of the small shopping area.  He is a black guy, the vehicle looks like it is loosing it front axel because the front wheels looks like they are going to fall off.  He does have a dog and he seems like he is on something.  He walks around in the neighborhood and looks strange.  Please have this person and his belongings removed.  Thanks"
+3940851,2022-10-01T18:35:00,Ocean Beach,Other,Open,2525 Bacon Street,Homeless women on sunset cliffs going into ocean beach with shirt off and braless stepping into teaffic
+3940852,2022-10-01T18:37:00,Mid-City:Eastern Area,Parking,Open,6573 Serrano Pl,Car has been parked longer than 72 hours
+3940853,2022-10-01T18:38:00,Midway-Pacific Highway,Pothole,Open,"3253 Wing St, San Diego, CA 92110, USA",This road has needed to be repaved for 3 years.  It keeps throwing my car out of alignment.
+3940854,2022-10-01T18:39:00,Clairemont Mesa,Pothole,Open,4744 Diane Ave,Pothole 4739 Diane Ave
+3940855,2022-10-01T18:40:00,Otay Mesa-Nestor,Encampment,Open,4083 Peterlynn Ct,Abandon  car
+3940856,2022-10-01T18:44:00,Southeastern San Diego,Graffiti - Code Enforcement,Open,2630 K St,Graffiti
+3940857,2022-10-01T18:46:00,Peninsula,Encampment,Open,"2410-2380 Cushing Rd, San Diego, CA 92106, USA","Liberty Station, NTC PARK, report this all the time and nothing is done.  Living in the park, at least 3 RV's, campers, vans and on surrounding streets (Cushing Rd).  Never leave.  Living for free and in comfort while those in homes with high taxes etc. have to look at them.  Simple fix:  Go by at night with a bull horn or loud speaker and tell them to drive out of the park and area and don't return!!"
+3940858,2022-10-01T18:49:00,Otay Mesa-Nestor,Environmental Services Code Compliance,Open,4083 Peterlynn Ct,Abandon
+3940859,2022-10-01T18:50:00,San Ysidro,Parking,Open,"1966 Avenida De La Cruz, San Diego, CA 92173, USA","This vehicle has been at the same spot, unmoved, for over 4 weeks (1 month)."
+3940860,2022-10-01T18:50:00,Pacific Beach,Parking,Open,1775 Diamond St,Red zone parking violation. This car parks here 3-4 times a week for hours/overnight
+3940861,2022-10-01T18:52:00,Serra Mesa,Parking,Open,9482?9542 Larrabee Ave,Abandoned Work truck - Been here 3 weeks
+3940862,2022-10-01T18:56:00,Southeastern San Diego,Parking,Open,311 S Pardee St,Car parked on a handicap parking without handicap permit/ handicapped
+3940863,2022-10-01T19:00:00,San Ysidro,Parking,Open,"Avenida De La Madrid, San Diego, CA 92173, USA","The vehicle appear to be abandoned. It has been at the same spot, unmoved, for over 16 weeks (4 months)."
+3940864,2022-10-01T19:09:00,Otay Mesa-Nestor,Parking,Open,918 Kostner Dr,Car parked for more than a month - flat tire
+3940865,2022-10-01T19:14:00,Mid-City:City Heights,Parking,Open,"5308 Lea St, San Diego, CA 92105, USA",Minivan parked here for well over 4 weeks. Hasn?t moved. Cobwebs in wheel wells.
+3940866,2022-10-01T19:16:00,North Park,Encampment,Open,"2648 EL CAJON BL, San Diego, CA 92104, USA",Multiple people living in rv for more than 3 weeks
+3940867,2022-10-01T19:17:00,Downtown,Other,Open,270 16th St,Trash can overflow by Logan market and liquor
+3940868,2022-10-01T19:21:00,Mid-City:City Heights,Sidewalk Repair Issue,Open,4345 Orange Avenue,"I can't walk freely on this sidewalk due to tables and chairs spread out and people actually dining in the middle of the sidewalk. I literally have to walk onto the street to avoid the crowd gathered. Once close up I noticed they are selling food, next to an alley where garbage bins line the alleyway. Very Unsanitary!!"
+3940869,2022-10-01T19:23:00,Mid-City:Kensington-Talmadge,Illegal Dumping,Open,4507 Terrace Dr,Dumped stationary bike
+3940870,2022-10-01T19:24:00,Ocean Beach,Parks Issue,Open,1910 Abbott St,Illegal vendors
+3940871,2022-10-01T19:26:00,Rancho Penasquitos,Traffic Sign Maintenance,Open,Camino del Sur,Crosswalk warning lights knocked over
+3940873,2022-10-01T19:30:00,Mid-City:Kensington-Talmadge,Missed Collection,Open,4051 Adams Ave,"Over flowing City trash cans left for months, I?ve reported this many times"
+3940874,2022-10-01T19:44:00,Mission Valley,Street Sweeping,Open,"CAMINO DE LA REINA & MISSION CENTER RD,, 92108","PER PD, GLASS AND DEBRIS IN THE ROADWAY DUE TO VEH ACCIDENT REQ SWEEPER"
+3940875,2022-10-01T19:45:00,Mid-City:Eastern Area,Street Light Maintenance,Open,"Rolando Village, San Diego, CA 92115, USA","Four vintage street lights are out, one at intersection of Lenore Dr. and Shannon Ave., and three on Valencia Dr at Shannon Ave, Rolando Village, San Diego."
+3940877,2022-10-01T19:49:00,Rancho Penasquitos,Illegal Dumping,Open,"Maler Rd, San Diego, CA 92129, USA","Several bags of household items such as a broken crib, plastic pokes, plastic rsin gutter and two medium TVs or computer monitors."
+3940879,2022-10-01T19:55:00,Downtown,Encampment,Open,410 Beech St,602 encampment returned to the corner of fourth and beech ave. Unconfirmed permission to sleep there at night
+3940880,2022-10-01T19:56:00,Uptown,Street Light Maintenance,Open,1227 University Ave,Street light bulb out
+3940881,2022-10-01T19:58:00,Downtown,Encampment,Open,928 C St,Homeless encampment
+3940882,2022-10-01T20:02:00,Torrey Pines,Stormwater Code Enforcement,Open,12739 Sorrento Valley Road,Major over irrigation flooding gutter far down the street
+3940883,2022-10-01T20:02:00,Balboa Park,Encampment,Open,Balboa Park,Man living in car blasting music very loudly
+3940884,2022-10-01T20:05:00,Skyline-Paradise Hills,Parking,Open,"7820 Bloomfield Rd, San Diego, CA 92114, USA",The white kia optima has been parked on the public street for over 1 year with expired registration and accumulating debris.
+3940885,2022-10-01T20:11:00,La Jolla,Traffic Sign Maintenance,Open,"5498-5400 Waverly Ave, La Jolla, CA 92037, USA",There is a somewhat faded STOP sign on the southeast corner of Waverly Ave and Midway St. Drivers stopping at this sign do not see it clearly and it does not look good. Another problem is that there is a ugly dark red spot on the bottom right side of the sign which makes it not look nice for drivers too. This sign needs to be replaced with a brighter and reflective one so that drivers would not be able to see the faded stop sign again. PLEASE REPLACE THIS SIGN AS SOON AS POSSIBLE! Thank You.
+3940886,2022-10-01T20:21:00,Mid-City:Eastern Area,Traffic Signal Issue,Open,6000 University Avenue,All out
+3940888,2022-10-01T20:39:00,San Ysidro,Graffiti - Public,Open,"2020 Alaquinas Dr, San Ysidro, CA 92173, USA","The ""graffiti"" is located by the side of the street & on the side next to Mt Carmel Catholic Church (sidewalk) up by the second parking lot, overlooking the freeway.  Including the ""sign speed limit 25"" is covered up with graffiti (along that corridor). Along the side is a broken utility barrel on the floor.  There is a light yet offensive sign (inappropriate for a church) next to the garden (to the left) side where all the cars (pass by) There was a lot more photos, but I was only able to upload five, thank you for doing this."
+3940891,2022-10-01T20:45:00,Greater Golden Hill,Parks Issue,Open,"1646 28TH ST, San Diego, CA 92102, USA",Broken kid ride for over a year
+3940892,2022-10-01T20:47:00,Southeastern San Diego,Parking,Open,422 22nd St,Parking issue - blocking driveway
+3940893,2022-10-01T20:53:00,Serra Mesa,Traffic Signal Issue,Open,"GREYLING DR & SANDROCK RD,, 92123",per sdpd
+3940894,2022-10-01T20:56:00,Torrey Pines,Street Light Maintenance,Open,2550?2598 Lozana Rd,Street light out
+3940895,2022-10-01T20:57:00,Mid-City:City Heights,Missed Collection,Open,"4073 Orange Ave, San Diego, CA 92105, USA",This is the second time the trash truck does not collect the trash. Not only for my house but the whole side of the alley.
+3940896,2022-10-01T20:57:00,Mid-City:City Heights,Parking,Open,3694 Menlo Ave,Car parked unmoved for 9+ days. None of the neighbors are familiar with the vehicle
+3940897,2022-10-01T20:59:00,Scripps Miramar Ranch,Street Light Maintenance,Open,"11981 Deerfoot Rd, San Diego, CA 92131, USA",Our street light has been out for o we 2 years. I have asked to get this fixed 2 times before.
+3940898,2022-10-01T21:04:00,San Ysidro,Street Light Maintenance,Open,"E San Ysidro Blvd, San Diego, CA 92173, USA","Please be advised at around the Bank of America; 205 E San Ysidro Blvd, San Ysidro Ca.,92173 & 230 E San Ysidro Ca, 92173. (Between the freeways) that crossway (the lights) doesn't work & need to be fixed. Below the photos, those are the lights! Please call me if you have any further question. & Thank you."
+3940901,2022-10-01T21:27:00,San Ysidro,Graffiti - Public,Open,"4174 Beyer Blvd, San Diego, CA 92173, USA","Please be advised at ""La Bodeguita"" their city trash bin at address 4174 Beyer Blvd, San Ysidro Ca.,92173. has graffiti on it, by the trash bin & recycling bin etc., San Diego Police Department: Needs to continue to be on the lookout for these taggers and fine them Thank you."
+3940902,2022-10-01T21:32:00,Mid-City:Eastern Area,Street Light Maintenance,Open,4416 Alamo Dr,No more street light on the southern part of Alamo Drive (couple of blocks north of University Ave). Sotuation has been going on for the past weeks.
+3940903,2022-10-01T21:33:00,Uptown,Encampment,Open,3525 Seventh Ave,Homeless sleeping on the east side terrace at Marston House   City Property
+3940904,2022-10-01T21:34:00,Southeastern San Diego,Parking,Open,690 Beardsley St,Abandoned car 2 weeks
+3940905,2022-10-01T21:35:00,Pacific Beach,Parking,Open,866 Beryl St,Car blocking driveway
+3940906,2022-10-01T21:40:00,Kearny Mesa,Traffic Engineering,Open,7807 Balboa Ave,missing pedestrian pushbutton
+3940907,2022-10-01T21:43:00,Downtown,Shared Mobility Device,Open,"1494 INDIA ST, San Diego, CA 92101, USA",Too many scooters in parking
+3940908,2022-10-01T21:43:00,Mid-City:Eastern Area,Other,Open,Federal Blvd & Pentecost Way,"The wall is falling apart, this is a broken, wall and targeted by Giffin the area of Pentecost way and federal blv, the wall is not been repaired and Giffin is still noticeable, please give this area attention."
+3940910,2022-10-01T21:48:00,Balboa Park,Parks Issue,Open,2356?2360 E Pan American Rd,Public restroom needs attention.  Multiple overflow urinals.  Toilets not clean.  No TP.  Homeless get together
+3940911,2022-10-01T21:49:00,Mission Beach,Street Light Maintenance,Open,"3600 Ocean Front Walk, San Diego, CA 92109, USA","The overhead 'Street Lights' on Ocean Front Walk in these (4) FOUR LOCATIONS ARE NOT WORKING, LIGHTS DO NOT COME ON ALL NIGHT.    (1) Ocean Front Walk at Niantic Court         (2)Ocean Front Walk at Ostend Court           (3) Ocean Ffront Walk at Ormond Court   (4) Ocean Front Walk at Rockaway Court  These large overhead street lights have been dark for over 18 months.  Councilwomen Campbell assured us they would be fix in October 2022.  That would be wonderful.  Thank you"
+3940913,2022-10-01T21:54:00,Mira Mesa,Encampment,Open,"Mira Mesa Blvd, San Diego, CA 92126, USA",This camp has gotten huge in the past few weeks. Please help us as our guests here at Buca di Beppo are commenting on it daily.
+3940914,2022-10-01T22:07:00,Downtown,Other,Open,1602 State St,When will you Get it Done? 1602 State St/Cedar 92101 PAPPALECCO on going disturbing the peace CIv Code 415
+3940915,2022-10-01T22:07:00,Carmel Mountain Ranch,Traffic Signal Timing,Open,11770?11808 Shoal Creek Dr,"In the evening at 10pm , when a car is on shoal creek, the pedestrian 30 second crossing triggers as well even though there are no pedestrians pushing the button."
+3940916,2022-10-01T22:08:00,Downtown,Other,Open,1602 State St,Violation of CA Civil acode 415 @ Pappalecco on State & Cedar 92101. On going for TWO YEARS!!!!!!!
+3940917,2022-10-01T22:11:00,Clairemont Mesa,Parking,Open,"Beal St, San Diego, CA 92111, USA",It has been there for the past 3 month
+3940919,2022-10-01T22:24:00,Downtown,Other,Open,1602 State St,Event number 22100001216
+3940920,2022-10-01T22:25:00,Uptown,Street Light Maintenance,Open,"500-598 W Laurel St, San Diego, CA 92101, USA",Streetlight is blinking all night
+3940921,2022-10-01T22:30:00,Downtown,Other,Open,1602 State St,"Event number 22090043279 Disturbing the peace, permit violation, noise complaint same location & parties since Oct 2020 9/30/22  event number 22090044852"
+3940922,2022-10-01T22:33:00,Downtown,Encampment,Open,"Seventh Ave & F St, San Diego, CA 92101, USA",Homeless encampment plus public drug use and scary behavior
+3940923,2022-10-01T22:33:00,Peninsula,Encampment,Open,"4220-4298 Niagara Ave, San Diego, CA 92107, USA",RV has been parked in the same place without moving since 09/21/22
+3940925,2022-10-01T22:59:00,Rancho Bernardo,Parking,Open,12100?12118 Rancho Bernardo Rd,Wrecked cars parked on Rancho Bernardo Rd for several weeks  See attached photos with license plate #
+3940926,2022-10-01T23:03:00,Downtown,Street Light Maintenance,Open,1700?1824 Broadway,"No lighting, 17th bridge on Broadway ."
+3940927,2022-10-01T23:12:00,Downtown,Encampment,Open,665 15th St,"Homeless on 15th St, in front of Aztec Appliance. This guy has been here for over a year, he blasts music from a speaker all night long, harasses everyone walking by, empties a bucket with urine and feces into the street every single morning. The pile of trash that?s collected at the curb is all his that he sweeps into the street each morning. This is crazy that the city allows this. Our street is literally a trash can at this point"
+3940929,2022-10-01T23:26:00,Encanto Neighborhoods,Parking,Open,5448 Santa Margarita St,Parking in handicap spot no plates or placard in view. We keep getting non handicap people parking every night parking in the spots due to not wanting to find parking anywhere else and it?s closer to their apartments. Someone needs to come at night and stay patrolling between 2100-0000 you will find multiple people parking in the spots without placards/DP plates. I have sent in multiple request.
+3940931,2022-10-01T23:37:00,Uptown,Illegal Dumping,Open,"1001-1199 Pascoe St, San Diego, CA 92103, USA","Illegal dumping on the 163 northbound on ramp off Washington Street. There is a lot of trash and glass along the road, as well. Please, please clean this up asap. Thank you!"
+3940123,2022-10-01T03:33:00,Downtown,Shared Mobility Device,Closed,356 Sixth Ave,10 birds obviously purposely staged for rent in violation of muni code
+3940124,2022-10-01T03:34:00,Downtown,Shared Mobility Device,Closed,400?498 K St,5 birds
+3940125,2022-10-01T03:37:00,Downtown,Shared Mobility Device,Closed,100 Island Ave,Sidewalk technology lie with QRcodes
+3940126,2022-10-01T03:40:00,Downtown,Shared Mobility Device,Closed,444 G St,Sidewalk technology lie with QRcodes
+3940127,2022-10-01T03:40:00,Downtown,Shared Mobility Device,Closed,401 G St,Sidewalk technology lie with QRcodes
+3940128,2022-10-01T03:42:00,Downtown,Shared Mobility Device,Closed,433 G St,Sidewalk technology lie with QRcodes
+3940129,2022-10-01T03:43:00,Downtown,Shared Mobility Device,Closed,400?498 G St,Sidewalk technology lie with QRcodes
+3940130,2022-10-01T03:45:00,Downtown,Shared Mobility Device,Closed,732 Fourth Ave,Sidewalk technology lie with QRcodes
+3940131,2022-10-01T03:47:00,Downtown,Shared Mobility Device,Closed,720 Fourth Ave,12 birds
+3940132,2022-10-01T03:50:00,Downtown,Shared Mobility Device,Closed,424 Market St,5 birds
+3940135,2022-10-01T04:15:00,Mission Beach,ROW Maintenance,Closed,"2600 BAYSIDE WALK, 92109","PER NATE OF ABLE SECURITY DISPATCH, SOUTH MISSION BEACH, GATE LOCKS BROKEN"
+3940136,2022-10-01T04:15:00,Mission Beach,Shared Mobility Device,Closed,3761?3767 Mission Blvd,7 birds
+3940139,2022-10-01T04:17:00,Mission Beach,Shared Mobility Device,Closed,3801?3809 Mission Blvd,6 birds
+3940141,2022-10-01T04:20:00,Mission Beach,Shared Mobility Device,Closed,4001?4025 Mission Blvd,6 birds
+3940144,2022-10-01T04:28:00,Pacific Beach,Shared Mobility Device,Closed,4516 Mission Blvd,6 birds
+3940148,2022-10-01T04:36:00,Pacific Beach,Shared Mobility Device,Closed,979 Garnet Ave,7 birds
+3940149,2022-10-01T04:37:00,Pacific Beach,Shared Mobility Device,Closed,978 Garnet Ave,On the clock instant impound handicap parking
+3940150,2022-10-01T04:40:00,Pacific Beach,Shared Mobility Device,Closed,1268 Hornblend St,5 birds
+3940156,2022-10-01T05:30:00,Downtown,Shared Mobility Device,Closed,440 Market Street,Overstaged bird 83.0310
+3940157,2022-10-01T05:34:00,Downtown,Shared Mobility Device,Closed,320 K Street,2nd report bird 83.0310
+3940158,2022-10-01T05:37:00,Downtown,Shared Mobility Device,Closed,633 State Street,Overstaged bird 83.0310
+3940159,2022-10-01T05:38:00,Downtown,Shared Mobility Device,Closed,605 Front Street,Overstaged bird 83.0310
+3940161,2022-10-01T05:40:00,Downtown,Shared Mobility Device,Closed,601 Pacific Highway,Laying all night bird 83.0310
+3940162,2022-10-01T05:45:00,Downtown,Shared Mobility Device,Closed,597 G Street,Overstaged bird 83.0310
+3940163,2022-10-01T05:49:00,Downtown,Shared Mobility Device,Closed,1407 2nd Avenue,Sidewalk BIRD
+3940164,2022-10-01T05:51:00,Downtown,Shared Mobility Device,Closed,610 West Ash Street,Sidewalk bird 83.0310
+3940165,2022-10-01T05:53:00,Downtown,Shared Mobility Device,Closed,1902 Kettner Blvd,8 birds
+3940167,2022-10-01T05:54:00,Downtown,Shared Mobility Device,Closed,1670 Kettner Blvd,5 birds
+3940173,2022-10-01T06:14:00,Mission Beach,Shared Mobility Device,Closed,3050?3096 Mission Blvd,8 birds
+3940174,2022-10-01T06:15:00,Mission Beach,Shared Mobility Device,Closed,2999 Mission Boulevard,Overstaged bird 83.0310 laying all night
+3940175,2022-10-01T06:16:00,Mission Beach,Shared Mobility Device,Closed,2912 Mission Blvd,9 birds
+3940178,2022-10-01T06:21:00,Mission Beach,Shared Mobility Device,Closed,3408 Mission Boulevard,Overstaged bird 83.0310 2nd report
+3940179,2022-10-01T06:25:00,Pacific Beach,Shared Mobility Device,Closed,The Promenade,Sidewalk technology lie
+3940181,2022-10-01T06:31:00,Pacific Beach,Shared Mobility Device,Closed,4475 Mission Boulevard,Bird fixes get it done with another code violation
+3940183,2022-10-01T06:32:00,Pacific Beach,Shared Mobility Device,Closed,875 Garnet Ave,Q
+3940184,2022-10-01T06:33:00,Pacific Beach,Shared Mobility Device,Closed,4498 Bayard Street,Overstaged bird 83.0310
+3940186,2022-10-01T06:35:00,Pacific Beach,Shared Mobility Device,Closed,967 Hornblend Street,In road BIRD
+3940188,2022-10-01T06:36:00,Pacific Beach,Shared Mobility Device,Closed,4603 Cass Street,Overstaged bird 83.0310
+3940189,2022-10-01T06:36:00,Pacific Beach,Shared Mobility Device,Closed,4605 Cass St,5 packs
+3940192,2022-10-01T06:38:00,Pacific Beach,Shared Mobility Device,Closed,4735 Cass St,We are seeing a pattern of deceptive staging where it is for scooters in a pack pointed in one direction and then one or two pointed in the opposite direction to give the illusion that it was a writer who did it when actually it was staged
+3940213,2022-10-01T07:26:00,Downtown,Sidewalk Repair Issue,Closed,521 Market St,Human fecal waste on sidewalk.
+3940233,2022-10-01T08:00:00,Navajo,Street Flooded,Closed,"5635 Dartford Way, San Diego, CA 92120, USA","Most morning water pours off the property of 5635 Dartford Way, onto neighbor's driveway, and down the street to the nearby sewer."
+3940236,2022-10-01T08:01:00,Pacific Beach,Traffic Signal Issue,Closed,Lamont St & BERYL ST,Traffic signal lamp burnt out
+3940250,2022-10-01T08:19:00,College Area,Graffiti - Public,Closed,"I-8, San Diego, CA, USA","If you are driving on I-8W and take the I-15 North exit towards Riverside, there is ""GC!!"" spray painted on the street sign that shows there is a sharp right turn on the exit ramp before merging onto I-15"
+3940252,2022-10-01T08:19:00,Greater Golden Hill,Dead Animal,Closed,2676 Broadway,Dead skunk in street
+3940253,2022-10-01T08:20:00,College Area,Other,Closed,5165 Remington Rd,Excrement on sidewalk
+3940265,2022-10-01T08:32:00,Downtown,Traffic Signal Timing,Closed,1399 9th Ave,Intersection Needs Retiming ? traffic stays green for 163 offramp for way too long. Pedestrians should get a head start on crossing Ash St and more time should be given for crossing Ash St.
+3940280,2022-10-01T08:50:00,Mira Mesa,Street Flooded,Closed,"11310 Pegasus Ave, San Diego, CA 92126, USA",Apparently a slow water leak under the street.
+3940316,2022-10-01T09:14:00,Uptown,Other,Closed,"W Laurel St & Front St, San Diego, CA 92103, USA","I just have a question regarding the re-striping of West Laurel Street.  A couple of months ago the city resurfaced Laurel Street between 5th and Front and re-striped the road to add a bike lane.  Since then, no other work has been done to complete the project to finish the resurfing and restriping of rest of West Laurel heading towards I-5 and the airport.  Because the restriping and resurfacing stops at Front Street, there is a significant shift in the traffic pattern coming up the hill on West Laurel at Front Street where the new resurfaced road is and the lane shifts to the left.  This shift leads drivers into the back of cars parked along the south side of West Laurel.  I would like to know when the city plans on finishing this project.  Thank you for your time."
+3940370,2022-10-01T09:51:00,Balboa Park,Dead Animal,Closed,2527?2531 Golden Hill Dr,Dead animal
+3940371,2022-10-01T09:51:00,Clairemont Mesa,Other,Closed,3475 Ecochee Ave,SDGE large cable left behind
+3940406,2022-10-01T10:03:00,Downtown,Traffic Signal Issue,Closed,W G St & KETTNER BL,"Attached to the vertical traffic signal pole at the southeast corner of the intersection of W. G Street & Kettner Blvd, the traffic signal is facing the wrong way. Traffic signal is supposed to face motorists heading on eastbound W. G Street."
+3940413,2022-10-01T10:09:00,Mid-City:City Heights,Dead Animal,Closed,"4562 LANDIS ST, San Diego, CA 92105, USA",Dead Skunk Animal Removal Needed
+3940415,2022-10-01T10:11:00,Kearny Mesa,Traffic Signal Timing,Closed,AERO DR & BROADSTONE DY,THIS IS THE SECOND REQUEST: we get a line of cars needing to turn on Saturday morning. The intersection lights needs attention. We can not turn left at Aero Drive and Broadstone Driveway. The timer or sensors take an obnoxiously long time to change green. Can someone please look into this?
+3940417,2022-10-01T10:11:00,Otay Mesa-Nestor,Traffic Signal Issue,Closed,2014?2098 Palm Ave,Red light flickering palm avenue/5 SB off-ramp
+3940419,2022-10-01T10:15:00,Carmel Valley,Traffic Signal Issue,Closed,HALF MILE DR & EL CAM REAL,The red traffic light on half mile drive crossing el Camino real is not working
+3940426,2022-10-01T10:24:00,La Jolla,Traffic Signal Timing,Closed,GIRARD AV & PEARL ST,Pedestrian signal coming up without pedestrian call. NW-NE Pearl crossing Girard
+3940439,2022-10-01T10:39:00,Navajo,Traffic Signal Issue,Closed,ZION AVE & WARING RD,All lights out on signal below
+3940441,2022-10-01T10:41:00,Southeastern San Diego,Traffic Signal Issue,Closed,28TH & IMPERIAL AVE,"Red light out, SE corner of Imperial & 28th"
+3940463,2022-10-01T11:03:00,Pacific Beach,Other,Closed,1221 Oliver Ave,Dogs barking all day and into the night.
+3940475,2022-10-01T11:11:00,Ocean Beach,Other,Closed,4633 Saratoga Ave,"Dogs barking non stop for 45 minutes.  Regular occurrence.  4647 Saratoga Ave, 92107"
+3940478,2022-10-01T11:12:00,Peninsula,Street Light Maintenance,Closed,GOLDSMITH ST & EVERGREEN ST,Street light pole hit and light broken. Intersection of Goldsmith and Evergreen.
+3940481,2022-10-01T11:14:00,Carmel Valley,Street Flooded,Closed,5201?5249 Carmel Knolls Dr,Water line break @ Carmel Knolls Dr and Sandhill Terrace
+3940484,2022-10-01T11:15:00,Pacific Beach,Other,Closed,1221 Oliver Ave,Dogs unattended and assaulting everyone walking by
+3940485,2022-10-01T11:16:00,Downtown,Other,Closed,1313 National Ave,"Transit cops do what?  Some tweaked black kid was picking fight,  yelling, threatening a bus driver for at least five minutes in front of Greyhound (12th/Imperial)...  Four transit cops ( including black,Asian and Latino), tweaked threatened others while useless cops watched THEN let him board the trolley.  Time 11:05 am Saturday."
+3940487,2022-10-01T11:17:00,,Environmental Services Code Compliance,Closed,Mira Mesa Street Fair,
+3940499,2022-10-01T11:27:00,Downtown,Traffic Signal Issue,Closed,07TH AV & BROADWAY,Light face the wrong way
+3940514,2022-10-01T11:46:00,Downtown,Other,Closed,901 7th Avenue,"Homeless are braking our windows and tagging our building, we need police to patrol this area, on the left side of the building we have junkies shooting up and smoking crack, blocking our fire exits and on the right side of the building we have drug dealing gambling and prostitution, we need help"
+3940534,2022-10-01T12:04:00,Downtown,Other,Closed,701 E Street,"Homeless smoking crack and vandalizing our building, we need police to patrol area"
+3940547,2022-10-01T12:21:00,Linda Vista,Traffic Signal Timing,Closed,"Linda Vista Rd & Mildred St, San Diego, CA 92110, USA",Westbound Linda Vista Rd left turn light turns on when no cars are in the left turn lane delaying eastbound traffic.
+3940550,2022-10-01T12:23:00,Linda Vista,Traffic Signal Timing,Closed,"Linda Vista Rd & Colusa St, San Diego, CA 92110, USA",Westbound Linda Vista Rd left turn light turns on when no cars are in the left turn lane delaying eastbound traffic.
+3940551,2022-10-01T12:24:00,Pacific Beach,Traffic Signal Issue,Closed,"LAMONT ST & GRAND AV,, 92109",Per consumer lights are on flash and is hazardous as it is a 5 way intersection.
+3940554,2022-10-01T12:27:00,Midway-Pacific Highway,Traffic Signal Timing,Closed,PACIFIC HWY & SASSAFRAS ST,Stop light not functioning
+3940558,2022-10-01T12:30:00,North Park,Other,Closed,2841 Boundary St,Water Leaking from city connection into street
+3940559,2022-10-01T12:37:00,Uptown,Sidewalk Repair Issue,Closed,"3886 GOLDFINCH ST, San Diego, CA 92103, USA",Cut of human feces on the sidewalk
+3940565,2022-10-01T12:44:00,Downtown,Street Flooded,Closed,550 W B St,Constant Water Runoff from 3.5 blocks away causes flooding daily. We have reported this over the last 4 years multiple times. Presumably construction runoff
+3940570,2022-10-01T12:51:00,Mira Mesa,Pothole,Closed,"Kearny Villa Rd & Miramar Rd, San Diego, CA 92126, USA","Monday the 26th my name is Sylvia Fink and Iam the owner of a 2005 Honda Accord, I?ve been without a vehicle since  Monday at about 4am or so. A pothole has damaged my car severely. I could not avoid the pothole because there was traffic on both sides, I have attached the paper work and I have a witness that actually saw the whole accident  happen"
+3940595,2022-10-01T13:34:00,Mission Valley,Other,Closed,891 Camino de la Reina,Open water valve?
+3940620,2022-10-01T14:01:00,Southeastern San Diego,Street Sweeping,Closed,260?298 19th St,Manhole opened up by homeless people
+3940663,2022-10-01T14:50:00,Uptown,Other,Closed,3517 Herbert Street,"We have had a beehive in our water meter on the sidewalk for over a month,  2 weeks ago we called the city of San diego water dept and they said someone would be out. Nothing yet. I have been stung, my dog has been stung and a few pedestrians I have heard. 3517 herbert st. 92103"
+3940680,2022-10-01T15:10:00,Southeastern San Diego,Other,Closed,"864 RAVEN ST, San Diego, CA 92102, USA",Sign
+3940685,2022-10-01T15:23:00,Greater Golden Hill,Other,Closed,2201?2299 F St,Homeless man tampering with fire hydrant.
+3940695,2022-10-01T15:31:00,La Jolla,Other,Closed,6401 La Jolla Scenic Dr S,A fake Sherriff has called 2 times saying there?s a citation and warrant for your arrest. He said I owe 2000$ I need to appear or be booked. Sherriff Johnson 858-956-2640. He left a voice message. Called yesterday as well.
+3940755,2022-10-01T16:18:00,Mid-City:City Heights,Street Flooded,Closed,4212 48th St,Bad leak at water meter
+3940765,2022-10-01T16:24:00,Downtown,Other,Closed,325 15th St,15th & K across from nook apartments
+3940812,2022-10-01T17:32:00,Mid-City:Eastern Area,ROW Maintenance,Closed,5428 Krenning Street,Abandoned vehicle
+3940819,2022-10-01T17:39:00,North Park,Other,Closed,3935 32nd St,"Bike Theft Chop Shop Behind Starbucks on 32nd & University. I have noticed that may have looked like a bike theft chop shop in the parking lot behind Starbucks on 32nd & University (3206 University Ave. San Diego, CA 92104). I saw bikes and a pile of bike parts on the ground. These people are not afraid, because we continue to allow thieves to chop bikes on a busy street in broad day light. I didn?t take any pictures because of fear for my own safety and my dog. I understand that this may not be a priority due to resources. I know for sure this is only going to get worst if nothing is being done about it or just simply ignore it."
+3940876,2022-10-01T19:47:00,Skyline-Paradise Hills,Parking,Closed,"7701-7899 Bloomfield Rd, San Diego, CA 92114, USA",Car has been parked there for many months. Expired registration. Very dirty.
+3940900,2022-10-01T21:06:00,Downtown,Sidewalk Repair Issue,Closed,Petco Park,Safety hazard illegal vending
+3940909,2022-10-01T21:44:00,Clairemont Mesa,Other,Closed,2810 Denver Street,Underage drinking party
+3940924,2022-10-01T22:54:00,Clairemont Mesa,Other,Closed,5378 Jamestown Rd,People doing drugs in their car AGAIN. Please patrol Jamestown Road
