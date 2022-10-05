@@ -13,7 +13,7 @@
           "**HW 1**{: .label .label-hw } **[Causality and Basic Python](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw01/hw01.ipynb)**":
       - date: 2022-10-5
         events:
-          "**LEC 6**{: .label .label-lecture } More Queries and GroupBy":
+          "**LEC 6**{: .label .label-lecture } [More Queries and GroupBy](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec06/lec06.ipynb) [✏️](resources/lectures/lec06/lec06.html) ([video](https://youtu.be/xg7rnjWnZ48?t=598))":
             "[BPD 10-11](https://notes.dsc10.com/02-data_sets/querying.html)"
                 
       - date: 2022-10-7
