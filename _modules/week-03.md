@@ -11,7 +11,7 @@
       - date: 2022-10-11
         events:
           
-          "**HW 2**{: .label .label-hw } **Arrays and DataFrames**":
+          "**HW 2**{: .label .label-hw } **[Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw02/hw02.ipynb)**":
       - date: 2022-10-12
         events:
           "**LEC 9**{: .label .label-lecture } Functions and Apply":
