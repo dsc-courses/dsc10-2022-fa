@@ -18,7 +18,7 @@
                 
       - date: 2022-10-7
         events:
-          "**LEC 7**{: .label .label-lecture } Data Visualization":
+          "**LEC 7**{: .label .label-lecture } [Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec07/lec07.ipynb) [✏️](resources/lectures/lec07/lec07.html)":
             "[CIT 7, 7.1](https://inferentialthinking.com/chapters/07/Visualization.html)"
                 
       - date: 2022-10-8
