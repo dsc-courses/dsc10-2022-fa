@@ -12,11 +12,17 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-**Welcome to DSC 10! 👋** Get started by reading the [syllabus](syllabus).
+<!-- <details>
+<summary>🎥 Lecture Recordings</summary>
+<ul>
+    <li>A00, 10am with Janine Tiefenbruck</li>
+    <li>B00, 11am with Janine Tiefenbruck</li>
+    <li>C00, 1pm with Suraj Rampure</li>
+    <li>D00, 12pm with Puoya Tabaghi</li>
+</ul>
+</details> -->
 
-Below, you can access lecture material in two ways:
-- By clicking the title of the lecture, which will open the lecture on DataHub, where we will run our code in this course. (More on this on Wednesday.)
-- By clicking ✏️, which will open the lecture as a static HTML page, which you can download as a PDF and annotate on your tablet.
+Lecture and discussion recordings can be found at [podcast.ucsd.edu](https://podcast.ucsd.edu).
 
 {% for module in site.modules %}
 {{ module }}
