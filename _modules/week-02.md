@@ -13,12 +13,12 @@
           "**HW 1**{: .label .label-hw } **[Causality and Basic Python](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw01/hw01.ipynb)**":
       - date: 2022-10-5
         events:
-          "**LEC 6**{: .label .label-lecture } [More Queries and GroupBy](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec06/lec06.ipynb) [✏️](resources/lectures/lec06/lec06solutions.html) ([video](https://youtu.be/xg7rnjWnZ48?t=598))":
+          "**LEC 6**{: .label .label-lecture } [More Queries and GroupBy](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec06/lec06.ipynb) [✏️](resources/lectures/lec06/lec06solutions.html) ([extra video](https://youtu.be/xg7rnjWnZ48?t=598))":
             "[BPD 10-11](https://notes.dsc10.com/02-data_sets/querying.html)"
                 
       - date: 2022-10-7
         events:
-          "**LEC 7**{: .label .label-lecture } [Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec07/lec07.ipynb) [✏️](resources/lectures/lec07/lec07.html)":
+          "**LEC 7**{: .label .label-lecture } [Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec07/lec07.ipynb) [✏️](resources/lectures/lec07/lec07.html) ([extra videos](https://www.youtube.com/playlist?list=PLDNbnocpJUhbczUw2Rw6bqreEECMvZ8gN))":
             "[CIT 7, 7.1](https://inferentialthinking.com/chapters/07/Visualization.html)"
                 
       - date: 2022-10-8
