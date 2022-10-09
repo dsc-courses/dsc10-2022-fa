@@ -25,5 +25,5 @@
       - date: 2022-10-15
         events:
           
-          "**Lab 3**{: .label .label-lab } **Data Visualization and Python Functions**":
+          "**Lab 3**{: .label .label-lab } **[Data Visualization and Python Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=labs/lab03/lab03.ipynb)**":
 ---
