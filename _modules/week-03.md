@@ -4,7 +4,7 @@
     days:
       - date: 2022-10-10
         events:
-          "**LEC 8**{: .label .label-lecture } [Histograms and Overlaid Plots](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec08/lec08.ipynb)[✏️](resources/lectures/lec08/lec08.html)":
+          "**LEC 8**{: .label .label-lecture } [Histograms and Overlaid Plots](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec08/lec08.ipynb) [✏️](resources/lectures/lec08/lec08.html)":
             "[CIT 7.2-7.3](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)"
                 
           "**DIS 3**{: .label .label-disc } [Querying, Grouping, and Plotting](https://practice.dsc10.com/disc03/index.html)":
