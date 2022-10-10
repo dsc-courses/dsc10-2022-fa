@@ -7,7 +7,7 @@
           "**LEC 8**{: .label .label-lecture } Histograms and Overlaid Plots":
             "[CIT 7.2-7.3](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)"
                 
-          "**DIS 3**{: .label .label-disc } Querying, Grouping, and Plotting":
+          "**DIS 3**{: .label .label-disc } [Querying, Grouping, and Plotting](https://practice.dsc10.com/disc03/index.html)":
       - date: 2022-10-11
         events:
           
