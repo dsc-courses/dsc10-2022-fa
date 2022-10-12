@@ -14,7 +14,7 @@
           "**HW 2**{: .label .label-hw } **[Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw02/hw02.ipynb)**":
       - date: 2022-10-12
         events:
-          "**LEC 9**{: .label .label-lecture } Functions and Apply":
+          "**LEC 9**{: .label .label-lecture } [Functions and Apply](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec09/lec09.ipynb) [✏️](resources/lectures/lec09/lec09.html":
             "[BPD 6, 12](https://notes.dsc10.com/01-getting_started/functions-defining.html#example)"
                 
       - date: 2022-10-14
