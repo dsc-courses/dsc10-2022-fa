@@ -11,7 +11,7 @@
       - date: 2022-10-18
         events:
           
-          "**HW 3**{: .label .label-hw } **Data Visualization and Python Functions**":
+          "**HW 3**{: .label .label-hw } **[Data Visualization and Python Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw03/hw03.ipynb)**":
       - date: 2022-10-19
         events:
           "**LEC 12**{: .label .label-lecture } Probability":
