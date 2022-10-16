@@ -7,7 +7,7 @@
           "**LEC 11**{: .label .label-lecture } Booleans and Conditionals, Iteration":
             "[CIT 9.1-9.2](https://inferentialthinking.com/chapters/09/Randomness.html)"
                 
-          "**DIS 4**{: .label .label-disc } Functions, Subgroups, Merge, and Control Flow":
+          "**DIS 4**{: .label .label-disc } [Functions, Subgroups, Merge, and Control Flow](https://practice.dsc10.com/disc04/index.html)":
       - date: 2022-10-18
         events:
           
@@ -25,5 +25,5 @@
       - date: 2022-10-22
         events:
           
-          "**Lab 4**{: .label .label-lab } **DataFrames, Control Flow, and Probability**":
+          "**Lab 4**{: .label .label-lab } **[DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=labs/lab04/lab04.ipynb)**":
 ---
