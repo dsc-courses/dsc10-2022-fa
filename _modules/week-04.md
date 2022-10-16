@@ -25,5 +25,5 @@
       - date: 2022-10-22
         events:
           
-          "**Lab 4**{: .label .label-lab } **DataFrames, Control Flow, and Probability**":
+          "**Lab 4**{: .label .label-lab } **[DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=labs/lab04/lab04.ipynb)**":
 ---
