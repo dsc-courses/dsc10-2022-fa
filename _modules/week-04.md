@@ -4,7 +4,7 @@
     days:
       - date: 2022-10-17
         events:
-          "**LEC 11**{: .label .label-lecture } Booleans and Conditionals, Iteration":
+          "**LEC 11**{: .label .label-lecture } [Conditional Statements and Iteration](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec11/lec11.ipynb) [✏️](resources/lectures/lec11/lec11.html)":
             "[CIT 9.1-9.2](https://inferentialthinking.com/chapters/09/Randomness.html)"
                 
           "**DIS 4**{: .label .label-disc } [Functions, Subgroups, Merge, and Control Flow](https://practice.dsc10.com/disc04/index.html)":
