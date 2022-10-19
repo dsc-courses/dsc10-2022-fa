@@ -14,7 +14,7 @@
           "**HW 3**{: .label .label-hw } **[Data Visualization and Python Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw03/hw03.ipynb)**":
       - date: 2022-10-19
         events:
-          "**LEC 12**{: .label .label-lecture } Probability ([blank pdf](resources/lectures/lec12/lec12-blank.pdf))":
+          "**LEC 12**{: .label .label-lecture } [Probability](resources/lectures/lec12/lec12-solutions.html) ([blank slides](resources/lectures/lec12/lec12-blank.pdf), annotated slides: [A](resources/lectures/lec12/lec12-A00.pdf) • [B](resources/lectures/lec12/lec12-B00.pdf) • [C](resources/lectures/lec12/lec12-C00.pdf) • [D](resources/lectures/lec12/lec12-D00.pdf))":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)"
                 
       - date: 2022-10-21
