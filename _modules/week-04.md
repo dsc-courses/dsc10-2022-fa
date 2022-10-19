@@ -14,7 +14,7 @@
           "**HW 3**{: .label .label-hw } **[Data Visualization and Python Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw03/hw03.ipynb)**":
       - date: 2022-10-19
         events:
-          "**LEC 12**{: .label .label-lecture } Probability":
+          "**LEC 12**{: .label .label-lecture } Probability ([blank pdf](resources/lectures/lec12/lec12-blank.pdf))":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)"
                 
       - date: 2022-10-21
