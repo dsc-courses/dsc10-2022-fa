@@ -41,7 +41,7 @@ If you're looking for additional Python practice, these resources are generally 
 
 These are some additional resources to complement Lecture 12, our probability lesson. Use them for extra problem-solving practice.
 
-- [Theory Meets Data, Chapters 1 and 2](http://stat88.org/textbook/notebooks/Chapter_01/00_The_Basics.html).
+- [Theory Meets Data, Chapters 1 and 2](http://stat88.org/textbook/content/Chapter_01/00_The_Basics.html)
 - [Khan Academy's unit on Probability](https://www.khanacademy.org/math/probability/xa88397b6:probability)
 
 ### Permutation Testing Visualization
