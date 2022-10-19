@@ -12,6 +12,7 @@
         events:
           
           "**HW 4**{: .label .label-hw } **[DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw04/hw04.ipynb)**":
+          "**SUR**{: .label .label-survey } **[Mid-Quarter Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSd7soG9rXzWqaoieBm3-VtQxmMU9DRB3_7ihXP6tZlU58I0xQ/viewform)":
       - date: 2022-10-26
         events:
           "**LEC 15**{: .label .label-lecture } Hypothesis Testing":
