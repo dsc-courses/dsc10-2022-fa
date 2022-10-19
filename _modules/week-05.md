@@ -11,7 +11,7 @@
       - date: 2022-10-25
         events:
           
-          "**HW 4**{: .label .label-hw } **DataFrames, Control Flow, and Probability**":
+          "**HW 4**{: .label .label-hw } **[DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw04/hw04.ipynb)**":
       - date: 2022-10-26
         events:
           "**LEC 15**{: .label .label-lecture } Hypothesis Testing":
