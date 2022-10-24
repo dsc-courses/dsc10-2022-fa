@@ -4,7 +4,7 @@
     days:
       - date: 2022-10-24
         events:
-          "**LEC 14**{: .label .label-lecture } Distributions and Sampling":
+          "**LEC 14**{: .label .label-lecture } [Distributions and Sampling](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec14/lec14.ipynb) [✏️](resources/lectures/lec14/lec14.html)":
             "[CIT 10.0-10.4](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)"
                 
           "**DIS 5**{: .label .label-disc } Probability and Simulation":
@@ -21,5 +21,5 @@
       - date: 2022-10-28
         events:
           
-          "**Exam**{: .label .label-exam } **Midterm Exam (in class)**":
+          "**Exam**{: .label .label-exam } **Midterm Exam (in class) ([logistics post](https://edstem.org/us/courses/29053/discussion/2013209))**":
 ---
