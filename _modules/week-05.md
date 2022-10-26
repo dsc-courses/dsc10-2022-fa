@@ -15,7 +15,7 @@
           "**SUR**{: .label .label-survey } **[Mid-Quarter Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSd7soG9rXzWqaoieBm3-VtQxmMU9DRB3_7ihXP6tZlU58I0xQ/viewform)**":
       - date: 2022-10-26
         events:
-          "**LEC 15**{: .label .label-lecture } Hypothesis Testing":
+          "**LEC 15**{: .label .label-lecture } [Models and Viewpoints](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec15/lec15.ipynb) [✏️](resources/lectures/lec15/lec15.html)":
             "[CIT 11.0-11.1](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
                 
       - date: 2022-10-28
