@@ -4,10 +4,10 @@
     days:
       - date: 2022-10-31
         events:
-          "**LEC 16**{: .label .label-lecture } Hypothesis Testing, Continued":
+          "**LEC 16**{: .label .label-lecture } [Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec16/lec16.ipynb) [✏️](resources/lectures/lec16/lec16.html)":
             "[CIT 11.2-11.4](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
                 
-          "**DIS 6**{: .label .label-disc } Midterm Solutions and Hypothesis Testing":
+          "**DIS 6**{: .label .label-disc } [Midterm Solutions and Hypothesis Testing](https://practice.dsc10.com/disc06)":
       - date: 2022-11-1
         events:
           
