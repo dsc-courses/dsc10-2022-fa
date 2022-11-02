@@ -14,7 +14,7 @@
           "**PROJ**{: .label .label-proj } **[Midterm Project: Spotify Charts](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=midterm_project/midterm_project.ipynb) ([clarifications](https://edstem.org/us/courses/29053/discussion/1992062))**":
       - date: 2022-11-2
         events:
-          "**LEC 17**{: .label .label-lecture } Permutation Testing":
+          "**LEC 17**{: .label .label-lecture } [TVD, Permutation Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec17/lec17.ipynb) [✏️](resources/lectures/lec17/lec17.html)":
             "[CIT 12.0-12.1](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
                 
       - date: 2022-11-4
