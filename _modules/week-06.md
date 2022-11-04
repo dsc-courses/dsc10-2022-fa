@@ -19,7 +19,7 @@
                 
       - date: 2022-11-4
         events:
-          "**LEC 18**{: .label .label-lecture } Causality, Bootstrapping":
+          "**LEC 18**{: .label .label-lecture } [Permutation Testing, Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec18/lec18.ipynb) [✏️](resources/lectures/lec18/lec18.html)":
             "[CIT 12.2-13.2](https://inferentialthinking.com/chapters/12/2/Causality.html)"
                 
       - date: 2022-11-5
