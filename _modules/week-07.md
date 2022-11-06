@@ -7,7 +7,7 @@
           "**LEC 19**{: .label .label-lecture } Percentiles and Confidence Intervals":
             "[CIT 13.1-13.3](https://inferentialthinking.com/chapters/13/1/Percentiles.html)"
                 
-          "**DIS 7**{: .label .label-disc } Hypothesis Testing and Permutation Testing":
+          "**DIS 7**{: .label .label-disc } [Hypothesis Testing and Permutation Testing](https://practice.dsc10.com/disc07)":
       - date: 2022-11-8
         events:
           
