@@ -4,7 +4,7 @@
     days:
       - date: 2022-11-7
         events:
-          "**LEC 19**{: .label .label-lecture } Percentiles and Confidence Intervals":
+          "**LEC 19**{: .label .label-lecture } [Bootstrapping, Percentiles, and Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec19/lec19.ipynb) [✏️](resources/lectures/lec19/lec19.html)":
             "[CIT 13.1-13.3](https://inferentialthinking.com/chapters/13/1/Percentiles.html)"
                 
           "**DIS 7**{: .label .label-disc } [Hypothesis Testing and Permutation Testing](https://practice.dsc10.com/disc07)":
