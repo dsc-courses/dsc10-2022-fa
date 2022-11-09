@@ -11,7 +11,7 @@
       - date: 2022-11-15
         events:
           
-          "**HW 6**{: .label .label-hw } **Permutation Testing, Percentiles, and Bootstrapping**":
+          "**HW 6**{: .label .label-hw } **[Permutation Testing, Percentiles, and Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw06/hw06.ipynb)**":
       - date: 2022-11-16
         events:
           "**LEC 22**{: .label .label-lecture } Central Limit Theorem":
