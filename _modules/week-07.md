@@ -14,7 +14,7 @@
           "**HW 5**{: .label .label-hw } **[Simulation, Sampling, and Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw05/hw05.ipynb)**":
       - date: 2022-11-9
         events:
-          "**LEC 20**{: .label .label-lecture } CIs for Hypothesis Testing, Center and Spread":
+          "**LEC 20**{: .label .label-lecture } [Confidence Intervals, Center and Spread](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec20/lec20.ipynb) [✏️](resources/lectures/lec20/lec20.html)":
             "[CIT 13.4-14.2](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)"
                 
       - date: 2022-11-11
