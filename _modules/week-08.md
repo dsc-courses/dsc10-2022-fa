@@ -16,7 +16,9 @@
         events:
           "**LEC 22**{: .label .label-lecture } Central Limit Theorem":
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
-                
+      - date: 2022-11-17
+        events:
+          "**PROJ**{: .label .label-proj } [**Final Project Checkpoint**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=final_project/final_project.ipynb)":
       - date: 2022-11-18
         events:
           "**LEC 23**{: .label .label-lecture } Experiment Design":
