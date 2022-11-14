@@ -7,7 +7,7 @@
           "**LEC 21**{: .label .label-lecture } Normal Curve":
             "[CIT 14.3-14.4](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)"
                 
-          "**DIS 8**{: .label .label-disc } Permutation Testing and Bootstrapping":
+          "**DIS 8**{: .label .label-disc } [Permutation Testing and Bootstrapping]((https://practice.dsc10.com/disc08)":
       - date: 2022-11-15
         events:
           
