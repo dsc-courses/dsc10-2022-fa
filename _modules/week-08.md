@@ -14,7 +14,7 @@
           "**HW 6**{: .label .label-hw } **[Permutation Testing, Percentiles, and Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw06/hw06.ipynb)**":
       - date: 2022-11-16
         events:
-          "**LEC 22**{: .label .label-lecture } Central Limit Theorem":
+          "**LEC 22**{: .label .label-lecture } [The Normal Distribution, The Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec22/lec22.ipynb) [✏️](resources/lectures/lec22/lec22.html)":
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
       - date: 2022-11-17
         events:
