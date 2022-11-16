@@ -11,7 +11,7 @@
       - date: 2022-11-22
         events:
           
-          "**HW 7**{: .label .label-hw } **Confidence Intervals, Normal Distributions, and the CLT**":
+          "**HW 7**{: .label .label-hw } **[Confidence Intervals, Normal Distributions, and the CLT](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw07/hw07.ipynb)**":
       - date: 2022-11-23
         events:
           "**LEC 25**{: .label .label-lecture } Regression and Least Squares":
