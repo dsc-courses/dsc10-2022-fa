@@ -21,7 +21,7 @@
           "**PROJ**{: .label .label-proj } [**Final Project Checkpoint**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=final_project/final_project.ipynb)":
       - date: 2022-11-18
         events:
-          "**LEC 23**{: .label .label-lecture } Experiment Design":
+          "**LEC 23**{: .label .label-lecture } [The Central Limit Theorem, Choosing Sample Sizes](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec23/lec23.ipynb) [✏️](resources/lectures/lec23/lec23.html)":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
                 
       - date: 2022-11-19
