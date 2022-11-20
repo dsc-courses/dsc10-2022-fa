@@ -23,5 +23,5 @@
           "No Lecture (Thanksgiving 🦃)":
       - date: 2022-11-26
         events:
-          "**Lab 8**{: .label .label-lab } **Regression**":
+          "**Lab 8**{: .label .label-lab } **[Regression](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=labs/lab08/lab08.ipynb)**":
 ---
