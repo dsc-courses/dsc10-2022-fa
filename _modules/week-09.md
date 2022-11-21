@@ -4,7 +4,7 @@
     days:
       - date: 2022-11-21
         events:
-          "**LEC 24**{: .label .label-lecture } Prediction and Correlation":
+          "**LEC 24**{: .label .label-lecture } [Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec24/lec24.ipynb) [✏️](resources/lectures/lec24/lec24.html)":
             "[CIT 15, 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
                 
           "**DIS 9**{: .label .label-disc } [The Normal Distribution and the CLT](https://practice.dsc10.com/disc09/index.html)":
