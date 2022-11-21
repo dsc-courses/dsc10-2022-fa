@@ -4,14 +4,14 @@
     days:
       - date: 2022-11-21
         events:
-          "**LEC 24**{: .label .label-lecture } Prediction and Correlation":
+          "**LEC 24**{: .label .label-lecture } [Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec24/lec24.ipynb) [✏️](resources/lectures/lec24/lec24.html)":
             "[CIT 15, 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
                 
           "**DIS 9**{: .label .label-disc } [The Normal Distribution and the CLT](https://practice.dsc10.com/disc09/index.html)":
       - date: 2022-11-22
         events:
           
-          "**HW 7**{: .label .label-hw } **Confidence Intervals, Normal Distributions, and the CLT**":
+          "**HW 7**{: .label .label-hw } **[Confidence Intervals, Normal Distributions, and the CLT](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw07/hw07.ipynb)**":
       - date: 2022-11-23
         events:
           "**LEC 25**{: .label .label-lecture } Regression and Least Squares":
@@ -23,5 +23,10 @@
           "No Lecture (Thanksgiving 🦃)":
       - date: 2022-11-26
         events:
+<<<<<<< HEAD
           "**Lab 8**{: .label .label-lab } **Regression**":
 ---
+=======
+          "**Lab 8**{: .label .label-lab } **[Regression](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=labs/lab08/lab08.ipynb)**":
+---
+>>>>>>> a337c534557cbf64f83d886f29f48c33a61ed02e
