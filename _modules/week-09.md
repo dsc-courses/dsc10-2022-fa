@@ -7,7 +7,7 @@
           "**LEC 24**{: .label .label-lecture } Prediction and Correlation":
             "[CIT 15, 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
                 
-          "**DIS 9**{: .label .label-disc } Normal Curve and CLT":
+          "**DIS 9**{: .label .label-disc } [The Normal Distribution and the CLT](https://practice.dsc10.com/disc09/index.html)":
       - date: 2022-11-22
         events:
           
