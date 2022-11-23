@@ -14,7 +14,7 @@
           "**HW 7**{: .label .label-hw } **[Confidence Intervals, Normal Distributions, and the CLT](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw07/hw07.ipynb)**":
       - date: 2022-11-23
         events:
-          "**LEC 25**{: .label .label-lecture } Regression and Least Squares":
+          "**LEC 25**{: .label .label-lecture } [Regression and Least Squares](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec25/lec25.ipynb) [✏️](resources/lectures/lec25/lec25.html)":
             "[CIT 15.2-15.4](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)"
                 
       - date: 2022-11-25
