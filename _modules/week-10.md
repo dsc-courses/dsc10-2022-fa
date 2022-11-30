@@ -14,10 +14,10 @@
           "**PROJ**{: .label .label-proj } **[Final Project](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=final_project/final_project.ipynb)**":
       - date: 2022-11-30
         events:
-          "**LEC 26**{: .label .label-lecture } Review":
+          "**LEC 26**{: .label .label-lecture } [Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec27/lec27.ipynb) (solutions posted after)":
       - date: 2022-12-2
         events:
-          "**LEC 27**{: .label .label-lecture } Review and Conclusion":
+          "**LEC 27**{: .label .label-lecture } Review, Conclusion":
       - date: 2022-12-3
         events:
           "**SUR**{: .label .label-survey } **[End of Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSeiZodx0wMHVxC-PfSGXu0mrI2R8XgS1RUzI-VZhZc9TbT3lA/viewform) + [CAPEs](https://cape.ucsd.edu) (due 8AM)**":
