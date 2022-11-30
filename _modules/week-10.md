@@ -14,7 +14,7 @@
           "**PROJ**{: .label .label-proj } **[Final Project](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=final_project/final_project.ipynb)**":
       - date: 2022-11-30
         events:
-          "**LEC 26**{: .label .label-lecture } [Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec27/lec27.ipynb) (solutions posted after)":
+          "**LEC 26**{: .label .label-lecture } [Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec27/lec27.ipynb) ([solutions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec27/lec27-solutions.ipynb)) [✏️](resources/lectures/lec27/lec27.html)":
       - date: 2022-12-2
         events:
           "**LEC 27**{: .label .label-lecture } Review, Conclusion":
