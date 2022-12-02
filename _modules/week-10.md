@@ -17,7 +17,7 @@
           "**LEC 26**{: .label .label-lecture } [Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec27/lec27.ipynb) ([solutions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec27/lec27-solutions.ipynb)) [✏️](resources/lectures/lec27/lec27.html)":
       - date: 2022-12-2
         events:
-          "**LEC 27**{: .label .label-lecture } Review, Conclusion":
+          "**LEC 27**{: .label .label-lecture } [Review, Conclusion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec28/lec28.ipynb) (solutions posted after lecture)":
       - date: 2022-12-3
         events:
           "**SUR**{: .label .label-survey } **[End of Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSeiZodx0wMHVxC-PfSGXu0mrI2R8XgS1RUzI-VZhZc9TbT3lA/viewform) + [CAPEs](https://cape.ucsd.edu) (due 8AM)**":
