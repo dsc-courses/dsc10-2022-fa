@@ -11,7 +11,7 @@
       - date: 2022-11-22
         events:
           
-          "**HW 7**{: .label .label-hw } **[Confidence Intervals, Normal Distributions, and the CLT](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw07/hw07.ipynb)**":
+          "**HW 7**{: .label .label-hw } Confidence Intervals, Normal Distributions, and the CLT":
       - date: 2022-11-23
         events:
           "**LEC 25**{: .label .label-lecture } [Regression and Least Squares](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec25/lec25.ipynb) [✏️](resources/lectures/lec25/lec25.html)":
@@ -23,5 +23,5 @@
           "No Lecture (Thanksgiving 🦃)":
       - date: 2022-11-26
         events:
-          "**Lab 8**{: .label .label-lab } **[Regression](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=labs/lab08/lab08.ipynb)**":
+          "**Lab 8**{: .label .label-lab } Regression":
 ---

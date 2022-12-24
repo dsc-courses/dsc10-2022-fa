@@ -11,7 +11,7 @@
       - date: 2022-11-15
         events:
           
-          "**HW 6**{: .label .label-hw } **[Permutation Testing, Percentiles, and Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw06/hw06.ipynb)**":
+          "**HW 6**{: .label .label-hw } Permutation Testing, Percentiles, and Bootstrapping":
       - date: 2022-11-16
         events:
           "**LEC 22**{: .label .label-lecture } [The Normal Distribution, The Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec22/lec22.ipynb) [✏️](resources/lectures/lec22/lec22.html)":
@@ -27,5 +27,5 @@
       - date: 2022-11-19
         events:
           
-          "**Lab 7**{: .label .label-lab } **[Center, Spread, and the Normal Distribution](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=labs/lab07/lab07.ipynb)**":
+          "**Lab 7**{: .label .label-lab } Center, Spread, and the Normal Distribution":
 ---

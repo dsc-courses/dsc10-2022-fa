@@ -11,7 +11,7 @@
       - date: 2022-10-18
         events:
           
-          "**HW 3**{: .label .label-hw } **[Data Visualization and Python Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw03/hw03.ipynb)**":
+          "**HW 3**{: .label .label-hw } Data Visualization and Python Functions":
       - date: 2022-10-19
         events:
           "**LEC 12**{: .label .label-lecture } [Probability](resources/lectures/lec12/lec12-solutions.html) ([blank slides](resources/lectures/lec12/lec12-blank.pdf), annotated slides: [A](resources/lectures/lec12/lec12-A00.pdf) • [B](resources/lectures/lec12/lec12-B00.pdf) • [C](resources/lectures/lec12/lec12-C00.pdf) • [D](resources/lectures/lec12/lec12-D00.pdf))":
@@ -25,5 +25,5 @@
       - date: 2022-10-22
         events:
           
-          "**Lab 4**{: .label .label-lab } **[DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=labs/lab04/lab04.ipynb)**":
+          "**Lab 4**{: .label .label-lab } DataFrames, Control Flow, and Probability":
 ---

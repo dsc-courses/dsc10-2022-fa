@@ -11,7 +11,7 @@
       - date: 2022-10-11
         events:
           
-          "**HW 2**{: .label .label-hw } **[Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=homeworks/hw02/hw02.ipynb)**":
+          "**HW 2**{: .label .label-hw } Arrays and DataFrames":
       - date: 2022-10-12
         events:
           "**LEC 9**{: .label .label-lecture } [Functions and Apply](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec09/lec09.ipynb) [✏️](resources/lectures/lec09/lec09.html)":
@@ -25,5 +25,5 @@
       - date: 2022-10-15
         events:
           
-          "**Lab 3**{: .label .label-lab } **[Data Visualization and Python Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=labs/lab03/lab03.ipynb)**":
+          "**Lab 3**{: .label .label-lab } Data Visualization and Python Functions":
 ---
