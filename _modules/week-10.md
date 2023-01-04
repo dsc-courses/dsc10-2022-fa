@@ -14,10 +14,10 @@
           "**PROJ**{: .label .label-proj } Final Project":
       - date: 2022-11-30
         events:
-          "**LEC 26**{: .label .label-lecture } [Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec27/lec27.ipynb) ([solutions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec27/lec27-solutions.ipynb)) [✏️](resources/lectures/lec27/lec27.html)":
+          "**LEC 27**{: .label .label-lecture } [Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec27/lec27.ipynb) ([solutions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec27/lec27-solutions.ipynb)) [✏️](resources/lectures/lec27/lec27.html)":
       - date: 2022-12-2
         events:
-          "**LEC 27**{: .label .label-lecture } [Review, Conclusion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec28/lec28.ipynb) (solutions posted after lecture)":
+          "**LEC 28**{: .label .label-lecture } [Review, Conclusion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-fa&subPath=lectures/lec28/lec28.ipynb) (solutions posted after lecture)":
       - date: 2022-12-3
         events:
           "**SUR**{: .label .label-survey } End of Quarter Survey + CAPEs (due 8AM)":
